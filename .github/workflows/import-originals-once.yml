@@ -1,0 +1,28 @@
+name: One-time source attachment import
+on:
+  push:
+    branches: [codex/archive-v0.1.0]
+    paths: ['.github/imports/manifest.json']
+permissions:
+  contents: write
+jobs:
+  import-originals:
+    if: github.repository == 'OrsonJyu/Research-and-Analysis-for-Design' && github.ref == 'refs/heads/codex/archive-v0.1.0'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: codex/archive-v0.1.0
+          fetch-depth: 0
+      - name: Restore known source files and remove this one-time importer
+        run: |
+          python3 scripts/restore_import.py
+          rm .github/workflows/import-originals-once.yml
+          python3 scripts/check_repository.py
+      - name: Save restored files only on the temporary import branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "archive: restore verified source originals and remove one-time importer [skip ci]"
+          git push origin HEAD:refs/heads/codex/archive-v0.1.0
