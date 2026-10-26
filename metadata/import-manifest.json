@@ -1,0 +1,1191 @@
+{
+  "schema_version": "1.0",
+  "import_date": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "records": [
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/README.md",
+      "repository_path": "archive/2026-09-21/memory/README.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "94d2c728f7dc83535b7813123acd67a4de5b7085fcebb005ebaa5f84c765df0d",
+      "bytes": 2814
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Memory_Pack/DECISION_LOG.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/DECISION_LOG.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "f759b59b173ffc259de17c4a9e8c920ffa5315175d59a1a1586a6068de8c715f",
+      "bytes": 3342
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "0dcfba2645fb5d3d8e6f42181bb075d409b5602930da1062ea3250c02e58d7b4",
+      "bytes": 5002
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Memory_Pack/PROJECT_MEMORY.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/PROJECT_MEMORY.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "13356713079a7a93dd28a8bc4349d80a5bb17e31a7cd4acdc87a793b2f100977",
+      "bytes": 14099
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Memory_Pack/README.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/README.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "09a14c5bb8b7ea1007887e0f960cc29c0637c2e80f6389570068ce7d2ce9652c",
+      "bytes": 2433
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Memory_Pack/SHA256SUMS.txt",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/SHA256SUMS.txt",
+      "status": "copied-preserving-original-layout",
+      "sha256": "5b61289c59b707b42a4c0f6aee6ac39406d7f3160bdafa3f14d70c24d949085e",
+      "bytes": 572
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Memory_Pack/proposals/Safari_SD5008_Research_Proposal_V3_English.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/proposals/Safari_SD5008_Research_Proposal_V3_English.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "16aaa22a140eed3351f7173b3aaa4045af6c2ede1e8c0c820fbcca9c6ccc9539",
+      "bytes": 27263
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Memory_Pack/proposals/Safari_SD5008_Research_Proposal_V3_中文.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/proposals/Safari_SD5008_Research_Proposal_V3_中文.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "586799dad9665e297d7c816ae901283cb64dfd4e3a4ebd9649d0ff15c359ff0f",
+      "bytes": 22487
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Research_Proposal_V3_English.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Research_Proposal_V3_English.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "16aaa22a140eed3351f7173b3aaa4045af6c2ede1e8c0c820fbcca9c6ccc9539",
+      "bytes": 27263
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_Research_Proposal_V3_中文.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_Research_Proposal_V3_中文.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "586799dad9665e297d7c816ae901283cb64dfd4e3a4ebd9649d0ff15c359ff0f",
+      "bytes": 22487
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "memory/Safari_SD5008_完整项目记忆.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_完整项目记忆.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "924843a6620b8b4c70d3bffab170d7e05e85ead1baea209f332544afa1fec5c8",
+      "bytes": 72480
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/memory/Safari_SD5008_项目记忆迁移包_2026-09-21.zip",
+      "repository_path": "deliverables/memory/Safari_SD5008_项目记忆迁移包_2026-09-21.zip",
+      "status": "copied-preserving-original-layout",
+      "sha256": "9395ae9db06448b3f6c34726fe850a92fb10c1bc0c76352de6488527760938c6",
+      "bytes": 66031
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/proposal/Safari_SD5008_Research_Proposal.docx",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal.docx",
+      "status": "copied-preserving-original-layout",
+      "sha256": "2d92674dffe209aa54e5770abcbca50d225b4096f070341a5de2d422ff1d9d2d",
+      "bytes": 44483
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/proposal/Safari_SD5008_Research_Proposal_V2.docx",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V2.docx",
+      "status": "copied-preserving-original-layout",
+      "sha256": "125a74f54343676e74dfb393a7e52e44d5bd47ede6d268a3ac851610db6f4b95",
+      "bytes": 49449
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/proposal/Safari_SD5008_Research_Proposal_V2.md",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V2.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "81565b0798788ff8edbb4df022c8dc82767567e9352f10c140365caae4ee21f6",
+      "bytes": 25847
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/proposal/Safari_SD5008_Research_Proposal_V3.docx",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V3.docx",
+      "status": "copied-preserving-original-layout",
+      "sha256": "3a90f22a90212766b9d6692243beb6484bc7eefdbc488fd426130b9a13d35205",
+      "bytes": 49684
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/proposal/Safari_SD5008_Research_Proposal_V3.md",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V3.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "16aaa22a140eed3351f7173b3aaa4045af6c2ede1e8c0c820fbcca9c6ccc9539",
+      "bytes": 27263
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/proposal/Safari_SD5008_Research_Proposal_V3_中文.md",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V3_中文.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "586799dad9665e297d7c816ae901283cb64dfd4e3a4ebd9649d0ff15c359ff0f",
+      "bytes": 22487
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "output/proposal/Safari_V2_修订说明与文献核验.md",
+      "repository_path": "deliverables/proposal/Safari_V2_修订说明与文献核验.md",
+      "status": "copied-preserving-original-layout",
+      "sha256": "0ac95f4e10059b2ae93d0a6f3cf9d3bcdfded4bf105101fc6d2dc8fa9628805e",
+      "bytes": 9410
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/README.md",
+      "repository_path": "references/literature/README.md",
+      "status": "copied",
+      "sha256": "0ce7c421c087647daedc074dc5031a0b20368fd7544948ad553e01c34fc73534",
+      "bytes": 4384
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/SD5008_navigation_background_papers.zip",
+      "repository_path": "references/literature/SD5008_navigation_background_papers.zip",
+      "status": "copied",
+      "sha256": "71f61ee3885d846658dc83a204d4a7753a7c2c73ed0788612bc8dc38219e2e02",
+      "bytes": 11956987
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/manifest.json",
+      "repository_path": "references/literature/manifest.json",
+      "status": "copied",
+      "sha256": "6e2a2bee74586688be09aaad6aefbf9ac53b07c8ec807dba99fe51261cfe6341",
+      "bytes": 4933
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/pdfs/01_Wickens_2008_Multiple_Resources_and_Mental_Workload.pdf",
+      "repository_path": "references/literature/pdfs/01_Wickens_2008_Multiple_Resources_and_Mental_Workload.pdf",
+      "status": "copied",
+      "sha256": "7510bd6ace6325b2d5eb607d7c6db35dc6a2fe595f31e6e60a21f7688efc775a",
+      "bytes": 81921
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/pdfs/02_Oulasvirta_2005_Interaction_in_4_Second_Bursts.pdf",
+      "repository_path": "references/literature/pdfs/02_Oulasvirta_2005_Interaction_in_4_Second_Bursts.pdf",
+      "status": "copied",
+      "sha256": "204d525617cd9cf99e6e6b64a0fe2eadfced8bd4aaa14f49a8a3c723008dace8",
+      "bytes": 583691
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/pdfs/03_Cheng_2023_Cognitive_Load_Mobile_Map_Navigation.pdf",
+      "repository_path": "references/literature/pdfs/03_Cheng_2023_Cognitive_Load_Mobile_Map_Navigation.pdf",
+      "status": "copied",
+      "sha256": "706f85cedb51d3e42edbfebfa1f9275439d38f95496407bf96c646b0c43e59e9",
+      "bytes": 2554658
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/pdfs/05_Shimokihara_2025_Smartphone_Glances_Navigation.pdf",
+      "repository_path": "references/literature/pdfs/05_Shimokihara_2025_Smartphone_Glances_Navigation.pdf",
+      "status": "copied",
+      "sha256": "790cc40fe01ec010dd79b51c83568e948ec6cc2b1a5c5fa7805a20e7de6a4579",
+      "bytes": 537323
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/pdfs/06_Pielot_2012_PocketNavigator.pdf",
+      "repository_path": "references/literature/pdfs/06_Pielot_2012_PocketNavigator.pdf",
+      "status": "copied",
+      "sha256": "d0f215af0b32143c0bb6914ba2695983a2493f9a3aa0dfe8d77f5a0710624558",
+      "bytes": 2574489
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/pdfs/07_Brugger_2019_Navigation_System_Behavior.pdf",
+      "repository_path": "references/literature/pdfs/07_Brugger_2019_Navigation_System_Behavior.pdf",
+      "status": "copied",
+      "sha256": "f2c33c580767f1ff1db80374cc28395a3378f1150d29b4439aedd779e37ad7d4",
+      "bytes": 5917396
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "literature/pdfs/09_Wobbrock_2019_Situationally_Induced_Impairments.pdf",
+      "repository_path": "references/literature/pdfs/09_Wobbrock_2019_Situationally_Induced_Impairments.pdf",
+      "status": "copied",
+      "sha256": "701a6d6cc04df0202a62dcfe3b2b692d0521fa2420e3c6b6a5dd435cc4cec453",
+      "bytes": 1008926
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/01_CHECKLIST FOR RESEARCH PROPOSAL.pdf",
+      "repository_path": "references/project-sources/01_CHECKLIST FOR RESEARCH PROPOSAL.pdf",
+      "status": "copied",
+      "sha256": "840329c10d90df37c9d00ef9e15431eb3f165785314a2566d0202ed295f2bd18",
+      "bytes": 143062
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/01_Wickens_2008_Multiple_Resources_and_Mental_Workload.pdf",
+      "repository_path": "references/literature/pdfs/01_Wickens_2008_Multiple_Resources_and_Mental_Workload.pdf",
+      "status": "deduplicated",
+      "sha256": "7510bd6ace6325b2d5eb607d7c6db35dc6a2fe595f31e6e60a21f7688efc775a",
+      "bytes": 81921
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/02_Oulasvirta_2005_Interaction_in_4_Second_Bursts.pdf",
+      "repository_path": "references/literature/pdfs/02_Oulasvirta_2005_Interaction_in_4_Second_Bursts.pdf",
+      "status": "deduplicated",
+      "sha256": "204d525617cd9cf99e6e6b64a0fe2eadfced8bd4aaa14f49a8a3c723008dace8",
+      "bytes": 583691
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/03_Cheng_2023_Cognitive_Load_Mobile_Map_Navigation.pdf",
+      "repository_path": "references/literature/pdfs/03_Cheng_2023_Cognitive_Load_Mobile_Map_Navigation.pdf",
+      "status": "deduplicated",
+      "sha256": "706f85cedb51d3e42edbfebfa1f9275439d38f95496407bf96c646b0c43e59e9",
+      "bytes": 2554658
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/05_Shimokihara_2025_Smartphone_Glances_Navigation.pdf",
+      "repository_path": "references/literature/pdfs/05_Shimokihara_2025_Smartphone_Glances_Navigation.pdf",
+      "status": "deduplicated",
+      "sha256": "790cc40fe01ec010dd79b51c83568e948ec6cc2b1a5c5fa7805a20e7de6a4579",
+      "bytes": 537323
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/06_Pielot_2012_PocketNavigator.pdf",
+      "repository_path": "references/literature/pdfs/06_Pielot_2012_PocketNavigator.pdf",
+      "status": "deduplicated",
+      "sha256": "d0f215af0b32143c0bb6914ba2695983a2493f9a3aa0dfe8d77f5a0710624558",
+      "bytes": 2574489
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/07_Brugger_2019_Navigation_System_Behavior.pdf",
+      "repository_path": "references/literature/pdfs/07_Brugger_2019_Navigation_System_Behavior.pdf",
+      "status": "deduplicated",
+      "sha256": "f2c33c580767f1ff1db80374cc28395a3378f1150d29b4439aedd779e37ad7d4",
+      "bytes": 5917396
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/09_Wobbrock_2019_Situationally_Induced_Impairments.pdf",
+      "repository_path": "references/literature/pdfs/09_Wobbrock_2019_Situationally_Induced_Impairments.pdf",
+      "status": "deduplicated",
+      "sha256": "701a6d6cc04df0202a62dcfe3b2b692d0521fa2420e3c6b6a5dd435cc4cec453",
+      "bytes": 1008926
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/2026-09-12_SD5008_group-research-outline(1).docx",
+      "repository_path": "references/project-sources/2026-09-12_SD5008_group-research-outline(1).docx",
+      "status": "copied",
+      "sha256": "8f48616c7be9e72e2ad842920dd5f0a496b131b9b4247b8d947c49b0b163e47c",
+      "bytes": 35368
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/2026-09-12_SD5008_teacher-discussion_group-share(1).docx",
+      "repository_path": "references/project-sources/2026-09-12_SD5008_teacher-discussion_group-share(1).docx",
+      "status": "copied",
+      "sha256": "cfb7f9d462c5977ccf2a98890b3b754741e5278f978341bb3336855fad52d258",
+      "bytes": 41839
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/SAMPLE_research proposal_01.pdf",
+      "repository_path": "references/project-sources/SAMPLE_research proposal_01.pdf",
+      "status": "copied",
+      "sha256": "0e47303cdb4e64136ea7baba16b3cb42f6de216255ebffabe4169ccba831dac6",
+      "bytes": 286228
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/SAMPLE_research proposal_02.pdf",
+      "repository_path": "references/project-sources/SAMPLE_research proposal_02.pdf",
+      "status": "copied",
+      "sha256": "2a4aef1a7106662fa5547f88b8cc4738ec37a30f2e751f600532cc15a915f7d6",
+      "bytes": 135432
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/SAMPLE_research proposal_03.pdf",
+      "repository_path": "references/project-sources/SAMPLE_research proposal_03.pdf",
+      "status": "copied",
+      "sha256": "c046b7a2e11dd975e1c936f824fb032fb65222e9c28270fe8e68a19885b59817",
+      "bytes": 103260
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/SD5008_Research and Analysis for Design (TBC).pdf",
+      "repository_path": "references/project-sources/SD5008_Research and Analysis for Design (TBC).pdf",
+      "status": "copied",
+      "sha256": "2563194bd353346b04bfe9a9f2bbee7fad4777607087c093cea74ac319e20e8b",
+      "bytes": 118557
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/consent_form.doc",
+      "repository_path": "references/project-sources/consent_form.doc",
+      "status": "copied",
+      "sha256": "82713e8085a688d5a1ad19494777a5121f881c412e09085730151a564c24a350",
+      "bytes": 199680
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "sources/information_sheet.doc",
+      "repository_path": "references/project-sources/information_sheet.doc",
+      "status": "copied",
+      "sha256": "a043f90c9fbbae35dc2a51c47ce227c462e136d6ba0384496b9e6037848a6598",
+      "bytes": 233984
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "01_CHECKLIST FOR RESEARCH PROPOSAL.pdf",
+      "repository_path": "references/project-sources/01_CHECKLIST FOR RESEARCH PROPOSAL.pdf",
+      "status": "deduplicated",
+      "sha256": "840329c10d90df37c9d00ef9e15431eb3f165785314a2566d0202ed295f2bd18",
+      "bytes": 143062
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "2026-09-12_SD5008_group-research-outline(1).docx",
+      "repository_path": "references/project-sources/2026-09-12_SD5008_group-research-outline(1).docx",
+      "status": "deduplicated",
+      "sha256": "8f48616c7be9e72e2ad842920dd5f0a496b131b9b4247b8d947c49b0b163e47c",
+      "bytes": 35368
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "2026-09-12_SD5008_teacher-discussion_group-share(1).docx",
+      "repository_path": "references/project-sources/2026-09-12_SD5008_teacher-discussion_group-share(1).docx",
+      "status": "deduplicated",
+      "sha256": "cfb7f9d462c5977ccf2a98890b3b754741e5278f978341bb3336855fad52d258",
+      "bytes": 41839
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "Course brief_SD5008.pdf",
+      "repository_path": "references/course/Course brief_SD5008.pdf",
+      "status": "copied",
+      "sha256": "e6e956cf698cba4f83d5ddc13632f00dd746bddc8f604256910ffb94e2f63206",
+      "bytes": 308137
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "SAMPLE_research proposal_01.pdf",
+      "repository_path": "references/project-sources/SAMPLE_research proposal_01.pdf",
+      "status": "deduplicated",
+      "sha256": "0e47303cdb4e64136ea7baba16b3cb42f6de216255ebffabe4169ccba831dac6",
+      "bytes": 286228
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "SAMPLE_research proposal_02.pdf",
+      "repository_path": "references/project-sources/SAMPLE_research proposal_02.pdf",
+      "status": "deduplicated",
+      "sha256": "2a4aef1a7106662fa5547f88b8cc4738ec37a30f2e751f600532cc15a915f7d6",
+      "bytes": 135432
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "SAMPLE_research proposal_03.pdf",
+      "repository_path": "references/project-sources/SAMPLE_research proposal_03.pdf",
+      "status": "deduplicated",
+      "sha256": "c046b7a2e11dd975e1c936f824fb032fb65222e9c28270fe8e68a19885b59817",
+      "bytes": 103260
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "SD5008_Safari_Script_Slides_01_to_10.pages",
+      "repository_path": "deliverables/presentations/presentation-02/SD5008_Safari_Script_Slides_01_to_10.pages",
+      "status": "copied",
+      "sha256": "ef144fec1425a39974c61704fc49c4f9bff47e6112c4c59be6f3bdfec1731954",
+      "bytes": 863200
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "SD5008_navigation_background_papers.zip",
+      "repository_path": "references/literature/SD5008_navigation_background_papers.zip",
+      "status": "deduplicated",
+      "sha256": "71f61ee3885d846658dc83a204d4a7753a7c2c73ed0788612bc8dc38219e2e02",
+      "bytes": 11956987
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "Safari_SD5008_Research_Proposal.docx",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal.docx",
+      "status": "deduplicated",
+      "sha256": "2d92674dffe209aa54e5770abcbca50d225b4096f070341a5de2d422ff1d9d2d",
+      "bytes": 44483
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "Safari_SD5008_Research_Proposal_V2.docx",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V2.docx",
+      "status": "deduplicated",
+      "sha256": "125a74f54343676e74dfb393a7e52e44d5bd47ede6d268a3ac851610db6f4b95",
+      "bytes": 49449
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "Safari_SD5008_Research_Proposal_V3.docx",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V3.docx",
+      "status": "deduplicated",
+      "sha256": "3a90f22a90212766b9d6692243beb6484bc7eefdbc488fd426130b9a13d35205",
+      "bytes": 49684
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "Safari_SD5008_完整项目记忆.md",
+      "repository_path": "archive/2026-09-21/memory/Safari_SD5008_完整项目记忆.md",
+      "status": "deduplicated",
+      "sha256": "924843a6620b8b4c70d3bffab170d7e05e85ead1baea209f332544afa1fec5c8",
+      "bytes": 72480
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "Safari_SD5008_项目记忆迁移包_2026-09-21.zip",
+      "repository_path": "deliverables/memory/Safari_SD5008_项目记忆迁移包_2026-09-21.zip",
+      "status": "deduplicated",
+      "sha256": "9395ae9db06448b3f6c34726fe850a92fb10c1bc0c76352de6488527760938c6",
+      "bytes": 66031
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "W01_lecture.pdf",
+      "repository_path": "references/course/W01_lecture.pdf",
+      "status": "copied",
+      "sha256": "3ff236febee616240cb1d2a24255f7637fa9e638a56fcdb768596a93e6cb0adb",
+      "bytes": 4572781
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "W02_lecture.pdf",
+      "repository_path": "references/course/W02_lecture.pdf",
+      "status": "copied",
+      "sha256": "e21d8dac624644e9f1a3118060e35a3ff5a6243f0346d41e56de9da54b699a38",
+      "bytes": 19821041
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "W03_lecture.pdf",
+      "repository_path": "references/course/W03_lecture.pdf",
+      "status": "copied",
+      "sha256": "c265b9dc62a3a489d3efd0410a4d889c8d2b7f4918bf68a17b7b71315bd1a9a9",
+      "bytes": 5389461
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "consent_form.doc",
+      "repository_path": "references/project-sources/consent_form.doc",
+      "status": "deduplicated",
+      "sha256": "82713e8085a688d5a1ad19494777a5121f881c412e09085730151a564c24a350",
+      "bytes": 199680
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "information_sheet.doc",
+      "repository_path": "references/project-sources/information_sheet.doc",
+      "status": "deduplicated",
+      "sha256": "a043f90c9fbbae35dc2a51c47ce227c462e136d6ba0384496b9e6037848a6598",
+      "bytes": 233984
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-1.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-1.png",
+      "status": "copied",
+      "sha256": "9061f40507833d33822ff9081b84c3958e48bfe52a9028606856c1132ca82368",
+      "bytes": 231178
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-10.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-10.png",
+      "status": "copied",
+      "sha256": "dd002d7d75f4f410b49693c89375750d8029f8f0f8d1811050fda444e98f3e7a",
+      "bytes": 3224030
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-11.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-11.png",
+      "status": "copied",
+      "sha256": "afd41a3ec34517de9054fd6ef4db9e6fb4cdce987b227edfe990b51d78a9baf8",
+      "bytes": 3896434
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-12.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-12.png",
+      "status": "copied",
+      "sha256": "1982964ed945cbec0af75cfedd31f609ba3b7b155bedbc026f27a4706ae6e029",
+      "bytes": 2756959
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-13.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-13.png",
+      "status": "copied",
+      "sha256": "bab387e4f8f2ae6f49024a2e38e5429705992b341f9ea93409bb6f333afcf928",
+      "bytes": 286011
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-14.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-14.png",
+      "status": "copied",
+      "sha256": "955eb4c9a23a684831190e8144b3bb99861eab47a3acd1ac124d9efe6e5e1aff",
+      "bytes": 252408
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-15.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-15.png",
+      "status": "copied",
+      "sha256": "706eda22e828449a9cbf5a650186c03e91ec963568fe39868fe8e684ef233357",
+      "bytes": 306265
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-16.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-16.png",
+      "status": "copied",
+      "sha256": "c188de8334dc72bbd0a49ecc0c296d3242fe79aa7345d9a3f9bd9f4a0c56c7ff",
+      "bytes": 892107
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-17.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-17.png",
+      "status": "copied",
+      "sha256": "e6d283f30bb41d28aeae27bc78acd9c5b27a1baaf8462fb52023d113d932cd01",
+      "bytes": 298326
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-18.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-18.png",
+      "status": "copied",
+      "sha256": "381de6a2480deed45d0231578c75f57e061979ec86726f81ed64b8f2820cc5bb",
+      "bytes": 281287
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-19.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-19.png",
+      "status": "copied",
+      "sha256": "427d48ef6ff870c3701aba3910ebe66bab508f0467a81c02036b11e4ab03aa00",
+      "bytes": 1568874
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-2.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-2.png",
+      "status": "copied",
+      "sha256": "8d84e4bf89866dffa350745788db8418b3d75bafb0025a010173d1f09c841314",
+      "bytes": 376691
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-20.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-20.png",
+      "status": "copied",
+      "sha256": "eab95d8f012250fac73793e47e91fbd8b0a0d6361a480c16ca33523b044a6d10",
+      "bytes": 323947
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-21.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-21.png",
+      "status": "copied",
+      "sha256": "832f8d85ce9e5e9eee3d723aee2832a1691daf8f530c54f1ffbe9a32ff9a921c",
+      "bytes": 222994
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-22.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-22.png",
+      "status": "copied",
+      "sha256": "297cb874445cf708685fcabb8b0322a2e8bfc809df53aba11123b3111b9671a1",
+      "bytes": 282228
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-23.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-23.png",
+      "status": "copied",
+      "sha256": "5369fb1ec07261069e47432ab6371fb85c28a006cc08aed8ff4a63240e2cec29",
+      "bytes": 271491
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-24.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-24.png",
+      "status": "copied",
+      "sha256": "5517e8ad6c9aff671ef080d0efdb27d34e1d102eade4c94660dafbaad5c81d59",
+      "bytes": 1721685
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-25.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-25.png",
+      "status": "copied",
+      "sha256": "4458c1e44b5d185724be2a495a6f802efd6e1009d67149ea6b2ddf8017e7c2de",
+      "bytes": 270087
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-26.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-26.png",
+      "status": "copied",
+      "sha256": "103c4bfa65536e29d50d88940ee614bfdd98ab6f5deadc5f85b74e38457d9c42",
+      "bytes": 250980
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-27.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-27.png",
+      "status": "copied",
+      "sha256": "e01035acc3e7605fd29c52da35889a486550181619febf83e246b91e76bfd3f0",
+      "bytes": 288963
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-28.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-28.png",
+      "status": "copied",
+      "sha256": "ee0334527eaa74ee38e50bb457cd5092019b72ec789143f35d233125a6296e05",
+      "bytes": 280792
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-29.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-29.png",
+      "status": "copied",
+      "sha256": "04e06b20056636bfa3d6294b12a4d3c18ba086f654718726fc4cca080baf3a3a",
+      "bytes": 273572
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-3.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-3.png",
+      "status": "copied",
+      "sha256": "7189c5afb9d5a3bc800508f85efcede07b21503a3e557a4bc4c2ff04e11346f7",
+      "bytes": 286379
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-30.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-30.png",
+      "status": "copied",
+      "sha256": "530a6df78b78453e7d60b7c1924f2b638579657cb1106039a7c703bf0598041e",
+      "bytes": 282646
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-31.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-31.png",
+      "status": "copied",
+      "sha256": "063338591a7576d55dd2378148add5361415bc8be595181f5999674c956a618a",
+      "bytes": 389878
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-32.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-32.png",
+      "status": "copied",
+      "sha256": "f040cb5cdc634ff8bde927b63803873504dc8eeccae70aef0552e56a56fee174",
+      "bytes": 385849
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-33.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-33.png",
+      "status": "copied",
+      "sha256": "8fc5bec207747a76073350ea37bc2b4ca9b3a9aef00c9053f523f5a50edaf6eb",
+      "bytes": 349585
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-34.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-34.png",
+      "status": "copied",
+      "sha256": "b41c7085607684ef3af10ecc6622b581b8cc110733c7365aa106accb274784a1",
+      "bytes": 371169
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-35.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-35.png",
+      "status": "copied",
+      "sha256": "1f9238450197164c0f9606a743b690964d8eb858b4804154f7913230d16b322a",
+      "bytes": 210754
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-4.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-4.png",
+      "status": "copied",
+      "sha256": "33e24777746b4cd2862b07e93ad5f93f91d3bf93ba327ebe2d4d9d3e7caabccc",
+      "bytes": 276458
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-5.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-5.png",
+      "status": "copied",
+      "sha256": "ea5e8da8cce8010838d59319e86cc2f7fb6a36a854fba4ad5e1c161646f1f6f0",
+      "bytes": 286350
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-6.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-6.png",
+      "status": "copied",
+      "sha256": "201ef6164961cfa1d8db0275a3e617b1154981ccff45357ba6e46bd4009b6ca3",
+      "bytes": 161160
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-7.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-7.png",
+      "status": "copied",
+      "sha256": "0fef216cfd279684c5acd420011c42d4fb8c59c9ed4723111b603bee35584a9b",
+      "bytes": 285464
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-8.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-8.png",
+      "status": "copied",
+      "sha256": "eb483cf9ce3ba5d502ad74afca3d01868507348d94302e3c4d7638354b59d3d5",
+      "bytes": 305371
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1-9.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1-9.png",
+      "status": "copied",
+      "sha256": "432acd82734bcd91165e38ac7c8bf6c96d860ccb2efac4ed28d83fbdfbf8e8f2",
+      "bytes": 1088511
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/Group 1.png",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/Group 1.png",
+      "status": "copied",
+      "sha256": "52abb337ba9fe8df8dfdbe252efa24ff1127e8123ef3a24d235a4641c5bc3306",
+      "bytes": 5282977
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdf-pre/ISD_safari_presentation2.pdf",
+      "repository_path": "deliverables/presentations/presentation-02/local-export/ISD_safari_presentation2.pdf",
+      "status": "copied",
+      "sha256": "5af3f8e0319af9ffe05799e9d15e1ba8993cfe9b6d87ec1155c3cdce62d6f8aa",
+      "bytes": 24828209
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdfs/01_Wickens_2008_Multiple_Resources_and_Mental_Workload.pdf",
+      "repository_path": "references/literature/pdfs/01_Wickens_2008_Multiple_Resources_and_Mental_Workload.pdf",
+      "status": "deduplicated",
+      "sha256": "7510bd6ace6325b2d5eb607d7c6db35dc6a2fe595f31e6e60a21f7688efc775a",
+      "bytes": 81921
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdfs/02_Oulasvirta_2005_Interaction_in_4_Second_Bursts.pdf",
+      "repository_path": "references/literature/pdfs/02_Oulasvirta_2005_Interaction_in_4_Second_Bursts.pdf",
+      "status": "deduplicated",
+      "sha256": "204d525617cd9cf99e6e6b64a0fe2eadfced8bd4aaa14f49a8a3c723008dace8",
+      "bytes": 583691
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdfs/03_Cheng_2023_Cognitive_Load_Mobile_Map_Navigation.pdf",
+      "repository_path": "references/literature/pdfs/03_Cheng_2023_Cognitive_Load_Mobile_Map_Navigation.pdf",
+      "status": "deduplicated",
+      "sha256": "706f85cedb51d3e42edbfebfa1f9275439d38f95496407bf96c646b0c43e59e9",
+      "bytes": 2554658
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdfs/05_Shimokihara_2025_Smartphone_Glances_Navigation.pdf",
+      "repository_path": "references/literature/pdfs/05_Shimokihara_2025_Smartphone_Glances_Navigation.pdf",
+      "status": "deduplicated",
+      "sha256": "790cc40fe01ec010dd79b51c83568e948ec6cc2b1a5c5fa7805a20e7de6a4579",
+      "bytes": 537323
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdfs/06_Pielot_2012_PocketNavigator.pdf",
+      "repository_path": "references/literature/pdfs/06_Pielot_2012_PocketNavigator.pdf",
+      "status": "deduplicated",
+      "sha256": "d0f215af0b32143c0bb6914ba2695983a2493f9a3aa0dfe8d77f5a0710624558",
+      "bytes": 2574489
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdfs/07_Brugger_2019_Navigation_System_Behavior.pdf",
+      "repository_path": "references/literature/pdfs/07_Brugger_2019_Navigation_System_Behavior.pdf",
+      "status": "deduplicated",
+      "sha256": "f2c33c580767f1ff1db80374cc28395a3378f1150d29b4439aedd779e37ad7d4",
+      "bytes": 5917396
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "pdfs/09_Wobbrock_2019_Situationally_Induced_Impairments.pdf",
+      "repository_path": "references/literature/pdfs/09_Wobbrock_2019_Situationally_Induced_Impairments.pdf",
+      "status": "deduplicated",
+      "sha256": "701a6d6cc04df0202a62dcfe3b2b692d0521fa2420e3c6b6a5dd435cc4cec453",
+      "bytes": 1008926
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/Safari_SD5008_Research_Presentation.pptx",
+      "repository_path": "deliverables/course-working-files/Safari_SD5008_Research_Presentation.pptx",
+      "status": "copied",
+      "sha256": "9995fdea54bdca39b70092caf600304906970ea3ca54ed38af9c728802e7e83e",
+      "bytes": 1861118
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/Safari_SD5008_Research_Proposal.docx",
+      "repository_path": "deliverables/course-working-files/Safari_SD5008_Research_Proposal.docx",
+      "status": "copied",
+      "sha256": "8f183f99e76e29112623bbe84abc4a7ea697433efe27d8e024498a24152e3057",
+      "bytes": 44279
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/Safari_SD5008_Research_Proposal.pdf",
+      "repository_path": "deliverables/course-working-files/Safari_SD5008_Research_Proposal.pdf",
+      "status": "copied",
+      "sha256": "10c002a4cbe2901edd0c1cab5e71f34821e0801a64094ca95439cd5d3cca7f4f",
+      "bytes": 178176
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/consent_form_Safari.doc",
+      "repository_path": "deliverables/course-working-files/consent_form_Safari.doc",
+      "status": "copied",
+      "sha256": "f675f76a393737c460d303470751726d31348e14ed3edf222e5393cfefec17ad",
+      "bytes": 78848
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/consent_form_Safari_Backup.doc",
+      "repository_path": "deliverables/course-working-files/consent_form_Safari_Backup.doc",
+      "status": "copied",
+      "sha256": "a0a0bc795d4dbf3bdcc3f7b6f863b25a63dc3e262112be0e749ff28a34a7ae80",
+      "bytes": 193536
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/information_sheet_Safari.doc",
+      "repository_path": "deliverables/course-working-files/information_sheet_Safari.doc",
+      "status": "copied",
+      "sha256": "fea85476ae8d3d85f491af8bbfcc6b524a9376a3a1147d511db5c0ae8f8bf424",
+      "bytes": 177664
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/information_sheet_Safari_Backup.doc",
+      "repository_path": "deliverables/course-working-files/information_sheet_Safari_Backup.doc",
+      "status": "copied",
+      "sha256": "b7b099458fcb25c346b0fa3f73a78aa4dc56f57674734c76f70bcd21eb6b5c05",
+      "bytes": 193536
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/information_sheet_Safari_无斜体.doc",
+      "repository_path": "deliverables/course-working-files/information_sheet_Safari_无斜体.doc",
+      "status": "copied",
+      "sha256": "51e20ec6c3203f90637f8e687b877523096ccac9ecfd7efc425f09a5d80fe173",
+      "bytes": 192512
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/Ways of knowing in HCI.pdf",
+      "repository_path": "references/methods-books/Ways of knowing in HCI.pdf",
+      "status": "copied",
+      "sha256": "d8043bef76ce2d1cacf0b24172070cf9b1fa6342e36ef6899d82c5d40048008f",
+      "bytes": 7482040
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/About-the-Authors_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/About-the-Authors_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "7d1c97140192b47e50e0ffcdb105935020ad888971ee0dea1c15a526bf8db5f1",
+      "bytes": 58153
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Acknowledgments_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Acknowledgments_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "247048e3da624abf1dfdce662d04359a7e4cf6ca1754f43aa6f94103e1ae96fc",
+      "bytes": 43812
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-1---Introduction-to-HCI-r_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-1---Introduction-to-HCI-r_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "status": "copied",
+      "sha256": "610b29d094f5d1e805f28a619c3b3f2fed132ebc6d14fcf7c1f2e51179fef1d0",
+      "bytes": 224402
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-10---Usability-testi_2017_Research-Methods-in-Human-Computer-Interac.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-10---Usability-testi_2017_Research-Methods-in-Human-Computer-Interac.pdf",
+      "status": "copied",
+      "sha256": "c682c72a084465b886224e483fa72ac574961e34c8d54f0293f4ae194d729de9",
+      "bytes": 2216649
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-11---Analyzing-qualitativ_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-11---Analyzing-qualitativ_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "status": "copied",
+      "sha256": "76888a0f53f1dfb188d90e6d5884d3de4e8e641d59f3e8f72c2a2a5edf9da8fd",
+      "bytes": 387069
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-12---Automated-data-collect_2017_Research-Methods-in-Human-Computer-.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-12---Automated-data-collect_2017_Research-Methods-in-Human-Computer-.pdf",
+      "status": "copied",
+      "sha256": "d02c14cf4d1b28142bd2bd45cbdc21aa2bb4ac91040a38bf3e506152e63c03d3",
+      "bytes": 2927412
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-13---Measuring-the-hu_2017_Research-Methods-in-Human-Computer-Intera.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-13---Measuring-the-hu_2017_Research-Methods-in-Human-Computer-Intera.pdf",
+      "status": "copied",
+      "sha256": "065fd0389381bca1fab0284a0153b7b80125853cbba156c248c8619bcdb3e35a",
+      "bytes": 4882936
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-14---Online-and-ubiquitous-H_2017_Research-Methods-in-Human-Computer.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-14---Online-and-ubiquitous-H_2017_Research-Methods-in-Human-Computer.pdf",
+      "status": "copied",
+      "sha256": "975cd88c1f9700e0ada61faf00019d4336066678023c270de3e49fd637e9c268",
+      "bytes": 2395872
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-15---Working-with-human-s_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-15---Working-with-human-s_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "status": "copied",
+      "sha256": "2ec4951bf47d21c6990b416130ac9efdf61b8e4d31edad36c764c6dcc687376a",
+      "bytes": 356015
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-16---Working-with-research-partic_2017_Research-Methods-in-Human-Com.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-16---Working-with-research-partic_2017_Research-Methods-in-Human-Com.pdf",
+      "status": "copied",
+      "sha256": "d88da1f8d0e70e10ebc94df6208186c81d0ee41a9bf4e4d79d2e96c2e2c40ced",
+      "bytes": 291842
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf",
+      "status": "copied",
+      "sha256": "8412cf05778189253519945bc8afb9740511ad788c48be3c4475a0a99c8f30d6",
+      "bytes": 218604
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-3---Experimental-desi_2017_Research-Methods-in-Human-Computer-Intera.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-3---Experimental-desi_2017_Research-Methods-in-Human-Computer-Intera.pdf",
+      "status": "copied",
+      "sha256": "2b4ef74bc5a3742ea953a3fcc8245e786cb0f81656cf32d860a7d03f01766f76",
+      "bytes": 263875
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-4---Statistical-analy_2017_Research-Methods-in-Human-Computer-Intera.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-4---Statistical-analy_2017_Research-Methods-in-Human-Computer-Intera.pdf",
+      "status": "copied",
+      "sha256": "ec9d3a80ff37a64081683f200a359a076570531502714be348e582e9964f7185",
+      "bytes": 321941
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-5---Surveys_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-5---Surveys_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "9979f8f30622a9ca49f4cb839df47bc8908a00f725db2049838b8ccd764dff09",
+      "bytes": 309779
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-6---Diaries_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-6---Diaries_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "dc3426fd73953ccc2e1ac332b93630a413b111ccd92ee0de44174858ed1fb24b",
+      "bytes": 178491
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-7---Case-studies_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-7---Case-studies_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "136be6f9cb928ee6b4f0b2203ff4d976647eec612d3b391e94985c1112684357",
+      "bytes": 1143823
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-8---Interviews-and-focus-_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-8---Interviews-and-focus-_2017_Research-Methods-in-Human-Computer-In.pdf",
+      "status": "copied",
+      "sha256": "4eee2ad030dd2bca039ed0700080e8d321d95b7f50831a5df7a18687712e639a",
+      "bytes": 1254591
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Chapter-9---Ethnography_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Chapter-9---Ethnography_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "b6ba9e8b119842c8c3169f6d87da2bf05a900f33d3852a6623462298d1b9a4af",
+      "bytes": 279101
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Copyright_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Copyright_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "9f9467e599111da21c5eebb569604f9729a2420aa69fe91adfd833b74749b8fe",
+      "bytes": 158300
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Critical-Acclaim-for-Research-Methods-in-Human_2017_Research-Methods-in-Huma.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Critical-Acclaim-for-Research-Methods-in-Human_2017_Research-Methods-in-Huma.pdf",
+      "status": "copied",
+      "sha256": "2f88f8777ce9b9d60176edae7280d5330129e9e9666a85c0c5df17f75ce9b5ca",
+      "bytes": 73639
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Foreword_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Foreword_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "2d0620d47dd16fe71e34cc583153440f72e836b69127b53081ef6ad99551537e",
+      "bytes": 47810
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Front-Matter_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Front-Matter_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "ed8be18d1843db83c02dc4102a40e1f637837c04cb1e461897c902e240abf670",
+      "bytes": 129413
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Index_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Index_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "11c19a160099399f3f64241c1c9cb013094a2c1e4efbf4f6c0ea35379bda82eb",
+      "bytes": 349789
+    },
+    {
+      "source_collection": "local-course-folder",
+      "source_path": "research proposal/reference books/research_methods_in_human_computer_interaction/Preface_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "repository_path": "references/methods-books/research_methods_in_human_computer_interaction/Preface_2017_Research-Methods-in-Human-Computer-Interaction.pdf",
+      "status": "copied",
+      "sha256": "62b307e094c210672486dd8ad57ca9477ee2362869ad5466c3212d39427a5b31",
+      "bytes": 48357
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "tmp/proposal/final/Safari_SD5008_Research_Proposal.pdf",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal.pdf",
+      "status": "copied",
+      "sha256": "9dbfd5cb57e69e5e2717bc3303e2abd00d9810ee3038508fa6a83d597266f1b7",
+      "bytes": 108673
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "tmp/proposal_v2/final/Safari_SD5008_Research_Proposal_V2.pdf",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V2.pdf",
+      "status": "copied",
+      "sha256": "71c49e1b3e3b9574776c70f8a64015f6d78ef5a1f6ec6f18283aa2e7addccf32",
+      "bytes": 161550
+    },
+    {
+      "source_collection": "project-mirror",
+      "source_path": "tmp/proposal_v3/final/Safari_SD5008_Research_Proposal_V3.pdf",
+      "repository_path": "deliverables/proposal/Safari_SD5008_Research_Proposal_V3.pdf",
+      "status": "copied",
+      "sha256": "15161be4a4cec2cc71679e8a623e2a41c308de743db2e981d9616637887efacc",
+      "bytes": 156570
+    },
+    {
+      "source_collection": "user-supplied-2026-10-26",
+      "source_path": "Safari_Extended_Route_Manual_CN_v3(1).docx",
+      "repository_path": "deliverables/fieldwork/extended-route-v3/Safari_Extended_Route_Manual_CN_v3(1).docx",
+      "status": "copied",
+      "sha256": "83ac7bccd5dfd895cadb0534b3977d96d7f7335580500a6a62472c64529d41f3",
+      "bytes": 42402
+    },
+    {
+      "source_collection": "user-supplied-2026-10-26",
+      "source_path": "Safari_Extended_Route_Record_Form_CN_v3(1).docx",
+      "repository_path": "deliverables/fieldwork/extended-route-v3/Safari_Extended_Route_Record_Form_CN_v3(1).docx",
+      "status": "copied",
+      "sha256": "bad41cf583c29ecf8071e35c593a65dfc88c4ce2ad512838e8af3b1212443699",
+      "bytes": 39804
+    },
+    {
+      "source_collection": "user-supplied-2026-10-26",
+      "source_path": "Safari_Extended_Route_Manual_CN_v3(1).pdf",
+      "repository_path": "deliverables/fieldwork/extended-route-v3/Safari_Extended_Route_Manual_CN_v3(1).pdf",
+      "status": "copied",
+      "sha256": "d10727db2f8f0259081573b5939ebc06f70367893e1e2df80206de99f1a9f681",
+      "bytes": 428699
+    },
+    {
+      "source_collection": "user-supplied-2026-10-26",
+      "source_path": "Safari_Extended_Route_Record_Form_CN_v3(1).pdf",
+      "repository_path": "deliverables/fieldwork/extended-route-v3/Safari_Extended_Route_Record_Form_CN_v3(1).pdf",
+      "status": "copied",
+      "sha256": "319593a3122731e71879c0f9ccc0def9e8123d97fd16c511a67363be536ac3e6",
+      "bytes": 227311
+    }
+  ]
+}

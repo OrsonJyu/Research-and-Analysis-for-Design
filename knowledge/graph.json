@@ -1,0 +1,651 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-10-26",
+  "interpretation": "Analytic and provenance relationships only; no edge asserts causation or validated research findings. Participant evidence has not been supplied.",
+  "nodes": [
+    {
+      "id": "research-question",
+      "label": "Research question",
+      "status": "research_question",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "episodes",
+      "label": "Walk cases and information-interaction episodes",
+      "status": "working_proposal",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "attention",
+      "label": "Attention allocation and competing task demands",
+      "status": "theoretical_lens",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md",
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "experience",
+      "label": "Participant-reported burden and reassurance",
+      "status": "research_question",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "classification",
+      "label": "Contextual information classification",
+      "status": "working_proposal",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md",
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "function",
+      "label": "Information function",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "necessity",
+      "label": "Contextual necessity",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "source",
+      "label": "Information source",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "repetition",
+      "label": "Repetition, overlap and repeated checking",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "route",
+      "label": "PolyU → Art Mall → MUSEA Barbour",
+      "status": "user_confirmed_plan",
+      "source_paths": [
+        "docs/fieldwork/ROUTE.md"
+      ]
+    },
+    {
+      "id": "notes",
+      "label": "Primary fieldnotes",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "camera",
+      "label": "Auxiliary GoPro verification and recall",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md",
+        "docs/DECISIONS.md"
+      ]
+    },
+    {
+      "id": "gpx",
+      "label": "Auxiliary route and time context",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "interview",
+      "label": "Post-walk semi-structured interview",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "cross-case",
+      "label": "Within-case and cross-case analysis",
+      "status": "working_proposal",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "guidance",
+      "label": "Preliminary design guidance",
+      "status": "intended_output",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "fieldwork-status",
+      "label": "Pilot and achieved sample unknown",
+      "status": "unverified_status",
+      "source_paths": [
+        "docs/PROJECT_STATE.md"
+      ]
+    },
+    {
+      "id": "paper:wickens2008",
+      "label": "Wickens (2008)",
+      "status": "literature_record",
+      "bibliography_id": "wickens2008",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:oulasvirta2005",
+      "label": "Oulasvirta et al. (2005)",
+      "status": "literature_record",
+      "bibliography_id": "oulasvirta2005",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:cheng2023",
+      "label": "Cheng et al. (2023)",
+      "status": "literature_record",
+      "bibliography_id": "cheng2023",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:golab2022",
+      "label": "Golab et al. (2022)",
+      "status": "literature_record",
+      "bibliography_id": "golab2022",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "paper:pielot2012",
+      "label": "Pielot et al. (2012)",
+      "status": "literature_record",
+      "bibliography_id": "pielot2012",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "paper:shimokihara2025",
+      "label": "Shimokihara et al. (2025)",
+      "status": "literature_record",
+      "bibliography_id": "shimokihara2025",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:vaez2020",
+      "label": "Vaez, Burke and Yu (2020)",
+      "status": "literature_record",
+      "bibliography_id": "vaez2020",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:hardwicke2024",
+      "label": "Hardwicke, Hill and Ryan (2024)",
+      "status": "literature_record",
+      "bibliography_id": "hardwicke2024",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:wobbrock2019",
+      "label": "Wobbrock (2019)",
+      "status": "literature_record",
+      "bibliography_id": "wobbrock2019",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:bartling2026",
+      "label": "Bartling et al. (2026)",
+      "status": "literature_record",
+      "bibliography_id": "bartling2026",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:schmitt2019",
+      "label": "Schmitt, Delbosc and Currie (2019)",
+      "status": "literature_record",
+      "bibliography_id": "schmitt2019",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:chang2013",
+      "label": "Chang (2013)",
+      "status": "literature_record",
+      "bibliography_id": "chang2013",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "paper:may2003",
+      "label": "May et al. (2003)",
+      "status": "literature_record",
+      "bibliography_id": "may2003",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "paper:anacta2017",
+      "label": "Anacta et al. (2017)",
+      "status": "literature_record",
+      "bibliography_id": "anacta2017",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "paper:mackaness2014",
+      "label": "Mackaness et al. (2014)",
+      "status": "literature_record",
+      "bibliography_id": "mackaness2014",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "paper:lazar2017",
+      "label": "Lazar, Feng and Hochheiser (2017)",
+      "status": "literature_record",
+      "bibliography_id": "lazar2017",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "paper:russell2014",
+      "label": "Russell and Chi (2014)",
+      "status": "literature_record",
+      "bibliography_id": "russell2014",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "paper:navalpakkam2014",
+      "label": "Navalpakkam and Churchill (2014)",
+      "status": "literature_record",
+      "bibliography_id": "navalpakkam2014",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "E001",
+      "from": "research-question",
+      "to": "episodes",
+      "relation": "investigated_through",
+      "status": "working_proposal",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "E002",
+      "from": "attention",
+      "to": "episodes",
+      "relation": "sensitises_interpretation",
+      "status": "theoretical_lens",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "E003",
+      "from": "episodes",
+      "to": "experience",
+      "relation": "requires_participant_account",
+      "status": "methodological_boundary",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "E004",
+      "from": "classification",
+      "to": "function",
+      "relation": "has_provisional_dimension",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "E005",
+      "from": "classification",
+      "to": "necessity",
+      "relation": "has_provisional_dimension",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "E006",
+      "from": "classification",
+      "to": "source",
+      "relation": "has_provisional_dimension",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "E007",
+      "from": "classification",
+      "to": "repetition",
+      "relation": "has_provisional_dimension",
+      "status": "working_proposal",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "E008",
+      "from": "route",
+      "to": "notes",
+      "relation": "provides_task_context",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "E009",
+      "from": "camera",
+      "to": "notes",
+      "relation": "checks_observable_details",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "E010",
+      "from": "camera",
+      "to": "interview",
+      "relation": "may_cue_recall",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "E011",
+      "from": "gpx",
+      "to": "episodes",
+      "relation": "adds_position_and_time_context",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "E012",
+      "from": "notes",
+      "to": "episodes",
+      "relation": "documents_actions_and_context",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "E013",
+      "from": "interview",
+      "to": "experience",
+      "relation": "elicits_explanation",
+      "status": "execution_plan",
+      "source_paths": [
+        "docs/fieldwork/MANUAL_CN.md"
+      ]
+    },
+    {
+      "id": "E014",
+      "from": "episodes",
+      "to": "classification",
+      "relation": "informs",
+      "status": "working_proposal",
+      "source_paths": [
+        "docs/RESEARCH_BRIEF.md"
+      ]
+    },
+    {
+      "id": "E015",
+      "from": "classification",
+      "to": "cross-case",
+      "relation": "compared_within_and_across_cases",
+      "status": "working_proposal",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "E016",
+      "from": "cross-case",
+      "to": "guidance",
+      "relation": "may_inform",
+      "status": "intended_output",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "E017",
+      "from": "paper:wickens2008",
+      "to": "attention",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E018",
+      "from": "paper:oulasvirta2005",
+      "to": "attention",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E019",
+      "from": "paper:cheng2023",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E020",
+      "from": "paper:golab2022",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "E021",
+      "from": "paper:pielot2012",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "E022",
+      "from": "paper:shimokihara2025",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E023",
+      "from": "paper:vaez2020",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E024",
+      "from": "paper:hardwicke2024",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E025",
+      "from": "paper:wobbrock2019",
+      "to": "attention",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E026",
+      "from": "paper:bartling2026",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E027",
+      "from": "paper:schmitt2019",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E028",
+      "from": "paper:chang2013",
+      "to": "research-question",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "E029",
+      "from": "paper:may2003",
+      "to": "classification",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "E030",
+      "from": "paper:anacta2017",
+      "to": "classification",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "E031",
+      "from": "paper:mackaness2014",
+      "to": "classification",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "E032",
+      "from": "paper:lazar2017",
+      "to": "interview",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "E033",
+      "from": "paper:russell2014",
+      "to": "interview",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "E034",
+      "from": "paper:navalpakkam2014",
+      "to": "interview",
+      "relation": "informs_questions_or_methods",
+      "status": "historical_source_use",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    }
+  ]
+}
+

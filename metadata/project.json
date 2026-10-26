@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
+  "repository_version": "0.1.0",
+  "course": "SD5008",
+  "team": "Safari",
+  "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
+  "updated": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "visibility_at_import": "private",
+  "latest_execution_baseline": "extended-route-v3 received 2026-10-26",
+  "route": {
+    "status": "user-confirmed-plan",
+    "origin": "PolyU South Gate",
+    "mandatory_waypoint": "K11 Art Mall, 18 Hanoi Road",
+    "destination": "K11 MUSEA Barbour storefront, 3F Shop 319",
+    "user_url": "https://maps.app.goo.gl/yBNRGHiqpXSHXAMD8?g_st=ic",
+    "manual_url": "https://maps.app.goo.gl/yo7reY8KaEQTjQZV8",
+    "short_link_equivalence": "not_independently_verified",
+    "planning_estimate": {
+      "minutes": 28,
+      "km": 1.9,
+      "status": "manual screenshot estimate, not measured; indoor time to check"
+    }
+  },
+  "study_status": {
+    "pilot_completed": "unknown",
+    "recruited_count": null,
+    "completed_main_cases": null,
+    "ethics_document_inspected": false,
+    "findings_received": false
+  },
+  "entrypoints": {
+    "human": "README.md",
+    "english": "README.en.md",
+    "agent": "AGENTS.md",
+    "state": "docs/PROJECT_STATE.md",
+    "decisions": "docs/DECISIONS.md",
+    "current_execution": "deliverables/fieldwork/extended-route-v3/README.md",
+    "graph": "knowledge/graph.json",
+    "files": "metadata/file-catalog.json"
+  },
+  "sync_mode": "Task-driven updates; no recurring background automation configured."
+}
+

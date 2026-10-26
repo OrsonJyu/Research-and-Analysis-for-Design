@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-10-26",
+  "verification_scope": "Recovered bibliographic records and historical evidence roles; not a fresh systematic review or full-text verification. Original downloaded/missing-full-text status remains in references/literature/manifest.json.",
+  "records": [
+    {
+      "id": "wickens2008",
+      "authors": "Wickens",
+      "year": 2008,
+      "title": "Multiple resources and mental workload",
+      "doi": "10.1518/001872008X288394",
+      "url": "https://doi.org/10.1518/001872008X288394",
+      "used_in": [
+        "proposal-v3",
+        "presentation-02"
+      ],
+      "role": "Parallel tasks may compete for shared processing resources.",
+      "limits": "A theoretical lens, not a measurement of this study's participants.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "oulasvirta2005",
+      "authors": "Oulasvirta et al.",
+      "year": 2005,
+      "title": "Interaction in 4-second bursts: The fragmented nature of attentional resources in mobile HCI",
+      "doi": "10.1145/1054972.1055101",
+      "url": "https://doi.org/10.1145/1054972.1055101",
+      "used_in": [
+        "proposal-v3",
+        "presentation-02"
+      ],
+      "role": "Urban mobile interaction involves fragmented attention.",
+      "limits": "The original tasks were not identical to this walking-navigation protocol.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "cheng2023",
+      "authors": "Cheng et al.",
+      "year": 2023,
+      "title": "Using spontaneous eye blink-related brain activity to investigate cognitive load during mobile map-assisted navigation",
+      "doi": "10.3389/fnins.2023.1024583",
+      "url": "https://doi.org/10.3389/fnins.2023.1024583",
+      "used_in": [
+        "proposal-v3",
+        "presentation-02"
+      ],
+      "role": "Map information conditions involve trade-offs in a controlled virtual-navigation study.",
+      "limits": "No universal landmark-count rule; interviews do not measure the same physiological indicators.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "golab2022",
+      "authors": "Golab et al.",
+      "year": 2022,
+      "title": "It's also about timing! When do pedestrians want to receive navigation instructions",
+      "doi": "10.1080/13875868.2021.1942474",
+      "url": "https://doi.org/10.1080/13875868.2021.1942474",
+      "used_in": [
+        "presentation-02"
+      ],
+      "role": "Instruction timing is relevant to pedestrian navigation information.",
+      "limits": "Does not validate the group's proposed information categories.",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "pielot2012",
+      "authors": "Pielot et al.",
+      "year": 2012,
+      "title": "PocketNavigator: Studying tactile navigation systems in-situ",
+      "doi": "10.1145/2207676.2208728",
+      "url": "https://doi.org/10.1145/2207676.2208728",
+      "used_in": [
+        "presentation-02",
+        "earlier-discussion"
+      ],
+      "role": "Alternative delivery channels can change interaction with navigation information.",
+      "limits": "Reduced screen interaction is not itself proof of reduced cognitive load.",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "shimokihara2025",
+      "authors": "Shimokihara et al.",
+      "year": 2025,
+      "title": "Association between smartphone glances during application-based navigation and pedestrian navigation performance: A real-world experimental study",
+      "doi": "10.21037/mhealth-25-33",
+      "url": "https://doi.org/10.21037/mhealth-25-33",
+      "used_in": [
+        "proposal-v3",
+        "presentation-02"
+      ],
+      "role": "Supports examining phone glances, stops, errors and their sequence.",
+      "limits": "Associations do not establish causation or an overwhelmed experience.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "vaez2020",
+      "authors": "Vaez, Burke and Yu",
+      "year": 2020,
+      "title": "Visitors' wayfinding strategies and navigational aids in unfamiliar urban environment",
+      "doi": "10.1080/14616688.2019.1696883",
+      "url": "https://doi.org/10.1080/14616688.2019.1696883",
+      "used_in": [
+        "proposal-v3",
+        "presentation-02"
+      ],
+      "role": "Digital navigation, strategies and unfamiliar-city experience need to be distinguished.",
+      "limits": "Do not generalise a single setting to all newcomers or infer energy depletion.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "hardwicke2024",
+      "authors": "Hardwicke, Hill and Ryan",
+      "year": 2024,
+      "title": "Finding your way: Exploring urban park users' engagement with a wayfinding intervention through intercept go-along interviews",
+      "doi": "10.1080/23748834.2024.2313307",
+      "url": "https://doi.org/10.1080/23748834.2024.2313307",
+      "used_in": [
+        "proposal-v3",
+        "presentation-02"
+      ],
+      "role": "Wayfinding information can support perceived manageability and exploration confidence.",
+      "limits": "Park users are not the same population or task as this study.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "wobbrock2019",
+      "authors": "Wobbrock",
+      "year": 2019,
+      "title": "Situationally-induced impairments and disabilities",
+      "doi": "10.1007/978-1-4471-7440-0_5",
+      "url": "https://doi.org/10.1007/978-1-4471-7440-0_5",
+      "used_in": [
+        "proposal-v3"
+      ],
+      "role": "Contextual conditions may constrain technology use.",
+      "limits": "Does not directly establish the effect of a navigation design.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "bartling2026",
+      "authors": "Bartling et al.",
+      "year": 2026,
+      "title": "Unlocking context-aware mobile map adaptation",
+      "doi": "10.1080/15230406.2025.2512075",
+      "url": "https://doi.org/10.1080/15230406.2025.2512075",
+      "used_in": [
+        "proposal-v3"
+      ],
+      "role": "Context and map-content adaptation complicate simple information-reduction rules.",
+      "limits": "Historical verification covered publication metadata and summaries; no new full-text reading claimed.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "schmitt2019",
+      "authors": "Schmitt, Delbosc and Currie",
+      "year": 2019,
+      "title": "Learning to use transit services",
+      "doi": "10.1007/s11116-018-9880-9",
+      "url": "https://doi.org/10.1007/s11116-018-9880-9",
+      "used_in": [
+        "proposal-v3"
+      ],
+      "role": "Unfamiliar transit use provides neighbouring qualitative experience evidence.",
+      "limits": "Transit evidence does not establish the full causal chain for Hong Kong walking.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "chang2013",
+      "authors": "Chang",
+      "year": 2013,
+      "title": "Wayfinding strategies and tourist anxiety in unfamiliar destinations",
+      "doi": "10.1080/14616688.2012.726270",
+      "url": "https://doi.org/10.1080/14616688.2012.726270",
+      "used_in": [
+        "proposal-v3"
+      ],
+      "role": "Links perceived wayfinding difficulty with anxiety in a tourism setting.",
+      "limits": "Association and contextual difference limit transfer.",
+      "source_paths": [
+        "archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md"
+      ]
+    },
+    {
+      "id": "may2003",
+      "authors": "May et al.",
+      "year": 2003,
+      "title": "Pedestrian navigation aids: Information requirements and design implications",
+      "doi": "10.1007/s00779-003-0248-5",
+      "url": "https://doi.org/10.1007/s00779-003-0248-5",
+      "used_in": [
+        "classification-discussion"
+      ],
+      "role": "Separates instruction purpose from importance and redundancy.",
+      "limits": "Historical discussion described author-uploaded text; the framework is not this group's final taxonomy.",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "anacta2017",
+      "authors": "Anacta et al.",
+      "year": 2017,
+      "title": "Orientation information in wayfinding instructions: evidences from human verbal and visual instructions",
+      "doi": "10.1007/s10708-016-9703-5",
+      "url": "https://doi.org/10.1007/s10708-016-9703-5",
+      "used_in": [
+        "classification-discussion"
+      ],
+      "role": "Orientation information can be distinguished from action information.",
+      "limits": "Source use is preserved from the earlier discussion, not freshly verified.",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "mackaness2014",
+      "authors": "Mackaness et al.",
+      "year": 2014,
+      "title": "Understanding information requirements in \"text only\" pedestrian wayfinding systems",
+      "doi": null,
+      "url": "https://www.research.ed.ac.uk/en/publications/understanding-information-requirements-in-text-only-pedestrian-wa/",
+      "used_in": [
+        "classification-discussion"
+      ],
+      "role": "Some redundancy may support reassurance.",
+      "limits": "Earlier verification was an institutional-repository abstract, not a full reading.",
+      "source_paths": [
+        "archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md"
+      ]
+    },
+    {
+      "id": "lazar2017",
+      "authors": "Lazar, Feng and Hochheiser",
+      "year": 2017,
+      "title": "Research methods in human-computer interaction (2nd ed.)",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/book/9780128053904/research-methods-in-human-computer-interaction",
+      "used_in": [
+        "methods"
+      ],
+      "role": "Case protocols, observation, interviews and qualitative analysis.",
+      "limits": "Method guidance does not prescribe the group's exact sample or duration.",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "russell2014",
+      "authors": "Russell and Chi",
+      "year": 2014,
+      "title": "Looking back: Retrospective study methods for HCI",
+      "doi": "10.1007/978-1-4939-0378-8_15",
+      "url": "https://doi.org/10.1007/978-1-4939-0378-8_15",
+      "used_in": [
+        "methods"
+      ],
+      "role": "Episode-linked retrospective accounts.",
+      "limits": "Recall can be uncertain and does not prove an internal mechanism.",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "navalpakkam2014",
+      "authors": "Navalpakkam and Churchill",
+      "year": 2014,
+      "title": "Eye tracking: A brief introduction",
+      "doi": "10.1007/978-1-4939-0378-8_13",
+      "url": "https://doi.org/10.1007/978-1-4939-0378-8_13",
+      "used_in": [
+        "methods"
+      ],
+      "role": "A precedent discussed for practice tasks.",
+      "limits": "The walking warm-up is the group's adaptation, not an eye-tracking replication.",
+      "source_paths": [
+        "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    }
+  ]
+}
+

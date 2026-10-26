@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0",
+  "source_thread_id": "01a13b8a-6c08-7713-bf6b-df26f23500b3",
+  "source_title": "SD5008 Safari source chat",
+  "exported_at": "2026-10-26",
+  "scope": "Retrieved user-visible messages and final answers only. Tool execution, internal reasoning and unavailable attachments are excluded. Earlier research discussion is preserved as the September memory summary, not a verbatim transcript.",
+  "turns": [
+    {
+      "id": "01a13b8a-898e-74c5-b572-04739eae7244",
+      "time_hkt": "2026-10-15T01:51:37.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "在第6页和第7页之间加一页过渡页：内容就是接下去讲我们调研计划的细节。",
+          "unavailable_images": []
+        }
+      ]
+    },
+    {
+      "id": "01a13b8b-5f1e-7059-9509-790d620ddff9",
+      "time_hkt": "2026-10-15T01:52:35.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "我要slides1的北京的",
+          "unavailable_images": []
+        }
+      ]
+    },
+    {
+      "id": "01a13b8b-d792-72f0-9ef3-38a8f4ef23b7",
+      "time_hkt": "2026-10-15T01:53:02.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "我要slides1的背景的",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已将[第7页过渡页](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=273-3)改为第1页相同的背景与配色，标题保留 **Research plan in detail**，并配好中英文讲稿。"
+        }
+      ]
+    },
+    {
+      "id": "01a13b99-fba3-7725-bf65-1cd41fe67bb7",
+      "time_hkt": "2026-10-15T02:08:30.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "在第7页的基础上，加一个illustration，风格可以看第8页小人的风格",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已在[第7页](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=273-3)右侧加入同风格小人，搭配路线虚线和定位标记，呼应实地调研主题。已检查排版。"
+        }
+      ]
+    },
+    {
+      "id": "01a13ba6-45d1-71ca-ab01-eaa6141cbebf",
+      "time_hkt": "2026-10-15T02:21:55.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "第8页之后再加一页，讲为什么我们是6个受访者。\n\n首先承认研究的有限性，由于时间，这是一个范围有限、每例包含步行观察和深入访谈的探索性研究。\n\n然后讲我们的justification on 6 members\n\n1. 6个受访者都会经过我们的筛选，确保其是符合我们的研究目的高质量受试者；\n2. 6个受访case在项目时间上可行，同时也给予了我们机会做深入研究；\n3. 如果6个case无法得到有效的结论，我们会继续招人试验，直到能得出质性分析的结论出现，或者研究出现边际效应的过饱和",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已在第8页后新增[第9页：Why start with six participants?](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=284-3)\n\n先说明研究限制，再呈现三点理由：**筛选相关参与者、兼顾可行性与深度、检查证据并按需扩招**。6人明确为初始目标，不预先承诺达到饱和。\n\n已补齐中英文讲稿、顺延后续页码，并检查排版。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bab-a817-73f4-a306-5d21a395e443",
+      "time_hkt": "2026-10-15T02:27:47.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "第三段的标题，能不能就是，讲“如果6个case无法得到有效的结论，我们会继续招人试验，直到能得出质性分析的结论出现，或者研究出现边际效应的过饱和”这句话，讲的academic一点",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已将[第9页第三段](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=284-3)改为：\n\n**Iterative recruitment towards analytical sufficiency**  \n通过迭代招募，逐步达到分析充分性。\n\n正文说明：若六个案例的证据不足，将继续招募，直到质性解释得到充分支持，或新增案例不再带来实质性的新认识。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bae-f8e7-7092-b6fd-09c061e03934",
+      "time_hkt": "2026-10-15T02:31:25.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "Ask about past walks, exits and entrances without teaching the trace. Agree the initial common Google Maps path in the pilot. Record the actual trajectory and deviations. If no unfamiliar route fits all, recruit replacements or justify a change within the approved protocol.\n\n第14页的这句话在说什么？",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "这段是在讲：**如何确认路线对参与者是陌生的，以及路线不适用时如何处理。**\n\n1. **检查熟悉程度，但不要提前教路线。**  \n   询问参与者过去是否走过这里、是否认识相关出口和入口，但不要展示或讲解完整路线，以免影响正式观察。这里的 *“without teaching the trace”* 表达不太自然，意思就是“不提前透露具体走法”。\n\n2. **在 pilot 中确定共同的初始导航路线。**  \n   先通过预试，确认正式研究开始时采用哪条 Google Maps 推荐路线。\n\n3. **记录实际怎么走，包括偏离。**  \n   参与者实际走的路可能与推荐路线不同，这些偏离也需要记录。\n\n4. **如果找不到一条对所有人都陌生的路线，就调整。**  \n   可以更换参与者；或者在已批准的研究方案允许范围内调整路线，并说明理由。\n\n**第二句容易产生歧义：你们需要统一的是“初始导航条件”，还是要求所有人“严格沿同一条路线走”？** 按照前面讨论的研究目的，更适合统一初始条件，同时允许并记录参与者自主选择和偏离。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bb2-a3f2-77a4-8e8d-3ae2091d86a3",
+      "time_hkt": "2026-10-15T02:35:25.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "严格按照同一条路走。第14页重点是不是在讲这个？",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "**对。第14页的重点是：从三条候选路线中选定一条固定路线，要求所有参与者严格沿同一路径完成任务。** 熟悉度筛选和 pilot 都是在帮助你们确定这条共同路线。\n\n我刚才将其理解为“只统一初始条件、允许自主选路”，不符合你们的设定。\n\n因此，这页应明确：\n\n- **路线统一**：所有参与者遵循同一条预先确定的路径。\n- **路线陌生**：通过筛选，确认参与者不熟悉这条路线。\n- **偏离记录**：偏离属于任务中的实际事件或导航错误，需要记录，并非允许自由选择路线。\n\n现有的 **“initial common Google Maps path”** 确实不够明确，更准确的是 **“a fixed walking route followed by all participants”**。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bb3-9311-74bc-a04d-f0d1f7b96e0f",
+      "time_hkt": "2026-10-15T02:36:26.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "selection checks是在讲什么？",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "**Selection checks 指“选择这条路线前，需要核实的条件”**，用于判断三条候选路线中，哪一条适合作为所有参与者共同完成的固定路线。\n\n表中分别在说：\n\n- **K11 Art Mall**：确认参与者是否已经熟悉路线；若熟悉，可能不适用。\n- **Kowloon Park 入口**：确认实际通行条件，以及指定入口是否明确、可达。\n- **Clock Tower**：路线较长，需要确认步行及访谈能否在安排的时间内完成。\n\n目前这一列混合了路线特点和待核实条件。如果想让标题更直观，可以改成 **“What to check before selection”**。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bb7-23fe-732f-ba58-2f47004462fa",
+      "time_hkt": "2026-10-15T02:40:20.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "# Selected text:\n\n## Selection 1\n第14页的重点是：从三条候选路线中选定一条固定路线\n\n## My request:\n没错，这一页其实是在讲choose one common main route，所以“如何确认路线对参与者是陌生的，以及路线不适用时如何处理”应该放在前面，然后三条路的表格应该放在底下？",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "对，已按这个逻辑重排[第14页](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=160-323)：\n\n- **上方**：陌生度筛选，以及没有共同适用路线时的处理。\n- **下方**：三条候选路线的比较表。\n- **核心要求**：所有参与者严格沿同一条固定路线走。\n\n已同步更新中英文讲稿，并检查排版。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bbf-6f3f-7478-89c9-d11e065401d4",
+      "time_hkt": "2026-10-15T02:49:24.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "第16页的slides内容，是不是和script对不上？这个independent pilot是啥意思撒",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "**是，有些没对齐：slide 区分了两项准备工作，但 script 把它们连在一起讲，而且漏掉了预试中的编码检查。**\n\n这里的 **Independent pilot** 指的是：**在正式调研前，单独开展的一次完整流程预试，其资料不计入正式的6个案例。** “Independent”强调与正式样本分开，并不是说由独立研究员执行。这个标题确实容易让人误解。\n\n两项工作的区别是：\n\n| | Pilot：研究预试 | Participant warm-up：参与者热身 |\n|---|---|---|\n| **什么时候** | 正式资料收集开始前 | 每位正式参与者开始任务前 |\n| **目的** | 检查研究方案能否顺利执行 | 确认参与者理解流程 |\n| **具体做什么** | 测试路线、设备、访谈问题、总时长；试用编码规则 | 统一说明、短距离练习、确认如何暂停和退出 |\n| **是否进入正式分析** | 不进入 | 不进入 |\n\n**Script 主要漏掉了 slide 左侧这部分：**两位编码者分别检查同一段材料，比较事件起止点的判断，再修改编码规则。另一个问题是“随后，每位参与者……”容易让人以为 pilot 和 warm-up 是每个人连续做的两个步骤。\n\n建议左侧标题改成更清楚的：\n\n**Pre-study pilot — separate from the six main cases**\n\n讲稿则先明确：**“我们有两个不同层次的准备：先通过研究预试检查方案，再为每位正式参与者提供统一热身。”**"
+        }
+      ]
+    },
+    {
+      "id": "01a13bcb-1b3d-77c1-b87b-08bb0018f8e1",
+      "time_hkt": "2026-10-15T03:02:09.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "第17页slides，我觉得没有突出重点。我想说的是，这个session除了要做这些，目的是为了让所有受试者对于我们测试的认知维持到同一水平，不会被我们的观察和记录，或者不知道我们的流程从而污染数据。就感觉这句话就显得我们很专业",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已重做[第17页](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=190-3)，将核心目的突出为：\n\n**Standardise procedural understanding and familiarise participants with being observed.**\n\n即统一参与者对任务与流程的理解，提前熟悉观察和记录安排，减少由流程不明带来的额外干扰。\n\n路线图和操作步骤保留在下方作为执行方式，中英文讲稿也已同步更新。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bd2-9078-70f9-8e07-f518d5df0c7e",
+      "time_hkt": "2026-10-15T03:10:17.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "这个路线的A-B-C的排版可以正常一点嘛？看一下整一页还有没有要改的了",
+          "unavailable_images": [
+            "ebf59eb6-1d12-4651-b64d-146b0a1e8f7d.png"
+          ]
+        },
+        {
+          "role": "assistant",
+          "text": "已调整[第17页](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=190-3)：\n\n- **A、B、C 改为三行对齐**，统一字号，圆形标记颜色与地图对应。\n- 调整地图比例、图例间距及左右对齐。\n- 精简重点框标题和部分流程文字，让“统一流程理解”的目的更突出。\n\n已检查整页，没有文字裁切或重叠。"
+        }
+      ]
+    },
+    {
+      "id": "01a13bdb-897d-7156-a1aa-460aa362cf4e",
+      "time_hkt": "2026-10-15T03:20:06.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "21页的codebook，帮我加一句话，就是新的code可以在访谈过程中加入进来，比如用户在导航过程中用手机查询，那么可以加入PHONE_SEARCH",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已在[第21页](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=162-3)表格下方加入：\n\n**New codes may be added as behaviours emerge in interviews, e.g. PHONE_SEARCH for searching for navigation-related information on a phone.**\n\n已同步更新中英文讲稿，并检查排版。"
+        }
+      ]
+    },
+    {
+      "id": "01a13be5-4543-72b4-b9f7-1b5507401d67",
+      "time_hkt": "2026-10-15T03:30:44.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "第25页，这一页讲camera，它应该是用于记录，研究人员可以用于验证primary notes的准确性，不做单独的分析。这一页的标题是不是改一下？",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已将[第25页](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=162-15)标题改为：\n\n**Camera recording to verify primary notes**\n\n并明确相机仅用于核对事件细节与时间，**不进行独立的视频编码或分析**。正文和中英文讲稿已同步更新。"
+        }
+      ]
+    },
+    {
+      "id": "01a13be8-de5f-773f-8538-6404c0e1dd5c",
+      "time_hkt": "2026-10-15T03:34:39.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "你整体看一遍我们所有的slides，更新一下reference。",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已逐页核对并更新[参考文献（第31页起）](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=162-33)：\n\n- 补齐文献综述使用的全部 **8篇论文**，统一书目格式和 DOI。\n- 修正红磡观音庙的来源、旧标注、链接及讲稿。\n- 整理方法、软件、地图和视觉素材来源，移除未引用条目。\n- 更新参考页排版、讲稿和页码。\n\n小人插图的原作者与授权仍待确认；私有课件的书目信息已注明沿用现有记录。"
+        }
+      ]
+    },
+    {
+      "id": "01a13d3a-e513-71a8-9cc2-300c8274c698",
+      "time_hkt": "2026-10-15T09:43:52.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "请帮我给导师henry写一封邮件，告诉他我们组今天早上才发现昨天晚上文件由于网络因素没有上传成功，因此今天早上重新上传了一遍。可惜上传成功显示时间还是晚于9:30分，具体时间为9:36分。请问能否把该情况视为额外情况而不进行作业扣分。",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": ":::writing{variant=\"email\" id=\"73419\" subject=\"SD5008 Safari – Request for Consideration Regarding Late Submission\"}\nDear Henry,\n\nWe discovered this morning that our group’s file had not uploaded successfully last night due to a network issue. We uploaded it again this morning, but the system recorded the successful submission at 9:36 a.m., six minutes after the 9:30 a.m. deadline.\n\nWe apologise for the delay and for not noticing the unsuccessful upload earlier. Would you kindly consider these exceptional circumstances and waive the late-submission penalty?\n\nThank you for your understanding and consideration.\n\nBest regards,  \nKecheng Zhu  \nOn behalf of Group Safari\n:::"
+        }
+      ]
+    },
+    {
+      "id": "01a13d41-9393-743a-826e-ea21648c315c",
+      "time_hkt": "2026-10-15T09:51:10.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "请你把figma[https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=0-1&p=f&t=QhPaU3YZ4k0XBbJA-0](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=0-1\\&p=f\\&t=QhPaU3YZ4k0XBbJA-0) page1到page9的script合到一起发我",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "以下是 Figma 当前第1–9页的完整中英文 script，按页码合并。\n\n:::writing{variant=\"standard\" id=\"86243\"}\n**Page 1**\n\n**English**\n\nGood morning. We are Safari. Our project studies attention allocation and navigation information design for newcomers to Hong Kong. Today we will explain the walking study, how we will document navigation episodes, and what still needs checking before collecting data.\n\n**中文**\n\n大家早上好，我们是 Safari。我们的项目研究初到香港者的注意力分配与导航信息设计。今天会介绍步行研究、导航片段的记录方式，以及正式收集数据之前仍需检查的事项。\n\n---\n\n**Page 2**\n\n**English**\n\nOur research question is: How can navigation information be classified by its associated interaction burdens to inform interaction design methods for improving when and how it is presented and delivered?\n\nWe will examine what people need to confirm at particular moments, then connect those needs with their actions and reported experience.\n\n**中文**\n\n我们的研究问题是：如何依据导航信息所伴随的交互负担进行分类，以指导改进信息呈现和传达时机与方式的交互设计方法？\n\n我们会观察人在具体时刻需要确认什么，再把这些需求与他们的行动和所报告的体验联系起来。\n\n---\n\n**Page 3**\n\n**English**\n\nOur knowledge gap is: in unfamiliar walking navigation, which information episodes and interactions add attention and interaction burden, which effectively support orientation, action and confirmation, and how do these differences vary with context?\n\nThe eight studies provide complementary evidence. Vaez shows that digital navigation changes strategies without necessarily reducing anxiety. Wickens explains competition for shared processing resources, and Oulasvirta shows fragmented attention in urban mobile tasks. Cheng examines the trade-off between map information, spatial learning and cognitive load in VR. Golab studies when pedestrians request instructions, while Pielot examines tactile navigation in everyday use. Shimokihara reports associations between phone glances, stops and errors but leaves their temporal order unresolved. Hardwicke shows how wayfinding information helps users judge manageable walks.\n\nTogether, these findings motivate studying specific information interactions in context. We will connect actions and participant explanations to distinguish experienced burden from useful guidance, confirmation and reassurance. Our methods do not directly measure the amount of attention consumed or cognitive load. The next slide illustrates why successful arrival can still involve an effortful experience.\n\n**中文**\n\n我们的知识缺口是：在陌生环境的步行导航中，哪些信息片段与交互方式增加了使用者的注意力和交互负担，哪些有效支持了定向、行动与确认，以及这种差异如何随具体情境而变化。\n\n八篇文献提供了互补的依据。Vaez 表明数字导航会改变寻路策略，却不一定降低焦虑；Wickens 解释共享处理资源的竞争；Oulasvirta 展示城市移动任务中注意力的碎片化。Cheng 研究虚拟导航中地图信息、空间学习与认知负荷的权衡；Golab 研究行人何时请求指令；Pielot 考察日常触觉导航。Shimokihara 发现看手机与停步、错误相关，但事件先后仍不明确；Hardwicke 展示导向信息如何帮助使用者判断步行是否适合自己。\n\n这些证据共同支持我们研究具体情境中的信息交互，结合行动与参与者解释，区分被体验为负担的过程和有用的指引、确认与安心。我们的方法不直接测量注意力消耗量或认知负荷。下一页将用案例说明为什么成功抵达仍可能伴随费力的体验。\n\n---\n\n**Page 4**\n\n**English**\n\nImagine a newcomer planning a relaxing day at Repulse Bay. They first find the right exit, follow street turns, resolve unclear cues and confirm the beach entrance.\n\nThe chart illustrates two possible experiences, not collected data. Clear, timely cues may keep the journey manageable. In the more demanding scenario, the traveller repeatedly switches between the map, signs and streets to work out what to do. They still reach the beach, but feel too drained to enjoy it.\n\nBoth scenarios reach the destination. The difference is the effort experienced along the way. This motivates our question: which information episodes and interactions support navigation, and which add attention or interaction burden? Our actual study examines a short unfamiliar walk, rather than testing a whole Repulse Bay trip or measuring energy depletion.\n\n**中文**\n\n想象一位初到香港的人，计划去浅水湾度过轻松的一天。途中，他需要寻找正确出口、沿街转弯、解决不清楚的线索，最后确认海滩入口。\n\n图中展示两种可能的体验，不是已收集的数据。清楚、及时的线索可能让旅程较容易应对。另一种情境中，他需要不断在地图、路牌和街道之间切换、反复核对，才能判断下一步。最终虽然抵达海滩，却觉得已经没有多少精力继续游玩。\n\n两种情境都完成了抵达，区别在于过程中的费力程度。这说明我们为什么要研究哪些信息片段和交互方式提供支持，哪些增加注意力或交互负担。正式研究聚焦一段陌生短途步行，并不直接测试整段浅水湾出行或测量精力耗竭。\n\n---\n\n**Page 5**\n\n**English**\n\nPragmatism guides our method choices because we want evidence that can inform design decisions in this context. Multiple Resource Theory is a sensitising lens for considering competing demands. We will use a focused qualitative study, with one complete walk as one case. Observation and later interviews let us examine actions and participants' explanations together.\n\n**中文**\n\n实用主义指导我们选择方法，因为我们希望获得能够为这一情境下的设计决定提供依据的证据。多重资源理论作为启发性视角，帮助我们考虑不同任务要求之间的竞争。我们采用聚焦的定性研究，以一次完整步行为一个案例。观察和后续访谈让我们能够结合行动与参与者的解释进行研究。\n\n---\n\n**Page 6**\n\n**English**\n\nEach method helps us understand a different part of the same journey. Observation records the actions and their surroundings. Semi-structured interviews explore what participants were trying to do and how the experience felt. Reviewing selected episodes connects those explanations to specific moments. We then analyse each walk and compare cases to develop contextual information categories and preliminary design guidance.\n\n**中文**\n\n每种方法帮助我们理解同一次步行的不同方面。现场观察记录行动顺序和周围情境；半结构式访谈了解参与者当时想做什么，以及他们的体验。回顾选定片段，把这些解释与具体时刻联系起来。最后，我们先分析每次完整步行，再比较不同案例，形成情境化的信息分类和初步设计建议。\n\n---\n\n**Page 7**\n\n**English**\n\nWe have explained the research gap and why we chose these methods. Next, we will walk through our research plan in detail, including participants, route selection, the session workflow, data collection and analysis.\n\n**中文**\n\n前面我们介绍了研究缺口，以及选择这些方法的理由。接下来，我们将具体介绍调研计划，包括参与者、路线选择、调研流程、资料收集和分析方式。\n\n---\n\n**Page 8**\n\n**English**\n\nWe aim to recruit six main participants: adults who arrived in Hong Kong within the past six months and are unfamiliar with the selected route. Recruitment and completed sessions remain unconfirmed. Everyone will use Google Maps, while we record previous app experience and language settings. Each participant walks individually, without peers coaching them.\n\n**中文**\n\n我们计划招募六位正式参与者：他们须为成年人，在过去六个月内来到香港，并且不熟悉所选路线。实际招募和已完成场次仍未确认。所有人统一使用 Google Maps，同时记录原有 App 使用经验和语言设置。每位参与者单独步行，不由同伴指导。\n\n---\n\n**Page 9**\n\n**English**\n\nWe acknowledge the limits of this study. Given the project timeline, this is a focused, exploratory study in which each case combines a walking observation with an in-depth interview. We propose six participants as an initial target for three reasons.\n\nFirst, we will screen participants against our study criteria, so each case is relevant to the research question. Screening supports relevance; it does not guarantee rich data.\n\nSecond, six cases are feasible within the schedule while allowing us to examine each journey and interview in depth, then compare cases.\n\nThird, we will review the evidence iteratively. If key questions remain unresolved, we will recruit further participants to address those gaps. We will assess whether interpretations are well supported and whether additional cases bring substantively new insights, rather than assume that six guarantees saturation. If time prevents further recruitment, we will narrow our claims and report the remaining limitations.\n\n**中文**\n\n我们首先承认研究的有限性。考虑到项目时间，这是一个范围有限的探索性研究，每个案例都包含步行观察和深入访谈。我们将六位参与者作为初始目标，理由有三点。\n\n第一，我们会依据研究标准筛选参与者，确保案例与研究问题相关；筛选有助于提高相关性，但不能保证资料一定丰富。\n\n第二，六个案例在项目时间上可行，也给我们机会深入整理每次步行与访谈，先做案例内分析，再做跨案例比较。\n\n第三，我们会边收集边检查证据。如果关键问题仍未得到充分解释，就继续招募，针对证据缺口补充案例；并检查解释是否得到充分支持，以及新增案例是否仍带来实质性的新认识。我们不会预先断言六人一定达到饱和。如果时间限制使我们无法继续招募，就收窄结论，并明确报告尚未解决的不足。\n:::"
+        }
+      ]
+    },
+    {
+      "id": "01a13d45-6397-75be-bb73-5be1b8a8a695",
+      "time_hkt": "2026-10-15T09:55:20.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "去掉英文",
+          "unavailable_images": []
+        }
+      ]
+    },
+    {
+      "id": "01a13d46-0b3a-736d-97f4-b93e5d22c81c",
+      "time_hkt": "2026-10-15T09:56:03.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "去掉中文",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": ":::writing{variant=\"standard\" id=\"91527\"}\n**Page 1**\n\nGood morning. We are Safari. Our project studies attention allocation and navigation information design for newcomers to Hong Kong. Today we will explain the detailed plan, how we will document navigation episodes, and what still needs checking before collecting data.\n\n---\n\n**Page 2**\n\nOur research question is: How can navigation information be classified by its associated interaction burdens to inform interaction design methods for improving when and how it is presented and delivered?\n\nWe will examine what people need to confirm at particular moments, then connect those needs with their actions and reported experience.\n\n---\n\n**Page 3**\n\nBefore diving into our plan, let's have a look at our knowledge gap, which is: in unfamiliar walking navigation, which information episodes and interactions add attention and interaction burden, which effectively support orientation, action and confirmation, and how do these differences vary with context?\n\nThe eight studies provide complementary evidence. Vaez shows that digital navigation changes strategies without necessarily reducing anxiety. Wickens explains competition for shared processing resources, and Oulasvirta shows fragmented attention in urban mobile tasks. Cheng examines the trade-off between map information, spatial learning and cognitive load in VR. Golab studies when pedestrians request instructions, while Pielot examines tactile navigation in everyday use. Shimokihara reports associations between phone glances, stops and errors but leaves their temporal order unresolved. Hardwicke shows how wayfinding information helps users judge manageable walks.\n\nTogether, these findings motivate studying specific information interactions in context. We will connect actions and participant explanations to distinguish experienced burden from useful guidance, confirmation and reassurance. Our methods do not directly measure the amount of attention consumed or cognitive load. The next slide illustrates why successful arrival can still involve an effortful experience.\n\n---\n\n**Page 4**\n\nImagine a newcomer planning a relaxing day at Repulse Bay. They first find the right exit, follow street turns, resolve unclear cues and confirm the beach entrance.\n\nThe chart illustrates two possible experiences, not collected data. Clear, timely cues may keep the journey manageable. In the more demanding scenario, the traveller repeatedly switches between the map, signs and streets to work out what to do. They still reach the beach, but feel too drained to enjoy it.\n\nBoth scenarios reach the destination. The difference is the effort experienced along the way. This motivates our question: which information episodes and interactions support navigation, and which add attention or interaction burden? Our actual study examines a short unfamiliar walk, rather than testing a whole Repulse Bay trip or measuring energy depletion.\n\n---\n\n**Page 5**\n\nPragmatism guides our method choices because we want evidence that can inform design decisions in this context. Multiple Resource Theory is a sensitising lens for considering competing demands. We will use a focused qualitative study, with one complete walk as one case. Observation and later interviews let us examine actions and participants' explanations together.\n\n---\n\n**Page 6**\n\nEach method helps us understand a different part of the same journey. Observation records the actions and their surroundings. Semi-structured interviews explore what participants were trying to do and how the experience felt. Reviewing selected episodes connects those explanations to specific moments. We then analyse each walk and compare cases to develop contextual information categories and preliminary design guidance.\n\n---\n\n**Page 7**\n\nWe have explained the research gap and why we chose these methods. Next, we will walk through our research plan in detail, including participants, route selection, the session workflow, data collection and analysis.\n\n---\n\n**Page 8**\n\nWe aim to recruit six main participants: adults who arrived in Hong Kong within the past six months and are unfamiliar with the selected route. Recruitment and completed sessions remain unconfirmed. Everyone will use Google Maps, while we record previous app experience and language settings. Each participant walks individually, without peers coaching them.\n\n---\n\n**Page 9**\n\nWe acknowledge the limits of this study. Given the project timeline, this is a focused, exploratory study in which each case combines a walking observation with an in-depth interview. We propose six participants as an initial target for three reasons.\n\nFirst, we will screen participants against our study criteria, so each case is relevant to the research question. Screening supports relevance; it does not guarantee rich data.\n\nSecond, six cases are feasible within the schedule while allowing us to examine each journey and interview in depth, then compare cases.\n\nThird, we will review the evidence iteratively. If key questions remain unresolved, we will recruit further participants to address those gaps. We will assess whether interpretations are well supported and whether additional cases bring substantively new insights, rather than assume that six guarantees saturation. If time prevents further recruitment, we will narrow our claims and report the remaining limitations.\n:::"
+        }
+      ]
+    },
+    {
+      "id": "01a13d4b-dfdc-771b-a8f7-199ff6e74a06",
+      "time_hkt": "2026-10-15T10:02:25.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "- Identify information needs and observable interaction episodes across an unfamiliar walking journey. \n- Identify participant-reported moments of feeling overwhelmed, examine possible sources of difficulty, and explore perceived consequences for enjoyment, confidence, continued exploration and reaching the destination. \n- Develop a classification linking information roles, contextual demands and participant explanations, including contrasting cases. \n- Derive evidence-linked guidance for presenting timing, detail and delivery, with clear limits on what has been evaluated.\n\n这是我们的research objectives，请你在第6页后加一页，阐述这些",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已在第6页后新增[第7页：Research objectives](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=321-52)。\n\n沿用当前深绿风格，以四个编号区块完整呈现目标。已补齐中英文讲稿、顺延后续页码，并检查排版。"
+        }
+      ]
+    },
+    {
+      "id": "01a13d4f-6658-7686-a5bd-f17d8bdeb3a8",
+      "time_hkt": "2026-10-15T10:06:16.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "按照第8页的配色来吧，不要深色",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已将[第7页 Research objectives](https://www.figma.com/design/ul5mPWNMdrkycxnLEV9Owh/5008-Research?node-id=321-52)改为第8页相同的**浅米色背景、深绿色文字**，内容和布局保持一致。"
+        }
+      ]
+    },
+    {
+      "id": "01a13d55-1c77-7378-95eb-f71a814ea877",
+      "time_hkt": "2026-10-15T10:12:30.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "把属于我的部分的script再刷新一遍",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已加入新的 objectives 页，以下对应目前的**第1–10页**，仅保留英文，并保留你修改过的开场和过渡句。\n\n:::writing{variant=\"standard\" id=\"84362\"}\n**Page 1 — Introduction**\n\nGood morning. We are Safari. Our project studies attention allocation and navigation information design for newcomers to Hong Kong. Today we will explain the detailed plan, how we will document navigation episodes, and what still needs checking before collecting data.\n\n---\n\n**Page 2 — Research question**\n\nOur research question is: How can navigation information be classified by its associated interaction burdens to inform interaction design methods for improving when and how it is presented and delivered?\n\nWe will examine what people need to confirm at particular moments, then connect those needs with their actions and reported experience.\n\n---\n\n**Page 3 — Knowledge gap and literature review**\n\nBefore diving into our plan, let's have a look at our knowledge gap, which is: in unfamiliar walking navigation, which information episodes and interactions add attention and interaction burden, which effectively support orientation, action and confirmation, and how do these differences vary with context?\n\nThe eight studies provide complementary evidence. Vaez shows that digital navigation changes strategies without necessarily reducing anxiety. Wickens explains competition for shared processing resources, and Oulasvirta shows fragmented attention in urban mobile tasks. Cheng examines the trade-off between map information, spatial learning and cognitive load in VR. Golab studies when pedestrians request instructions, while Pielot examines tactile navigation in everyday use. Shimokihara reports associations between phone glances, stops and errors but leaves their temporal order unresolved. Hardwicke shows how wayfinding information helps users judge manageable walks.\n\nTogether, these findings motivate studying specific information interactions in context. We will connect actions and participant explanations to distinguish experienced burden from useful guidance, confirmation and reassurance. Our methods do not directly measure the amount of attention consumed or cognitive load. The next slide illustrates why successful arrival can still involve an effortful experience.\n\n---\n\n**Page 4 — Repulse Bay example**\n\nImagine a newcomer planning a relaxing day at Repulse Bay. They first find the right exit, follow street turns, resolve unclear cues and confirm the beach entrance.\n\nThe chart illustrates two possible experiences, not collected data. Clear, timely cues may keep the journey manageable. In the more demanding scenario, the traveller repeatedly switches between the map, signs and streets to work out what to do. They still reach the beach, but feel too drained to enjoy it.\n\nBoth scenarios reach the destination. The difference is the effort experienced along the way. This motivates our question: which information episodes and interactions support navigation, and which add attention or interaction burden? Our actual study examines a short unfamiliar walk, rather than testing a whole Repulse Bay trip or measuring energy depletion.\n\n---\n\n**Page 5 — Paradigm, theoretical lens and method**\n\nPragmatism guides our method choices because we want evidence that can inform design decisions in this context. Multiple Resource Theory is a sensitising lens for considering competing demands. We will use a focused qualitative study, with one complete walk as one case. Observation and later interviews let us examine actions and participants' explanations together.\n\n---\n\n**Page 6 — Why these methods?**\n\nEach method helps us understand a different part of the same journey. Observation records the actions and their surroundings. Semi-structured interviews explore what participants were trying to do and how the experience felt. Reviewing selected episodes connects those explanations to specific moments. We then analyse each walk and compare cases to develop contextual information categories and preliminary design guidance.\n\n---\n\n**Page 7 — Research objectives**\n\nWe have four research objectives.\n\nFirst, we will identify information needs and observable interaction episodes across an unfamiliar walking journey.\n\nSecond, we will identify participant-reported moments of feeling overwhelmed, examine possible sources of difficulty, and explore perceived consequences for enjoyment, confidence, continued exploration and reaching the destination.\n\nThird, we will develop a classification linking information roles, contextual demands and participant explanations, including contrasting cases.\n\nFinally, we will derive evidence-linked guidance for presenting timing, detail and delivery, with clear limits on what has been evaluated.\n\n---\n\n**Page 8 — Research plan in detail**\n\nWe have explained the research gap, our objectives and why we chose these methods. Next, we will walk through our research plan in detail, including participants, route selection, the session workflow, data collection and analysis.\n\n---\n\n**Page 9 — Participants and recruitment**\n\nWe aim to recruit six main participants: adults who arrived in Hong Kong within the past six months and are unfamiliar with the selected route. Recruitment and completed sessions remain unconfirmed. Everyone will use Google Maps, while we record previous app experience and language settings. Each participant walks individually, without peers coaching them.\n\n---\n\n**Page 10 — Why start with six participants?**\n\nWe acknowledge the limits of this study. Given the project timeline, this is a focused, exploratory study in which each case combines a walking observation with an in-depth interview. We propose six participants as an initial target for three reasons.\n\nFirst, we will screen participants against our study criteria, so each case is relevant to the research question. Screening supports relevance; it does not guarantee rich data.\n\nSecond, six cases are feasible within the schedule while allowing us to examine each journey and interview in depth, then compare cases.\n\nThird, we will review the evidence iteratively. If key questions remain unresolved, we will recruit further participants to address those gaps. We will assess whether interpretations are well supported and whether additional cases bring substantively new insights, rather than assume that six guarantees saturation. If time prevents further recruitment, we will narrow our claims and report the remaining limitations.\n:::"
+        }
+      ]
+    },
+    {
+      "id": "01a13d5d-29ba-778d-a82f-b487a2ed208e",
+      "time_hkt": "2026-10-15T10:21:18.000+08:00",
+      "messages": [
+        {
+          "role": "user",
+          "text": "帮我导出page文档",
+          "unavailable_images": []
+        },
+        {
+          "role": "assistant",
+          "text": "已导出第1–10页的纯英文讲稿，可直接用 Apple Pages 打开编辑：\n\n[下载讲稿文档.docx](sandbox:/workspace/scratch/603cc11beee8/output/SD5008_Safari_Script_Slides_01_to_10.docx)"
+        }
+      ]
+    }
+  ]
+}
+
