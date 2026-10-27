@@ -29,10 +29,10 @@
 
 | 编号 | 资料 | 整理状态 |
 |---|---|---|
-| P01 UserA-Sarah | GPX（warm-up＋正式）、40 段研究员语音备忘、DJI 视频 2 段、iPhone 照片／视频 | [初步观察分析](fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md)及[自动转写](fieldwork/sessions/P01_2026-10-27_transcripts_ASR.md)；未校对 |
+| P01 UserA-Sarah | GPX（warm-up＋正式）、40 段研究员语音备忘、DJI 视频 2 段、iPhone 照片／视频 | [视频优先报告](fieldwork/sessions/P01_2026-10-27_video-first-report.md)（逐秒视频编码＋分说话人转写，2026-10-28）；早先的[初稿](fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md)；均待团队核对 |
 | P02 UserB-Caicai | 视频与照片；未见 GPX、备忘或记录表 | 尚未整理 |
 
-P01 没有填写 v3 记录表，走后访谈约 1 分钟；初步分析列出了十个片段和十项执行问题，**不是研究结论**。下一位参与者前建议先处理时钟同步、GPX 停止时间、介入规则和访谈时长（见分析第 4 节）。
+P01 没有填写 v3 记录表，走后访谈约 1 分钟。视频分析显示：现场有两名研究员，共 7 次介入；地下通道处的"路人"待确认。这些都是**待核对的分析，不是研究结论**。下一位参与者前，建议先处理一对一跟随、介入规则、时钟同步、GPX 停止时间和访谈时长（见报告第 7 节）。
 
 ## 已取得与未知
 

@@ -1,6 +1,6 @@
 # Research and Analysis for Design
 
-**SD5008 · PolyU ISD · Safari · Repository v0.2.0 · 27 October 2026**
+**SD5008 · PolyU ISD · Safari · Repository v0.3.0 · 28 October 2026**
 
 This repository preserves the Safari team's research process, literature, decisions and deliverables for **Attention Allocation and Navigation Information Design for Newcomers to Hong Kong**. The project examines how information supports orientation, action and confirmation during unfamiliar walking journeys, and when it is associated with interaction burden.
 
@@ -12,7 +12,7 @@ On 26 October 2026 the user supplied a confirmed route and four execution files:
 
 The supplied manual specifies one researcher following one participant; primary fieldnotes; auxiliary neck-mounted GoPro recording for verification and episode recall; and Hong Kong clock times. Its seven shorthand action labels are mapped to earlier labels in the [codebook crosswalk](docs/fieldwork/CODEBOOK_CROSSWALK.md).
 
-The route is confirmed as the team's plan. Fieldwork began on 27 October 2026: raw media for P01 and P02 are on Google Drive/iCloud, and P01 has a [preliminary observation analysis](docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md) (unverified, not a finding). Completed v3 record forms, full interviews and the contents of ethics approval have not been supplied. The manual's approximately 28 minutes / 1.9 km is a planning estimate; indoor store-finding time remains to be checked. Blank forms and illustrative events are not collected data.
+The route is confirmed as the team's plan. Fieldwork began on 27 October 2026: raw media for P01 and P02 are on Google Drive/iCloud, and P01 has a [video-first analysis report](docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md) (second-by-second video coding; awaiting team review, not a finding). Completed v3 record forms, full interviews and the contents of ethics approval have not been supplied. The manual's approximately 28 minutes / 1.9 km is a planning estimate; indoor store-finding time remains to be checked. Blank forms and illustrative events are not collected data.
 
 ## Reading paths
 

@@ -20,7 +20,7 @@ Use the user-supplied 2026-10-26 extended-route v3 files for fieldwork execution
 
 Keep the old seven verbose action labels and current shorthand labels mapped; do not merge PHONE_VIEW and PHONE_INPUT. PHONE_SEARCH was a possible additional code discussed earlier, not an eighth confirmed shorthand label. Define and version new codes and back-check prior records when appropriate.
 
-Route selection is confirmed. Fieldwork started on 2026-10-27: raw media for P01 (UserA-Sarah) and P02 (UserB-Caicai) exist on Google Drive/iCloud, and P01 has a preliminary, unverified analysis in `docs/fieldwork/sessions/`. Ethics document scope and results remain unverified. A sample filename such as P01_20261023_MAIN is not evidence that a participant session occurred. When aligning P01 media, note the DJI camera clock runs about 15 min 30 s ahead of phone/GPS time.
+Route selection is confirmed. Fieldwork started on 2026-10-27: raw media for P01 (UserA-Sarah) and P02 (UserB-Caicai) exist on Google Drive/iCloud, and P01 has a preliminary, unverified analysis in `docs/fieldwork/sessions/`. Ethics document scope and results remain unverified. A sample filename such as P01_20261023_MAIN is not evidence that a participant session occurred. When aligning P01 media, note the DJI camera clock runs 931.5 s ahead of phone/GPS time (audio cross-correlation). The video-first P01 report is the current analysis; the earlier memo-based draft is superseded where they disagree.
 
 ## Evidence discipline
 

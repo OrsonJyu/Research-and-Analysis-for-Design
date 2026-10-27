@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "interpretation": "Analytic and provenance relationships only; no edge asserts causation or validated research findings. One preliminary participant session (P01) has been summarised; it is unverified participant evidence, not a finding.",
   "nodes": [
     {
@@ -309,8 +309,10 @@
       "label": "P01 session 2026-10-27 (raw media + preliminary episode list)",
       "status": "unverified_participant_evidence",
       "source_paths": [
-        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md",
-        "docs/fieldwork/sessions/P01_2026-10-27_transcripts_ASR.md"
+        "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md",
+        "docs/fieldwork/sessions/P01_video_coding_log.md",
+        "docs/fieldwork/sessions/P01_2026-10-27_walk-audio_diarized_ASR.md",
+        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
       ]
     }
   ],
@@ -683,6 +685,26 @@
       "status": "preliminary_analysis",
       "source_paths": [
         "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
+      ]
+    },
+    {
+      "id": "E038",
+      "from": "evidence:P01",
+      "to": "classification",
+      "relation": "suggests_candidate_dimensions_transition_points_and_timing_conflict",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E039",
+      "from": "evidence:P01",
+      "to": "function",
+      "relation": "suggests_adding_recognition_function",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md"
       ]
     }
   ]
