@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-26",
-  "interpretation": "Analytic and provenance relationships only; no edge asserts causation or validated research findings. Participant evidence has not been supplied.",
+  "updated": "2026-10-27",
+  "interpretation": "Analytic and provenance relationships only; no edge asserts causation or validated research findings. One preliminary participant session (P01) has been summarised; it is unverified participant evidence, not a finding.",
   "nodes": [
     {
       "id": "research-question",
@@ -302,6 +302,15 @@
       "bibliography_id": "navalpakkam2014",
       "source_paths": [
         "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
+      ]
+    },
+    {
+      "id": "evidence:P01",
+      "label": "P01 session 2026-10-27 (raw media + preliminary episode list)",
+      "status": "unverified_participant_evidence",
+      "source_paths": [
+        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md",
+        "docs/fieldwork/sessions/P01_2026-10-27_transcripts_ASR.md"
       ]
     }
   ],
@@ -645,7 +654,36 @@
       "source_paths": [
         "deliverables/presentations/presentation-02/SLIDE_TEXT.md"
       ]
+    },
+    {
+      "id": "E035",
+      "from": "evidence:P01",
+      "to": "episodes",
+      "relation": "provides_candidate_episodes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
+      ]
+    },
+    {
+      "id": "E036",
+      "from": "evidence:P01",
+      "to": "source",
+      "relation": "suggests_tracking_source_handoffs",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
+      ]
+    },
+    {
+      "id": "E037",
+      "from": "evidence:P01",
+      "to": "necessity",
+      "relation": "offers_contrasting_cases",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
+      ]
     }
   ]
 }
-

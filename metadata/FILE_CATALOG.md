@@ -1,6 +1,6 @@
 # 完整文件目录 File catalog
 
-Version 0.1.0 · 162 indexed files · 142,273,083 bytes.
+Version 0.2.0 · 164 indexed files · 142,315,265 bytes.
 
 Indexes do not hash themselves. Imported sources are also mapped in [import-manifest.json](import-manifest.json).
 
@@ -20,13 +20,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [AGENTS.md](../AGENTS.md) | 4,034 | repository documentation |
+| [AGENTS.md](../AGENTS.md) | 4,246 | repository documentation |
 
 ## CHANGELOG.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [CHANGELOG.md](../CHANGELOG.md) | 1,552 | repository documentation |
+| [CHANGELOG.md](../CHANGELOG.md) | 2,062 | repository documentation |
 
 ## CONTRIBUTING.md
 
@@ -38,13 +38,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.en.md](../README.en.md) | 3,149 | repository documentation |
+| [README.en.md](../README.en.md) | 3,365 | repository documentation |
 
 ## README.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.md](../README.md) | 3,295 | repository documentation |
+| [README.md](../README.md) | 3,408 | repository documentation |
 
 ## VERSION
 
@@ -151,11 +151,11 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [docs/DECISIONS.md](../docs/DECISIONS.md) | 2,847 | repository documentation |
+| [docs/DECISIONS.md](../docs/DECISIONS.md) | 3,111 | repository documentation |
 | [docs/IMPORT.md](../docs/IMPORT.md) | 702 | repository documentation |
-| [docs/INDEX.md](../docs/INDEX.md) | 2,024 | repository documentation |
-| [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 1,547 | repository documentation |
-| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 4,250 | repository documentation |
+| [docs/INDEX.md](../docs/INDEX.md) | 2,246 | repository documentation |
+| [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 1,906 | repository documentation |
+| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 5,113 | repository documentation |
 | [docs/PROVENANCE.md](../docs/PROVENANCE.md) | 2,961 | repository documentation |
 | [docs/RESEARCH_BRIEF.md](../docs/RESEARCH_BRIEF.md) | 4,009 | repository documentation |
 | [docs/VERSIONING.md](../docs/VERSIONING.md) | 1,423 | repository documentation |
@@ -163,6 +163,8 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | [docs/fieldwork/MANUAL_CN.md](../docs/fieldwork/MANUAL_CN.md) | 6,307 | repository documentation |
 | [docs/fieldwork/RECORD_FORM_CN.md](../docs/fieldwork/RECORD_FORM_CN.md) | 2,539 | repository documentation |
 | [docs/fieldwork/ROUTE.md](../docs/fieldwork/ROUTE.md) | 2,129 | repository documentation |
+| [docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md](../docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md) | 13,289 | repository documentation |
+| [docs/fieldwork/sessions/P01_2026-10-27_transcripts_ASR.md](../docs/fieldwork/sessions/P01_2026-10-27_transcripts_ASR.md) | 23,746 | repository documentation |
 
 ## knowledge
 
@@ -170,14 +172,14 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 |---|---:|---|
 | [knowledge/README.md](../knowledge/README.md) | 3,083 | repository documentation |
 | [knowledge/bibliography.json](../knowledge/bibliography.json) | 11,960 | repository documentation |
-| [knowledge/graph.json](../knowledge/graph.json) | 18,105 | repository documentation |
+| [knowledge/graph.json](../knowledge/graph.json) | 19,392 | repository documentation |
 
 ## metadata
 
 | File | Bytes | Origin |
 |---|---:|---|
 | [metadata/import-manifest.json](../metadata/import-manifest.json) | 58,113 | repository documentation |
-| [metadata/project.json](../metadata/project.json) | 1,625 | repository documentation |
+| [metadata/project.json](../metadata/project.json) | 2,726 | repository documentation |
 
 ## references
 

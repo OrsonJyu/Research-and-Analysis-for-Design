@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
-  "repository_version": "0.1.0",
+  "repository_version": "0.2.0",
   "course": "SD5008",
   "team": "Safari",
   "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "timezone": "Asia/Hong_Kong",
   "visibility_at_import": "private",
   "latest_execution_baseline": "extended-route-v3 received 2026-10-26",
@@ -28,7 +28,31 @@
     "recruited_count": null,
     "completed_main_cases": null,
     "ethics_document_inspected": false,
-    "findings_received": false
+    "findings_received": false,
+    "fieldwork_started": "2026-10-27",
+    "sessions_with_raw_data": [
+      {
+        "id": "P01",
+        "label": "UserA-Sarah",
+        "date": "2026-10-27",
+        "raw_data_location": "Google Drive / iCloud Navigation Observations/UserA-Sarah",
+        "analysis": "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md",
+        "record_form_completed": false,
+        "full_interview": false
+      },
+      {
+        "id": "P02",
+        "label": "UserB-Caicai",
+        "date": "2026-10-27",
+        "raw_data_location": "Google Drive / iCloud Navigation Observations/UserB-Caicai",
+        "analysis": null,
+        "record_form_completed": "unknown",
+        "full_interview": "unknown"
+      }
+    ],
+    "preliminary_session_analysis": [
+      "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
+    ]
   },
   "entrypoints": {
     "human": "README.md",
@@ -40,6 +64,10 @@
     "graph": "knowledge/graph.json",
     "files": "metadata/file-catalog.json"
   },
-  "sync_mode": "Task-driven updates; no recurring background automation configured."
+  "sync_mode": "Task-driven updates; no recurring background automation configured.",
+  "data_policy": {
+    "decided": "2026-10-27",
+    "by": "user",
+    "rule": "Personal private repository; the user does not require excluding participant names or raw data from it (D014). Raw media still lives on Drive/iCloud because of size."
+  }
 }
-

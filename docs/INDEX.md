@@ -9,6 +9,7 @@
 | 当前执行 | [路线与手册](../deliverables/fieldwork/extended-route-v3/README.md) | 用户提供的四份 v3 文件 |
 | 可搜索执行文本 | [手册](fieldwork/MANUAL_CN.md)、[记录表](fieldwork/RECORD_FORM_CN.md) | 从 DOCX 提取，原件保持不变 |
 | 代码对照 | [CODEBOOK_CROSSWALK](fieldwork/CODEBOOK_CROSSWALK.md) | 简写与旧标签对应及新增代码规则 |
+| 参与者观察 | [P01 分析](fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md)、[P01 转写](fieldwork/sessions/P01_2026-10-27_transcripts_ASR.md) | 2026-10-27 起的观察整理；初稿，未校对 |
 | 成果目录 | [deliverables](../deliverables/README.md) | V1–V3 方案、第一次汇报、第二次汇报、讲稿 |
 | 知识网 | [knowledge](../knowledge/README.md) | 可读关系图、JSON 图谱、文献清单 |
 | 原始资料 | [references](../references/README.md) | 课程、论文、教师讨论及方法书籍 |

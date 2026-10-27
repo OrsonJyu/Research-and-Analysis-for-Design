@@ -20,7 +20,7 @@ Use the user-supplied 2026-10-26 extended-route v3 files for fieldwork execution
 
 Keep the old seven verbose action labels and current shorthand labels mapped; do not merge PHONE_VIEW and PHONE_INPUT. PHONE_SEARCH was a possible additional code discussed earlier, not an eighth confirmed shorthand label. Define and version new codes and back-check prior records when appropriate.
 
-Route selection is confirmed. Pilot completion, main sessions, ethics document scope, data storage and results remain unverified. A sample filename such as P01_20261023_MAIN is not evidence that a participant session occurred.
+Route selection is confirmed. Fieldwork started on 2026-10-27: raw media for P01 (UserA-Sarah) and P02 (UserB-Caicai) exist on Google Drive/iCloud, and P01 has a preliminary, unverified analysis in `docs/fieldwork/sessions/`. Ethics document scope and results remain unverified. A sample filename such as P01_20261023_MAIN is not evidence that a participant session occurred. When aligning P01 media, note the DJI camera clock runs about 15 min 30 s ahead of phone/GPS time.
 
 ## Evidence discipline
 
@@ -40,6 +40,6 @@ Maintain Chinese and English proposal meaning together when revising the proposa
 
 Use concise, meaningful commits. Update `VERSION`, `CHANGELOG.md`, `metadata/project.json`, current state and decision records when applicable. Preserve the actual dates of new work; do not backdate recovered history. Do not fabricate Git commits for September or October discussions.
 
-After changes run `python3 scripts/build_catalog.py` and `python3 scripts/check_repository.py`. Keep binary sources out of noisy temporary render folders. Do not upload participant identities, signatures, precise participant tracks or recordings into this documentation repository as a routine sync; use the study's agreed restricted storage and document an anonymised evidence index instead.
+After changes run `python3 scripts/build_catalog.py` and `python3 scripts/check_repository.py`. Keep binary sources out of noisy temporary render folders. This is the user's personal private repository; per D014 (2026-10-27) participant names, transcripts and tracks may be kept here. Large raw media stay on Google Drive/iCloud and are referenced by path.
 
 The user has authorised maintaining and updating this repository for this project. Carry out routine organisation, documentation and synchronisation within that scope. Do not claim an ongoing background sync is running unless one has actually been configured.
