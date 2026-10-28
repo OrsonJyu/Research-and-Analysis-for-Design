@@ -314,6 +314,16 @@
         "docs/fieldwork/sessions/P01_2026-10-27_walk-audio_diarized_ASR.md",
         "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
       ]
+    },
+    {
+      "id": "evidence:P02",
+      "label": "P02 session 2026-10-27 (video, audio; no GPX/interview)",
+      "status": "unverified_participant_evidence",
+      "source_paths": [
+        "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
+        "docs/fieldwork/sessions/P02_video_coding_log.md",
+        "docs/fieldwork/sessions/P02_2026-10-27_audio_diarized_ASR.md"
+      ]
     }
   ],
   "edges": [
@@ -705,6 +715,36 @@
       "status": "preliminary_analysis",
       "source_paths": [
         "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E040",
+      "from": "evidence:P02",
+      "to": "episodes",
+      "relation": "provides_candidate_episodes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E041",
+      "from": "evidence:P02",
+      "to": "cross-case",
+      "relation": "first_cross_case_comparison_with_P01",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E042",
+      "from": "evidence:P02",
+      "to": "repetition",
+      "relation": "environment_sources_present_but_mismatched_organisation",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md"
       ]
     }
   ]

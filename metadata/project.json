@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
-  "repository_version": "0.3.0",
+  "repository_version": "0.4.0",
   "course": "SD5008",
   "team": "Safari",
   "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
@@ -47,13 +47,16 @@
         "label": "UserB-Caicai",
         "date": "2026-10-27",
         "raw_data_location": "Google Drive / iCloud Navigation Observations/UserB-Caicai",
-        "analysis": null,
-        "record_form_completed": "unknown",
-        "full_interview": "unknown"
+        "analysis": "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
+        "record_form_completed": false,
+        "full_interview": false,
+        "gpx_received": false,
+        "camera_clock_verified": false
       }
     ],
     "preliminary_session_analysis": [
       "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md",
+      "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
       "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
     ]
   },
