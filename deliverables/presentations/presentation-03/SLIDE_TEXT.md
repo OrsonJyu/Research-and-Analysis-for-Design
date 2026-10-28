@@ -2,7 +2,7 @@
 
 Captured: 2026-10-29. Source: [Figma Slides, Pre-1028](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028).
 
-Slide order follows the slide grid. Grouped rows are joined into one line; footers (course header, `SAFARI / 28 OCTOBER 2026`, page counter) are omitted. Layout, images and speaker notes stay in Figma. Slides 9–12 (video memo filtering) were added on 2026-10-29; slides 8 and 14 now use the unified T/K codes (D015).
+Slide order follows the slide grid. Grouped rows are joined into one line; footers (course header, `SAFARI / 28 OCTOBER 2026`, page counter) are omitted. Layout, images and speaker notes stay in Figma. Slides 9–12 (video memo filtering) were added on 2026-10-29; slides 8 and 14 now use the unified T/K codes (D015). Slide 9 follows the team workflow: voice-memo observation logs → video check → interview corroboration → code-combination descriptions.
 
 ## Slide 01
 
@@ -216,25 +216,25 @@ Q is not inferred from a backward look or showing a phone. R is a researcher pro
 
 Data Filtering: Video Memo Coding
 
-Selecting traceable segments from each walk video before cross-case coding
+Re-describing observed segments from voice-memo logs, checked against video and interviews
 
-HOW EACH WALK WAS FILTERED
+HOW SEGMENTS WERE FILTERED
 
-01 Video first
+01 Voice-memo observation logs
 
-Review the whole walk frame by frame (1 fps); fix the observation before reading other sources.
+Start from the researcher’s transcribed voice memos: the observation log of each walk.
 
-02 Audio track
+02 Check against the video
 
-Machine transcript used as a search index; not yet checked line by line.
+Review each logged moment in the recording; confirm, correct or add what the memo missed.
 
-03 Researcher voice memo
+03 Corroborate with interviews
 
-Compare with the video: confirmed, corrected or newly added.
+Use semi-structured interview accounts to support or question the segment, where available.
 
-04 Post-walk interview
+04 Re-describe with code combinations
 
-Participant explanations linked to segments, kept apart from what was seen.
+Rewrite each selected segment as a code sequence, e.g. S + P → S + H, with location, situation and environment.
 
 FILTERED RECORDS BY PARTICIPANT
 

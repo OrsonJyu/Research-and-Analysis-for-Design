@@ -2,6 +2,10 @@
 
 版本为研究仓库的版本，与 proposal V3、路线手册 v3 分开。日期采用 Asia/Hong_Kong。
 
+## [0.7.1] — 2026-10-29
+
+- 按用户更正改写 Pre-1028 第 9 页的筛选步骤：以研究员语音备忘整理成的观察日志为起点 → 对照视频核查 → 用半结构化访谈印证 → 用代码组合重新描述片段。原稿写成"视频优先"，与团队工作流不符。文字快照同步更新。
+
 ## [0.7.0] — 2026-10-29
 
 - 新增第三次汇报（Data Collection Progress Report，Figma Slides「Pre-1028」）文字快照：`deliverables/presentations/presentation-03/`，含逐页文字与 node ID。
