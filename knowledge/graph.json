@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "interpretation": "Analytic and provenance relationships only; no edge asserts causation or validated research findings. Preliminary participant sessions (P01, P02, P04) have been summarised; they are unverified participant evidence, not findings.",
   "nodes": [
     {
@@ -312,17 +312,20 @@
         "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md",
         "docs/fieldwork/sessions/P01_video_coding_log.md",
         "docs/fieldwork/sessions/P01_2026-10-27_walk-audio_diarized_ASR.md",
-        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
+        "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md",
+        "docs/fieldwork/sessions/P01_2026-10-27_post-walk-interview_transcript.md",
+        "docs/fieldwork/sessions/P01_2026-10-27_post-walk-interview_by-question.md"
       ]
     },
     {
       "id": "evidence:P02",
-      "label": "P02 session 2026-10-27 (video, audio; no GPX/interview)",
+      "label": "P02 session 2026-10-27 (video, audio, 27:53 interview; no GPX)",
       "status": "unverified_participant_evidence",
       "source_paths": [
         "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
         "docs/fieldwork/sessions/P02_video_coding_log.md",
-        "docs/fieldwork/sessions/P02_2026-10-27_audio_diarized_ASR.md"
+        "docs/fieldwork/sessions/P02_2026-10-27_audio_diarized_ASR.md",
+        "docs/fieldwork/sessions/P02_2026-10-27_interview-transcript-and-evidence.md"
       ]
     },
     {
@@ -334,6 +337,25 @@
         "docs/fieldwork/sessions/P04_video_coding.md",
         "docs/fieldwork/sessions/P04_video_frame_log.md",
         "docs/fieldwork/sessions/P04_2026-10-28_audio_diarized_ASR.md"
+      ]
+    },
+    {
+      "id": "evidence:P03",
+      "label": "P03 session 2026-10-27 (Peter; teammate coding, interview analysis, GPX)",
+      "status": "unverified_participant_evidence",
+      "source_paths": [
+        "docs/fieldwork/sessions/P03_2026-10-27_detailed-video-coding_EN.md",
+        "docs/fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md",
+        "docs/fieldwork/sessions/P03_2026-10-27_presentation-brief_EN.md",
+        "docs/fieldwork/sessions/P03_2026-10-28_interview_transcript.md"
+      ]
+    },
+    {
+      "id": "evidence:P05",
+      "label": "P05 session 2026-10-28 (Chenggong; researcher memo only; video/GPX unanalysed)",
+      "status": "unverified_participant_evidence",
+      "source_paths": [
+        "docs/fieldwork/sessions/P05_2026-10-28_researcher-memo.md"
       ]
     }
   ],
@@ -796,6 +818,116 @@
       "status": "preliminary_analysis",
       "source_paths": [
         "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E047",
+      "from": "evidence:P03",
+      "to": "episodes",
+      "relation": "proposes_decision_episode_sequences",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md"
+      ]
+    },
+    {
+      "id": "E048",
+      "from": "evidence:P03",
+      "to": "attention",
+      "relation": "reports_vibration_as_check_trigger",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md"
+      ]
+    },
+    {
+      "id": "E049",
+      "from": "evidence:P03",
+      "to": "interview",
+      "relation": "links_interview_to_coded_episodes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md"
+      ]
+    },
+    {
+      "id": "E050",
+      "from": "evidence:P05",
+      "to": "source",
+      "relation": "reports_indoor_source_switch",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P05_2026-10-28_researcher-memo.md"
+      ]
+    },
+    {
+      "id": "E051",
+      "from": "evidence:P01",
+      "to": "interview",
+      "relation": "post_walk_interview_available",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P01_2026-10-27_post-walk-interview_by-question.md"
+      ]
+    },
+    {
+      "id": "E052",
+      "from": "evidence:P02",
+      "to": "interview",
+      "relation": "post_walk_interview_available",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P02_2026-10-27_interview-transcript-and-evidence.md"
+      ]
+    },
+    {
+      "id": "E053",
+      "from": "evidence:P01",
+      "to": "cross-case",
+      "relation": "included_in_cross_case_notes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/CROSS_CASE_NOTES.md"
+      ]
+    },
+    {
+      "id": "E054",
+      "from": "evidence:P02",
+      "to": "cross-case",
+      "relation": "included_in_cross_case_notes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/CROSS_CASE_NOTES.md"
+      ]
+    },
+    {
+      "id": "E055",
+      "from": "evidence:P03",
+      "to": "cross-case",
+      "relation": "included_in_cross_case_notes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/CROSS_CASE_NOTES.md"
+      ]
+    },
+    {
+      "id": "E056",
+      "from": "evidence:P04",
+      "to": "cross-case",
+      "relation": "included_in_cross_case_notes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/CROSS_CASE_NOTES.md"
+      ]
+    },
+    {
+      "id": "E057",
+      "from": "evidence:P05",
+      "to": "cross-case",
+      "relation": "included_in_cross_case_notes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/CROSS_CASE_NOTES.md"
       ]
     }
   ]

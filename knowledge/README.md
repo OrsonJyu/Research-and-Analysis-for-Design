@@ -38,6 +38,6 @@ flowchart TD
 
 [graph.json](graph.json) 使用稳定节点 ID、明确关系类型、状态及仓库相对来源路径。`theoretical_lens`、`research_question`、`working_proposal`、`execution_plan`、`user_confirmed_plan` 与 `unverified_status` 不得混用。边是研究整理关系，不是已验证因果关系。
 
-当前没有参与者结果节点。收到实际材料后，新增匿名 evidence ID，区分原始观察、当下报告、事后解释和研究者推断，再将分类与设计建议连接到可检查证据；同时保留反例和替代解释。
+当前参与者节点为 `evidence:P01`–`evidence:P05`（均为未核实证据，P05 只有研究员备忘），跨案例关系指向[跨案例笔记](../docs/fieldwork/CROSS_CASE_NOTES.md)。新增材料时继续使用 evidence ID，区分原始观察、当下报告、事后解释和研究者推断，再将分类与设计建议连接到可检查证据；同时保留反例和替代解释。
 
 来源：[研究简报](../docs/RESEARCH_BRIEF.md)、[9 月文献记忆](../archive/2026-09-21/memory/Safari_SD5008_Memory_Pack/LITERATURE_MEMORY.md)、[历史分类讨论](../archive/discussions/01a0c2e7-9fa8-7cb3-9202-b2636b6eb003.md)、[当前手册](../docs/fieldwork/MANUAL_CN.md)。

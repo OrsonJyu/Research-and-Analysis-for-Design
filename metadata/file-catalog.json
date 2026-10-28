@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "repository_version": "0.5.0",
+  "repository_version": "0.6.0",
   "coverage": "All repository files except these three generated indexes, Git internals and temporary caches.",
   "excluded_generated_indexes": [
     "metadata/FILE_CATALOG.md",
@@ -26,17 +26,17 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 4742,
-      "sha256": "dc5be4042d85c604a4b57353ceeb9f6e940c0706cbf61a406870b4b120dcd988",
-      "git_blob_sha": "ff0ab790ccc761947d11f0930b42765b9c4ef9c8",
+      "bytes": 5020,
+      "sha256": "95027093b76a5d04dab2b7062bb25e3e0e5dc45d5562a9a2c44f71950ed921bd",
+      "git_blob_sha": "b64ddec22242ec751e8e98912d9b47b10ebf92b1",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 3559,
-      "sha256": "541a42a09f3deef577d7128a7b389df35dce074944b655044cc99cb7ade6f4f7",
-      "git_blob_sha": "e6f3d47ef7ec360dd6737af12aa4ce0cd5973d4b",
+      "bytes": 4388,
+      "sha256": "d73ec96bd096f6341dfedab42179d840e1190aa5d952751f7b7db4ace041a78e",
+      "git_blob_sha": "c8d318255181b8c085834b2146a992eb41fd5ed1",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -50,25 +50,25 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 3653,
-      "sha256": "92b51577ff72ea01b0c2f84d384ff821cc2efaa5cbe89ea2f6ca3ad2f80f5634",
-      "git_blob_sha": "48b5470433de948291bbcd691f7f3d0acb148291",
+      "bytes": 3917,
+      "sha256": "3e9f511e6caef83c71a4656dc989af8025097af397f56dc488ee7647a6b58eb4",
+      "git_blob_sha": "f1b35370fe2bf818e5b91d683cb09e722fa354a2",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "README.md",
-      "bytes": 3679,
-      "sha256": "b34a17db21b7e44154f04457bd4bed09faa0e8f57f188eb6a583fee93e26a9b2",
-      "git_blob_sha": "337594c7aff4aae21212b419c845de445db6f501",
+      "bytes": 3893,
+      "sha256": "b41aa2f485f925cace1ddd2469a8ed882b4c35631176f43b226eada866be40af",
+      "git_blob_sha": "921e4215935e8f1da6962f95370fd7dd38427570",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "VERSION",
       "bytes": 6,
-      "sha256": "a0ad50640139a524f86591157145bf1d4674ea9c065bfea21558f0f7b04430c8",
-      "git_blob_sha": "8f0916f768f0487bcf8d33827ce2c8dcecb645c1",
+      "sha256": "97a5d6e540a6120d09c39ddb667e0e8e2bac7fcc2ffef813b82e08fd60365bce",
+      "git_blob_sha": "a918a2aa18d5bec6a8bb93891a7a63c243111796",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1227,33 +1227,33 @@
     },
     {
       "path": "docs/INDEX.md",
-      "bytes": 2911,
-      "sha256": "8fe119059288fb57935097c271d164e1eaac71756aed81541a395048be1ff4a2",
-      "git_blob_sha": "a95859cda2f16b5d48eb7fb789489529077dd333",
+      "bytes": 3778,
+      "sha256": "dc8f88af73af2eaaa98ccc772e07e164a4fac560dbef846283dbf7a120c95cb7",
+      "git_blob_sha": "f4ac7fb38ae13ef508e9b0b0c91dd511eb183145",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "docs/OPEN_QUESTIONS.md",
-      "bytes": 2903,
-      "sha256": "f99226d8e08a0418db2e192913369d0c66dece173f303f898be97ad00e0673ba",
-      "git_blob_sha": "c7675e766cdef86a7ada4a95ca7d8807681d5b63",
+      "bytes": 3763,
+      "sha256": "ead8dc096d10522df87aa75e3d2a38d5c10101023875dd2fa8ae67feccace466",
+      "git_blob_sha": "f98507c3c44bb4e9a4707373bfe5e9a6f1c75d5a",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "docs/PROJECT_STATE.md",
-      "bytes": 5993,
-      "sha256": "0dc65cb2acecc6d9a62346529fe8612f5943041eaa35aa952230c9288301c333",
-      "git_blob_sha": "e09ee27db118d4d861eb4ed67e23a71a214fae9a",
+      "bytes": 7328,
+      "sha256": "9235ca16fb0f3f7e16628f06c8af271bf1bf21e606b27bbf7a55e51dcce04026",
+      "git_blob_sha": "4b1ef7e606c9c516399a40df27dfbdb6577cda65",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "docs/PROVENANCE.md",
-      "bytes": 2961,
-      "sha256": "febee7476e341f30464ab6a14b394927765d2e96bc9a821a796ce157e5ce0b55",
-      "git_blob_sha": "77650fb627487f391210756e3efb12bbc3219140",
+      "bytes": 3246,
+      "sha256": "1e49ff38fcfb981abb1306135101ff665cdde4e91ef70b7015f21b29158edb90",
+      "git_blob_sha": "54d34aea4c52e7e00be425986cf07ce2890a9888",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1278,6 +1278,14 @@
       "bytes": 1539,
       "sha256": "fc4d46898960fc6830bbc7cb994d9754816a70123127606d9b3192e23eda330d",
       "git_blob_sha": "8a607a29c99f2c4c5757816d5ebcdea942f00904",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/CROSS_CASE_NOTES.md",
+      "bytes": 9549,
+      "sha256": "7a1db74919b724db7d4abf080c6f85d820dfaca61e81c698e5b69981495667fa",
+      "git_blob_sha": "8ee278775a32ce3c4f99fb7ad58e7c7b6d4088bb",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1310,6 +1318,22 @@
       "bytes": 13790,
       "sha256": "1a203ce625f4d3badf8f6a6ad2cbf4f666fe83e22c78cc954ffdb35631ca0c2c",
       "git_blob_sha": "72ee42f6d905156cd8a509cca555881563b66c1a",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/sessions/P01_2026-10-27_post-walk-interview_by-question.md",
+      "bytes": 8011,
+      "sha256": "67dd98ba8838ba542f89417526a81c0a086de76dab600575ba96193ffdd72461",
+      "git_blob_sha": "ae9a79162577aa435e5683e76f39ebaa0e180dda",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/sessions/P01_2026-10-27_post-walk-interview_transcript.md",
+      "bytes": 11897,
+      "sha256": "dc0dbae5be4c52856ac3451c7edc677873cd66566672656b9cd37e99a2405772",
+      "git_blob_sha": "0e76b5d4b7f257599d3e1e9c313a2f0a2c9ff800",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1362,6 +1386,14 @@
       "kind": "curated-or-generated"
     },
     {
+      "path": "docs/fieldwork/sessions/P02_2026-10-27_interview-transcript-and-evidence.md",
+      "bytes": 30793,
+      "sha256": "6de32b263d6d14c5e4ef475d484bd78e2e8ee3b82200f8688cb9a05dfa7d829e",
+      "git_blob_sha": "ee12f555eae22e0f5ce652bc180a1b9f09e814fc",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
       "path": "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
       "bytes": 15457,
       "sha256": "80e772b3c5b43f48e37591ff7e51a28715214bfe4c1512d8a1ab05766a70da16",
@@ -1382,6 +1414,38 @@
       "bytes": 19325,
       "sha256": "5521e3ffe954d0ad8abdbd6969ff10d2a3d499a9fe2cc2ad1c2b32d5d0c5e764",
       "git_blob_sha": "b7c3f87d4e66ed04caaee0545fb5efb4216f020c",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/sessions/P03_2026-10-27_detailed-video-coding_EN.md",
+      "bytes": 32691,
+      "sha256": "59b0e8d07e6b92d0777c2a4e1aaaaa6f881f0cafe895f463df55cd1c9bf828c7",
+      "git_blob_sha": "d3c8f0261d040386829ce468a6f63ec32b6b2ff4",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md",
+      "bytes": 14772,
+      "sha256": "b47bde6479f335360717e9192fc22ef18f42b0459ed8652a82ba2ade7f985bdb",
+      "git_blob_sha": "b93509a46fd6befb3af12b8606d84c9e7464bf24",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/sessions/P03_2026-10-27_presentation-brief_EN.md",
+      "bytes": 9656,
+      "sha256": "16b816c8229c30dacf428c596f58b1632a6eaeaa4857ff4229d62f798ec374d4",
+      "git_blob_sha": "df75ca9519b8aba44d379df890a4cd89a61774eb",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/sessions/P03_2026-10-28_interview_transcript.md",
+      "bytes": 17852,
+      "sha256": "67dbd3717205f47001cac15e5e471abdfb067830c9cbd91711e44534aea32b12",
+      "git_blob_sha": "1d398395bea5b73f42eb00d03ccc1d3345e0cec1",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1422,6 +1486,14 @@
       "bytes": 31949,
       "sha256": "dafcc1e07b34cc435eeba68a7f0100642aa40744305247dd17bcec271bab1c6d",
       "git_blob_sha": "b29bf6880257114007c33482c2df31ebaf5ef89d",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/fieldwork/sessions/P05_2026-10-28_researcher-memo.md",
+      "bytes": 14000,
+      "sha256": "f702fd4105092160b65a641b15a50efd7c04963f708da1be026fadd59e9a008d",
+      "git_blob_sha": "903e5c0e24a4b1acdc6ef63aa9e9c4d17665e50c",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1539,9 +1611,9 @@
     },
     {
       "path": "knowledge/README.md",
-      "bytes": 3083,
-      "sha256": "b9f338f744adab39930a59c3e57e7061870eff9832793e7b6d5b657289029c4f",
-      "git_blob_sha": "e1bc423dab210a896d225f7f67a196e59d5c5ec4",
+      "bytes": 3232,
+      "sha256": "494ff4809cc345bc2ceba0d8b81f0e75a6f18651449f5adaa1ee27649d0e9bd3",
+      "git_blob_sha": "11c42abc408e47c12989f8e0a64ded36153e91a4",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1555,33 +1627,33 @@
     },
     {
       "path": "knowledge/graph.json",
-      "bytes": 23087,
-      "sha256": "8578707baebafcb146bda37d30e3a8c64bb8d1ede1dc5376cc54bccc5d33377b",
-      "git_blob_sha": "a234921cd2f49d8417b84b6e8b4951781319286a",
+      "bytes": 27171,
+      "sha256": "be8bf3446a9d63733f18a0a16bda43aa257e6195f772d402cc6c1772005288d1",
+      "git_blob_sha": "64091cbdd42e5d2924f14c985ae06135aad7f3f1",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "metadata/import-manifest.json",
-      "bytes": 58113,
-      "sha256": "d33969895bce9629ba09298f7ac934cfd9d1c2a2b2fa4c4415fd21bd37f0d945",
-      "git_blob_sha": "eea789a0d44f996e270f981bf500d2b152f5de6f",
+      "bytes": 61329,
+      "sha256": "5a72f81618670cef50d7538f3a4e70ef7452fb0180471a7d654a829c2369473f",
+      "git_blob_sha": "7b6a77384facd53011b7d22439559fda10fe30c8",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "metadata/project.json",
-      "bytes": 3857,
-      "sha256": "512c90b1ee671fd2f1f70981d164554b4823e80bbf3f360b740f4f28731feae3",
-      "git_blob_sha": "589c3d44dd960f75d068f6cfa860d462267967a6",
+      "bytes": 5498,
+      "sha256": "84dd51feb6d30c48ccfe85099509fa67af5280e9eb84b106dbf1027f21fab219",
+      "git_blob_sha": "9abd7c5bcd1a63ed9f7a8e9d21f68e7cf891ca87",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "references/README.md",
-      "bytes": 9926,
-      "sha256": "3def698caf173ee07b0f4052cfed431282ef4f6f9359248be5811204a6133b3a",
-      "git_blob_sha": "4dcaa0aa302d6613e5730a610b22597c02dcd6f3",
+      "bytes": 10055,
+      "sha256": "547334f92436d89371aebf524f76bae0b2011ad1673f702075a54440d5118737",
+      "git_blob_sha": "ba15e2be9963a44dd13e79da9a7cef298e8254d3",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1636,6 +1708,126 @@
         {
           "source_collection": "local-course-folder",
           "source_path": "W03_lecture.pdf",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/README.md",
+      "bytes": 2776,
+      "sha256": "10aa0a647ae5ac34036bb519396114e0d725a3172f3300bbc569799faea2f4dc",
+      "git_blob_sha": "7daf1eefd49ceec32f54a2868d19eed5fe7f2f25",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "references/fieldwork-team/UserA-Sara/Post-Walk Interview.docx",
+      "bytes": 17396,
+      "sha256": "2cfb9fddd6b43e3f43e5b0ae9db21b66bd7bb7b792b52f283b56dc206c141b04",
+      "git_blob_sha": "f6d9bca6eb10b0e3f0517adb6fa6ddcbe3e4b4cd",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserA-Sara/Post-Walk Interview.docx",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/UserA-Sara/Sara — Post-Walk Interview Transcript.docx",
+      "bytes": 18910,
+      "sha256": "0c96cdc866915d061ce4a66e54dc8a8546c0cc659569955bf8d7d152156098be",
+      "git_blob_sha": "c983688ba0eeeab2a5f26b2538725628c16fe749",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserA-Sara/Sara — Post-Walk Interview Transcript.docx",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/UserB-Caicai/02_P02_Transcript_and_Evidence_CN.docx",
+      "bytes": 51953,
+      "sha256": "87053cd8b73448096d7ebb7ec4cd7482d1c5f09056753d79ccd5b80e476e0f59",
+      "git_blob_sha": "3962371b9139e1a10fb892d6d82fc4d017abb294",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserB-Caicai/02_P02_Transcript_and_Evidence_CN.docx",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/UserC-Peter/01_Participant_C_Presentation_Brief_EN.docx",
+      "bytes": 42045,
+      "sha256": "56451b37fce24cf1bc0cdc8d1758b0c3df77f01f882f7180b6a2493d515ef573",
+      "git_blob_sha": "3c248d6f05ec0368131da755379a9cf7b626eeb8",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserC-Peter/01_Participant_C_Presentation_Brief_EN.docx",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/UserC-Peter/02_Participant_C_Detailed_Video_Coding_EN.docx",
+      "bytes": 51877,
+      "sha256": "22d073a9191bc4722aa4a1b5e960e063a0eb45c5bdb33674f4fb175e3ba6d23e",
+      "git_blob_sha": "3c66cee735475e5487e3c707328f7ebd5ca6d2ff",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserC-Peter/02_Participant_C_Detailed_Video_Coding_EN.docx",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/UserC-Peter/03_Participant_C_Interview_Analysis_EN.docx",
+      "bytes": 44228,
+      "sha256": "44a42299c1bf54755ec04af4bc46c53390d1a2b055312ce8cdd0abc71e1b6fba",
+      "git_blob_sha": "88467c21562130b90f3c849cec7914c4a92f4a1d",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserC-Peter/03_Participant_C_Interview_Analysis_EN.docx",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/UserC-Peter/10-28 用户导航体验与决策逻辑访谈.docx",
+      "bytes": 22155,
+      "sha256": "2a845c9c27addf2a1820108b60663848db7e2746125cfa88678d03aa6952fa0d",
+      "git_blob_sha": "f65ce61342458592f0224ffd5ef1acfd65a623c3",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserC-Peter/10-28 用户导航体验与决策逻辑访谈.docx",
+          "status": "copied"
+        }
+      ],
+      "kind": "imported-source"
+    },
+    {
+      "path": "references/fieldwork-team/UserE-Chenggong/程功语音Memo.docx",
+      "bytes": 20084,
+      "sha256": "12a688602cc4d9c59d15cbc5a90950e80bbba26d4323ac499b9dc82373ff403a",
+      "git_blob_sha": "4dc0b13fda4eb1052f51fc27a62034886dcc9734",
+      "sources": [
+        {
+          "source_collection": "team-drive-2026-10-28",
+          "source_path": "Navigation Observations/UserE-Chenggong/程功语音Memo.docx",
           "status": "copied"
         }
       ],

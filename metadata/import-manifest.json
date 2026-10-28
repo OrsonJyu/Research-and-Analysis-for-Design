@@ -1186,6 +1186,70 @@
       "status": "copied",
       "sha256": "319593a3122731e71879c0f9ccc0def9e8123d97fd16c511a67363be536ac3e6",
       "bytes": 227311
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserA-Sara/Sara — Post-Walk Interview Transcript.docx",
+      "repository_path": "references/fieldwork-team/UserA-Sara/Sara — Post-Walk Interview Transcript.docx",
+      "status": "copied",
+      "sha256": "0c96cdc866915d061ce4a66e54dc8a8546c0cc659569955bf8d7d152156098be",
+      "bytes": 18910
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserA-Sara/Post-Walk Interview.docx",
+      "repository_path": "references/fieldwork-team/UserA-Sara/Post-Walk Interview.docx",
+      "status": "copied",
+      "sha256": "2cfb9fddd6b43e3f43e5b0ae9db21b66bd7bb7b792b52f283b56dc206c141b04",
+      "bytes": 17396
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserB-Caicai/02_P02_Transcript_and_Evidence_CN.docx",
+      "repository_path": "references/fieldwork-team/UserB-Caicai/02_P02_Transcript_and_Evidence_CN.docx",
+      "status": "copied",
+      "sha256": "87053cd8b73448096d7ebb7ec4cd7482d1c5f09056753d79ccd5b80e476e0f59",
+      "bytes": 51953
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserC-Peter/01_Participant_C_Presentation_Brief_EN.docx",
+      "repository_path": "references/fieldwork-team/UserC-Peter/01_Participant_C_Presentation_Brief_EN.docx",
+      "status": "copied",
+      "sha256": "56451b37fce24cf1bc0cdc8d1758b0c3df77f01f882f7180b6a2493d515ef573",
+      "bytes": 42045
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserC-Peter/02_Participant_C_Detailed_Video_Coding_EN.docx",
+      "repository_path": "references/fieldwork-team/UserC-Peter/02_Participant_C_Detailed_Video_Coding_EN.docx",
+      "status": "copied",
+      "sha256": "22d073a9191bc4722aa4a1b5e960e063a0eb45c5bdb33674f4fb175e3ba6d23e",
+      "bytes": 51877
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserC-Peter/03_Participant_C_Interview_Analysis_EN.docx",
+      "repository_path": "references/fieldwork-team/UserC-Peter/03_Participant_C_Interview_Analysis_EN.docx",
+      "status": "copied",
+      "sha256": "44a42299c1bf54755ec04af4bc46c53390d1a2b055312ce8cdd0abc71e1b6fba",
+      "bytes": 44228
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserC-Peter/10-28 用户导航体验与决策逻辑访谈.docx",
+      "repository_path": "references/fieldwork-team/UserC-Peter/10-28 用户导航体验与决策逻辑访谈.docx",
+      "status": "copied",
+      "sha256": "2a845c9c27addf2a1820108b60663848db7e2746125cfa88678d03aa6952fa0d",
+      "bytes": 22155
+    },
+    {
+      "source_collection": "team-drive-2026-10-28",
+      "source_path": "Navigation Observations/UserE-Chenggong/程功语音Memo.docx",
+      "repository_path": "references/fieldwork-team/UserE-Chenggong/程功语音Memo.docx",
+      "status": "copied",
+      "sha256": "12a688602cc4d9c59d15cbc5a90950e80bbba26d4323ac499b9dc82373ff403a",
+      "bytes": 20084
     }
   ]
 }

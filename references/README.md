@@ -8,6 +8,7 @@
 | 原项目来源 | `project-sources/` | checklist、samples、9 月小组 outline 和教师讨论 |
 | 导航论文及下载状态 | `literature/` | 七份已下载 PDF 与原下载 manifest；未取得全文状态保留 |
 | 方法书籍及章节 | `methods-books/` | Research methods in HCI 和 Ways of knowing in HCI 原件 |
+| 组员实地资料 | [`fieldwork-team/`](fieldwork-team/README.md) | 2026-10-28 组员上传的访谈、编码与备忘 DOCX |
 
 ## 原件导航
 

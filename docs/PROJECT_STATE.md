@@ -23,25 +23,27 @@
 
 手册的 **28 分钟／1.9 km 是路线截图估算，非实测**，室内找店时间另核对。不得继续把旧方案的 15–20 分钟步行、45–60 分钟总时长直接作为新路线的最终预算。
 
-## 实地进度（2026-10-28 更新）
+## 实地进度（2026-10-29 更新）
 
 2026-10-27 已进行两位参与者的路线观察，2026-10-28 又进行了 Tom 和 Chenggong 两场，原始资料在 Google Drive 与本机 iCloud 的 `Navigation Observations/`：
 
 | 编号 | 资料 | 整理状态 |
 |---|---|---|
-| P01 UserA-Sarah | GPX（warm-up＋正式）、40 段研究员语音备忘、DJI 视频 2 段、iPhone 照片／视频 | [视频优先报告](fieldwork/sessions/P01_2026-10-27_video-first-report.md)（逐秒视频编码＋分说话人转写，2026-10-28）；早先的[初稿](fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md)；均待团队核对 |
-| P02 UserB-Caicai | Insta360 视频 2 段；未见 GPX、备忘、记录表或访谈 | [视频优先报告及与 P01 的对照](fieldwork/sessions/P02_2026-10-27_video-first-report.md)（2026-10-28）；待团队核对 |
-| P03 UserC-Peter | 由队友在 FigJam 编码（Peter Video Coding V1/V2） | 不在本仓库 |
+| P01 UserA-Sarah | GPX（warm-up＋正式）、40 段研究员语音备忘、DJI 视频 2 段、iPhone 照片／视频；**完整走后访谈整理稿**（组员 10-28 上传） | [视频优先报告](fieldwork/sessions/P01_2026-10-27_video-first-report.md)（逐秒视频编码＋分说话人转写，2026-10-28）；早先的[初稿](fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md)；[访谈逐字整理](fieldwork/sessions/P01_2026-10-27_post-walk-interview_transcript.md)、[按问题整理](fieldwork/sessions/P01_2026-10-27_post-walk-interview_by-question.md)；均待团队核对 |
+| P02 UserB-Caicai | Insta360 视频 2 段；**27:53 走后访谈**（录音在 Drive，采访者 Eric）；未见 GPX、备忘或记录表 | [视频优先报告及与 P01 的对照](fieldwork/sessions/P02_2026-10-27_video-first-report.md)（2026-10-28）；[访谈转写与 INT01–INT11 证据](fieldwork/sessions/P02_2026-10-27_interview-transcript-and-evidence.md)（组员整理）；待团队核对 |
+| P03 UserC-Peter（10-27 傍晚） | iPhone 视频 3 段（约 26:20，两处缺口）、GPX（有缺口、早停）、10-28 线上访谈约 15:46 | 组员英文整理：[视频编码](fieldwork/sessions/P03_2026-10-27_detailed-video-coding_EN.md)、[访谈分析](fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md)、[汇报 brief](fieldwork/sessions/P03_2026-10-27_presentation-brief_EN.md)、[访谈转写](fieldwork/sessions/P03_2026-10-28_interview_transcript.md)；FigJam 另有 V1/V2 |
 | P04 UserD-Tom（2026-10-28） | iPhone 视频（正式＋warm-up）、GPX、3 张屏幕照片；语音备忘在视频音轨中；到达后约 2 分钟现场访谈 | [视频优先报告](fieldwork/sessions/P04_2026-10-28_video-first-report.md)、[筛选版片段编码](fieldwork/sessions/P04_video_coding.md)（已同步 FigJam）；待团队核对 |
-| P05 UserE-Chenggong（2026-10-28） | DJI 视频、GPX | 待分析 |
+| P05 UserE-Chenggong（2026-10-28） | DJI 视频（约 10 GB）、GPX、研究员语音备忘整理稿；未见走后访谈 | [研究员语音备忘](fieldwork/sessions/P05_2026-10-28_researcher-memo.md)；视频与 GPX 待分析 |
 
-P01 没有填写 v3 记录表，走后访谈约 1 分钟。视频分析显示：现场有两名研究员，共 7 次介入；地下通道处的"路人"待确认。这些都是**待核对的分析，不是研究结论**。下一位参与者前，建议先处理一对一跟随、介入规则、时钟同步、GPX 停止时间和访谈时长（见报告第 7 节）。
+五个案例的共同情境、协议问题和待讨论事项汇总在[跨案例笔记](fieldwork/CROSS_CASE_NOTES.md)（助手整理稿，待核对）。组员原件在 [references/fieldwork-team](../references/fieldwork-team/README.md)。
+
+P01 没有填写 v3 记录表；到店后现场问答约 1 分钟，另有一场组员整理的完整走后访谈（录制时间未注明）。视频分析显示：现场有两名研究员，共 7 次介入；地下通道处的"路人"待确认。这些都是**待核对的分析，不是研究结论**。下一位参与者前，建议先处理一对一跟随、介入规则、时钟同步、GPX 停止时间和访谈时长（见报告第 7 节）。
 
 ## 已取得与未知
 
 已取得：V1–V3 方案、9 月讨论记忆、40 条主线历史对话及 1 条过渡聊天记录、课程材料、文献／方法书籍、汇报 PPTX／PDF、Pages 讲稿、Figma 两页文字快照以及本次四份执行文件。
 
-尚未取得：已填写的 v3 记录表和完整访谈、最终完成数量、伦理批准原文及适用范围、最终数据存储／保留安排、最终研究分析与报告。旧汇报中的伦理收件情况是历史转述，不能替代批准文件审阅；空白表、示例时间和示例文件名也不能作为完成证据。
+尚未取得：已填写的 v3 记录表、P04 和 P05 的完整访谈、最终完成数量、伦理批准原文及适用范围、最终数据存储／保留安排、最终研究分析与报告。旧汇报中的伦理收件情况是历史转述，不能替代批准文件审阅；空白表、示例时间和示例文件名也不能作为完成证据。
 
 ## 版本适用关系
 

@@ -11,6 +11,7 @@
 | 可访问历史聊天 | 主线两份聊天共 40 个 turn，加一份过渡聊天 1 个 turn | 仅用户可见文本与最终回复；不含内部推理、工具日志或无法取得的附件 |
 | Figma | `111` 页 1407 个文字节点；`pre` 页 37 个顶层 frame 的文字与 node ID | 2026-10-26 实时读取；文字快照不包含可编辑设计几何、嵌入图像或动画 |
 | 本次用户资料 | 路线链接；extended-route v3 手册和记录表各 DOCX／PDF | 以收到日期登记，不把示例编号当成研究数据 |
+| 组员 Drive 文档（2026-10-29 入库） | P01、P02、P03、P05 的访谈整理、编码、分析和备忘，共 8 份 DOCX | 从本机同步的共享 Drive 复制；视频、音频、GPX 仍留在 Drive；见 [references/fieldwork-team](../references/fieldwork-team/README.md) |
 
 ## 追溯方法
 

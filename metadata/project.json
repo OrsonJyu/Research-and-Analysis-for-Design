@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
-  "repository_version": "0.5.0",
+  "repository_version": "0.6.0",
   "course": "SD5008",
   "team": "Safari",
   "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "timezone": "Asia/Hong_Kong",
   "visibility_at_import": "private",
   "latest_execution_baseline": "extended-route-v3 received 2026-10-26",
@@ -38,9 +38,13 @@
         "raw_data_location": "Google Drive / iCloud Navigation Observations/UserA-Sarah",
         "analysis": "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md",
         "record_form_completed": false,
-        "full_interview": false,
+        "full_interview": true,
         "researchers_on_site": 2,
-        "researcher_interventions_coded": 7
+        "researcher_interventions_coded": 7,
+        "interview": [
+          "docs/fieldwork/sessions/P01_2026-10-27_post-walk-interview_transcript.md",
+          "docs/fieldwork/sessions/P01_2026-10-27_post-walk-interview_by-question.md"
+        ]
       },
       {
         "id": "P02",
@@ -49,9 +53,24 @@
         "raw_data_location": "Google Drive / iCloud Navigation Observations/UserB-Caicai",
         "analysis": "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
         "record_form_completed": false,
-        "full_interview": false,
+        "full_interview": true,
         "gpx_received": false,
-        "camera_clock_verified": false
+        "camera_clock_verified": false,
+        "interview_seconds": 1673,
+        "interview": "docs/fieldwork/sessions/P02_2026-10-27_interview-transcript-and-evidence.md"
+      },
+      {
+        "id": "P03",
+        "label": "UserC-Peter",
+        "date": "2026-10-27",
+        "raw_data_location": "Google Drive Navigation Observations/UserC-Peter",
+        "analysis": "docs/fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md",
+        "coding": "docs/fieldwork/sessions/P03_2026-10-27_detailed-video-coding_EN.md",
+        "analysed_by": "teammate (English documents, 2026-10-28)",
+        "full_interview": true,
+        "interview": "docs/fieldwork/sessions/P03_2026-10-28_interview_transcript.md",
+        "gpx_received": true,
+        "note": "Three clips ~26:20 with 45 s and 19 s gaps; GPX has gaps and ends early."
       },
       {
         "id": "P04",
@@ -66,15 +85,29 @@
         "gpx_received": true,
         "camera_clock_verified": true,
         "researcher_interventions_coded": 4,
-        "note": "P03 = UserC-Peter, coded by a teammate on FigJam (not in this repository). Researcher narration calls Tom 'user C'; numbering to be unified."
+        "note": "Researcher narration calls Tom 'user C' while Peter's documents call him 'Participant C'; this repository uses P03 = Peter, P04 = Tom. Warm-up overlaps P05 (both 13:14)."
+      },
+      {
+        "id": "P05",
+        "label": "UserE-Chenggong",
+        "date": "2026-10-28",
+        "raw_data_location": "Google Drive Navigation Observations/UserE-Chenggong",
+        "memo": "docs/fieldwork/sessions/P05_2026-10-28_researcher-memo.md",
+        "analysis": null,
+        "full_interview": false,
+        "gpx_received": true,
+        "camera_clock_verified": false,
+        "note": "DJI filename 13:37:23 vs GPX 13:21:57 (~926 s), possibly the same offset as P01; to verify."
       }
     ],
     "preliminary_session_analysis": [
       "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md",
       "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
       "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md",
-      "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
-    ]
+      "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md",
+      "docs/fieldwork/CROSS_CASE_NOTES.md"
+    ],
+    "team_documents": "references/fieldwork-team/README.md"
   },
   "entrypoints": {
     "human": "README.md",

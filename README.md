@@ -28,7 +28,7 @@
 
 最新版手册采用一位研究员跟随一位参与者、现场笔记为主、挂脖 GoPro 辅助核对及片段回顾，并统一用香港时钟记录。七个简写代码与旧版标签有对应关系，见[代码对照](docs/fieldwork/CODEBOOK_CROSSWALK.md)。
 
-**2026-10-27 已开始实地观察**：P01、P02（10-27）与 P04、P05（10-28）的原始资料在 Google Drive／iCloud；已有视频优先报告：[P01](docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md)、[P02 及跨案例对照](docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md)、[P04 Tom](docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md)（附[筛选版片段编码](docs/fieldwork/sessions/P04_video_coding.md)）；均待团队核对，不是结论。已填写的 v3 记录表、完整访谈和伦理批准文件仍未取得。地图的约 28 分钟／1.9 km 是手册中的规划估算，室内找店时间另核对。
+**2026-10-27 已开始实地观察**：P01、P02（10-27）与 P04、P05（10-28）的原始资料在 Google Drive／iCloud；已有视频优先报告：[P01](docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md)、[P02 及跨案例对照](docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md)、[P04 Tom](docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md)（附[筛选版片段编码](docs/fieldwork/sessions/P04_video_coding.md)）；组员上传的 P01、P02 走后访谈、P03（Peter）英文编码与访谈分析、P05（程功）研究员备忘已入库，五个案例汇总见[跨案例笔记](docs/fieldwork/CROSS_CASE_NOTES.md)；均待团队核对，不是结论。已填写的 v3 记录表、P04／P05 完整访谈和伦理批准文件仍未取得。地图的约 28 分钟／1.9 km 是手册中的规划估算，室内找店时间另核对。
 
 9 月中英文 proposal V3 与 10 月汇报均按原件保存。发生冲突时，先看[版本适用关系](docs/PROJECT_STATE.md)；不要用旧的双人分工、候选终点或 45–60 分钟预算覆盖新手册。
 
