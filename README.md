@@ -6,7 +6,7 @@
 
 这是 Safari 小组的研究、讨论过程、文献与成果档案。我们研究陌生步行导航中的信息如何帮助定向、行动和确认，以及在什么情境下伴随交互负担。预期产出是情境化信息分类与初步设计建议。
 
-**仓库版本：v0.4.0 · 整理日期：2026-10-28 · 时区：Asia/Hong_Kong**  
+**仓库版本：v0.7.0 · 整理日期：2026-10-29 · 时区：Asia/Hong_Kong**  
 [English guide](README.en.md) · [全部文件导航](docs/INDEX.md) · [更新历史](CHANGELOG.md)
 
 ## 第一次来这里
@@ -26,7 +26,7 @@
 
 用户于 **2026-10-26** 提供了正式路线及四份 v3 执行文件。正式路线为 **PolyU 南门 → K11 Art Mall（必要途经）→ K11 MUSEA 的 Barbour 店门口（3F 319）**。Art Mall 是途中节点，到 Barbour 店门口才结束。见[路线档案](docs/fieldwork/ROUTE.md)。
 
-最新版手册采用一位研究员跟随一位参与者、现场笔记为主、挂脖 GoPro 辅助核对及片段回顾，并统一用香港时钟记录。七个简写代码与旧版标签有对应关系，见[代码对照](docs/fieldwork/CODEBOOK_CROSSWALK.md)。
+最新版手册采用一位研究员跟随一位参与者、现场笔记为主、挂脖 GoPro 辅助核对及片段回顾，并统一用香港时钟记录。七个简写代码与旧版标签有对应关系；2026-10-29 新增 T（与研究员交谈）和 K（公共导览屏），见[代码对照](docs/fieldwork/CODEBOOK_CROSSWALK.md)。最新汇报是[数据收集进度汇报 Pre-1028](deliverables/presentations/presentation-03/SLIDE_TEXT.md)。
 
 **2026-10-27 已开始实地观察**：P01、P02（10-27）与 P04、P05（10-28）的原始资料在 Google Drive／iCloud；已有视频优先报告：[P01](docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md)、[P02 及跨案例对照](docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md)、[P04 Tom](docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md)（附[筛选版片段编码](docs/fieldwork/sessions/P04_video_coding.md)）；组员上传的 P01、P02 走后访谈、P03（Peter）英文编码与访谈分析、P05（程功）研究员备忘已入库，五个案例汇总见[跨案例笔记](docs/fieldwork/CROSS_CASE_NOTES.md)；均待团队核对，不是结论。已填写的 v3 记录表、P04／P05 完整访谈和伦理批准文件仍未取得。地图的约 28 分钟／1.9 km 是手册中的规划估算，室内找店时间另核对。
 

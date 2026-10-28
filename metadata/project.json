@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
-  "repository_version": "0.6.0",
+  "repository_version": "0.7.0",
   "course": "SD5008",
   "team": "Safari",
   "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
@@ -124,5 +124,27 @@
     "decided": "2026-10-27",
     "by": "user",
     "rule": "Personal private repository; the user does not require excluding participant names or raw data from it (D014). Raw media still lives on Drive/iCloud because of size."
+  },
+  "action_codes": {
+    "current": [
+      "S",
+      "P",
+      "I",
+      "H",
+      "G",
+      "Q",
+      "R",
+      "T",
+      "K"
+    ],
+    "decision": "D015 (2026-10-29): working codes unified as T (RESEARCHER_TALK) and K (KIOSK_USE); P03 G*/D* merged into K; back-check pending",
+    "crosswalk": "docs/fieldwork/CODEBOOK_CROSSWALK.md"
+  },
+  "latest_presentation": {
+    "id": "presentation-03",
+    "title": "Data Collection Progress Report (Pre-1028)",
+    "figma": "https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028",
+    "text_snapshot": "deliverables/presentations/presentation-03/SLIDE_TEXT.md",
+    "captured": "2026-10-29"
   }
 }

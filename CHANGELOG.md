@@ -2,6 +2,12 @@
 
 版本为研究仓库的版本，与 proposal V3、路线手册 v3 分开。日期采用 Asia/Hong_Kong。
 
+## [0.7.0] — 2026-10-29
+
+- 新增第三次汇报（Data Collection Progress Report，Figma Slides「Pre-1028」）文字快照：`deliverables/presentations/presentation-03/`，含逐页文字与 node ID。
+- 汇报新增第 9–12 页：video memo 数据筛选概览（五人片段数与分级）、P04 V12 后巷片段案例、研究员语音备忘与视频的对照（印证／修正／新增）、五条待跨案例检验的候选模式。按用户要求只展示数据与可能发现，不放设计方案。
+- 用户决定把新增工作代码统一为 T（RESEARCHER_TALK）和 K（KIOSK_USE），P03 的 G\*／D\* 并入 K（D015）。汇报第 8、14 页同步修改；代码对照加入两行定义和回查清单；跨案例笔记、待补充事项相应更新。
+
 ## [0.6.0] — 2026-10-29
 
 - 从共享 Google Drive 归档组员 2026-10-28 上传的 8 份 DOCX：P01（Sara）走后访谈两份、P02（Caicai）访谈转写与证据、P03（Peter）英文汇报 brief、视频编码、访谈分析和访谈转写、P05（程功）研究员语音备忘。原件字节不变，登记在来源映射；文字版在 `docs/fieldwork/sessions/`。

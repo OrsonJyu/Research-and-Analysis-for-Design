@@ -15,6 +15,11 @@
 - [Safari_SD5008_Research_Proposal_V3_中文.md](proposal/Safari_SD5008_Research_Proposal_V3_%E4%B8%AD%E6%96%87.md)
 - [Safari_V2_修订说明与文献核验.md](proposal/Safari_V2_%E4%BF%AE%E8%AE%A2%E8%AF%B4%E6%98%8E%E4%B8%8E%E6%96%87%E7%8C%AE%E6%A0%B8%E9%AA%8C.md)
 
+## 第三次汇报 Presentation 03（数据收集进度，2026-10-28／29）
+
+- [Figma Slides「Pre-1028」](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028)：15 页，可编辑原件在 Figma。
+- [逐页文字](presentations/presentation-03/SLIDE_TEXT.md)与[文字及 node ID 快照](presentations/presentation-03/figma-text-snapshot.json)，2026-10-29 采集。第 9–12 页为 video memo 筛选数据与候选模式；第 8、14 页使用统一后的 T／K 代码。
+
 ## 第二次汇报与讲稿 Presentation 02
 
 - [汇报 PDF](presentations/presentation-02/local-export/ISD_safari_presentation2.pdf)：本机已有导出，保留当时版本。

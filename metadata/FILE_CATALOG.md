@@ -1,6 +1,6 @@
 # 完整文件目录 File catalog
 
-Version 0.6.0 · 209 indexed files · 146,544,469 bytes.
+Version 0.7.0 · 211 indexed files · 146,578,550 bytes.
 
 Indexes do not hash themselves. Imported sources are also mapped in [import-manifest.json](import-manifest.json).
 
@@ -20,13 +20,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [AGENTS.md](../AGENTS.md) | 5,020 | repository documentation |
+| [AGENTS.md](../AGENTS.md) | 5,149 | repository documentation |
 
 ## CHANGELOG.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [CHANGELOG.md](../CHANGELOG.md) | 4,388 | repository documentation |
+| [CHANGELOG.md](../CHANGELOG.md) | 5,165 | repository documentation |
 
 ## CONTRIBUTING.md
 
@@ -38,13 +38,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.en.md](../README.en.md) | 3,917 | repository documentation |
+| [README.en.md](../README.en.md) | 4,156 | repository documentation |
 
 ## README.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.md](../README.md) | 3,893 | repository documentation |
+| [README.md](../README.md) | 4,076 | repository documentation |
 
 ## VERSION
 
@@ -80,7 +80,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [deliverables/README.md](../deliverables/README.md) | 3,354 | repository documentation |
+| [deliverables/README.md](../deliverables/README.md) | 3,842 | repository documentation |
 | [deliverables/course-working-files/Safari_SD5008_Research_Presentation.pptx](../deliverables/course-working-files/Safari_SD5008_Research_Presentation.pptx) | 1,861,118 | local-course-folder |
 | [deliverables/course-working-files/Safari_SD5008_Research_Proposal.docx](../deliverables/course-working-files/Safari_SD5008_Research_Proposal.docx) | 44,279 | local-course-folder |
 | [deliverables/course-working-files/Safari_SD5008_Research_Proposal.pdf](../deliverables/course-working-files/Safari_SD5008_Research_Proposal.pdf) | 178,176 | local-course-folder |
@@ -136,6 +136,8 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | [deliverables/presentations/presentation-02/local-export/Group 1-9.png](../deliverables/presentations/presentation-02/local-export/Group%201-9.png) | 1,088,511 | local-course-folder |
 | [deliverables/presentations/presentation-02/local-export/Group 1.png](../deliverables/presentations/presentation-02/local-export/Group%201.png) | 5,282,977 | local-course-folder |
 | [deliverables/presentations/presentation-02/local-export/ISD_safari_presentation2.pdf](../deliverables/presentations/presentation-02/local-export/ISD_safari_presentation2.pdf) | 24,828,209 | local-course-folder |
+| [deliverables/presentations/presentation-03/SLIDE_TEXT.md](../deliverables/presentations/presentation-03/SLIDE_TEXT.md) | 13,839 | repository documentation |
+| [deliverables/presentations/presentation-03/figma-text-snapshot.json](../deliverables/presentations/presentation-03/figma-text-snapshot.json) | 15,775 | repository documentation |
 | [deliverables/proposal/Safari_SD5008_Research_Proposal.docx](../deliverables/proposal/Safari_SD5008_Research_Proposal.docx) | 44,483 | local-course-folder, project-mirror |
 | [deliverables/proposal/Safari_SD5008_Research_Proposal.pdf](../deliverables/proposal/Safari_SD5008_Research_Proposal.pdf) | 108,673 | project-mirror |
 | [deliverables/proposal/Safari_SD5008_Research_Proposal_V2.docx](../deliverables/proposal/Safari_SD5008_Research_Proposal_V2.docx) | 49,449 | local-course-folder, project-mirror |
@@ -151,16 +153,16 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [docs/DECISIONS.md](../docs/DECISIONS.md) | 3,111 | repository documentation |
+| [docs/DECISIONS.md](../docs/DECISIONS.md) | 3,554 | repository documentation |
 | [docs/IMPORT.md](../docs/IMPORT.md) | 702 | repository documentation |
 | [docs/INDEX.md](../docs/INDEX.md) | 3,778 | repository documentation |
-| [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 3,763 | repository documentation |
-| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 7,328 | repository documentation |
+| [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 3,855 | repository documentation |
+| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 7,686 | repository documentation |
 | [docs/PROVENANCE.md](../docs/PROVENANCE.md) | 3,246 | repository documentation |
 | [docs/RESEARCH_BRIEF.md](../docs/RESEARCH_BRIEF.md) | 4,009 | repository documentation |
 | [docs/VERSIONING.md](../docs/VERSIONING.md) | 1,423 | repository documentation |
-| [docs/fieldwork/CODEBOOK_CROSSWALK.md](../docs/fieldwork/CODEBOOK_CROSSWALK.md) | 1,539 | repository documentation |
-| [docs/fieldwork/CROSS_CASE_NOTES.md](../docs/fieldwork/CROSS_CASE_NOTES.md) | 9,549 | repository documentation |
+| [docs/fieldwork/CODEBOOK_CROSSWALK.md](../docs/fieldwork/CODEBOOK_CROSSWALK.md) | 2,581 | repository documentation |
+| [docs/fieldwork/CROSS_CASE_NOTES.md](../docs/fieldwork/CROSS_CASE_NOTES.md) | 9,609 | repository documentation |
 | [docs/fieldwork/MANUAL_CN.md](../docs/fieldwork/MANUAL_CN.md) | 6,307 | repository documentation |
 | [docs/fieldwork/RECORD_FORM_CN.md](../docs/fieldwork/RECORD_FORM_CN.md) | 2,539 | repository documentation |
 | [docs/fieldwork/ROUTE.md](../docs/fieldwork/ROUTE.md) | 2,129 | repository documentation |
@@ -215,7 +217,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | File | Bytes | Origin |
 |---|---:|---|
 | [metadata/import-manifest.json](../metadata/import-manifest.json) | 61,329 | repository documentation |
-| [metadata/project.json](../metadata/project.json) | 5,498 | repository documentation |
+| [metadata/project.json](../metadata/project.json) | 6,154 | repository documentation |
 
 ## references
 

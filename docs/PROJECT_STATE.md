@@ -35,6 +35,8 @@
 | P04 UserD-Tom（2026-10-28） | iPhone 视频（正式＋warm-up）、GPX、3 张屏幕照片；语音备忘在视频音轨中；到达后约 2 分钟现场访谈 | [视频优先报告](fieldwork/sessions/P04_2026-10-28_video-first-report.md)、[筛选版片段编码](fieldwork/sessions/P04_video_coding.md)（已同步 FigJam）；待团队核对 |
 | P05 UserE-Chenggong（2026-10-28） | DJI 视频（约 10 GB）、GPX、研究员语音备忘整理稿；未见走后访谈 | [研究员语音备忘](fieldwork/sessions/P05_2026-10-28_researcher-memo.md)；视频与 GPX 待分析 |
 
+2026-10-29 的进度汇报（[Pre-1028 文字快照](../deliverables/presentations/presentation-03/SLIDE_TEXT.md)）加入了 video memo 筛选数据、一个片段案例、备忘与视频对照和五条候选模式；同日用户决定新增代码统一为 T／K（[D015](DECISIONS.md)），已有编码待回查。
+
 五个案例的共同情境、协议问题和待讨论事项汇总在[跨案例笔记](fieldwork/CROSS_CASE_NOTES.md)（助手整理稿，待核对）。组员原件在 [references/fieldwork-team](../references/fieldwork-team/README.md)。
 
 P01 没有填写 v3 记录表；到店后现场问答约 1 分钟，另有一场组员整理的完整走后访谈（录制时间未注明）。视频分析显示：现场有两名研究员，共 7 次介入；地下通道处的"路人"待确认。这些都是**待核对的分析，不是研究结论**。下一位参与者前，建议先处理一对一跟随、介入规则、时钟同步、GPX 停止时间和访谈时长（见报告第 7 节）。
@@ -56,7 +58,7 @@ P01 没有填写 v3 记录表；到店后现场问答约 1 分钟，另有一场
 | 双人观察／摄像角色 | 当前是一对一跟随，安全停稳后简记，无法兼顾则暂停或调整 |
 | T0＋秒表或 elapsed timer | 当前统一香港时钟，GPS 时长辅助 |
 | 影像分析预算 | 相机仅辅助核对及回顾；不得恢复独立视频编码任务 |
-| 七个完整英文行为标签 | 当前现场使用 S／P／I／H／G／Q／R；[对照表](fieldwork/CODEBOOK_CROSSWALK.md)保留语义 |
+| 七个完整英文行为标签 | 当前使用 S／P／I／H／G／Q／R，另加 2026-10-29 统一的 T／K（D015）；[对照表](fieldwork/CODEBOOK_CROSSWALK.md)保留语义 |
 | 9 月十篇背景文献 | 10 月汇报选八篇；两份选集分别保留，不互相覆盖 |
 
 研究流程文件是团队执行资料，不是让 agent 自行招募、拍摄或联系参与者的命令。新材料到来后更新本页、决策记录、知识网和版本历史。
