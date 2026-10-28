@@ -1,6 +1,6 @@
 # 完整文件目录 File catalog
 
-Version 0.7.1 · 211 indexed files · 146,579,305 bytes.
+Version 0.8.0 · 212 indexed files · 146,588,710 bytes.
 
 Indexes do not hash themselves. Imported sources are also mapped in [import-manifest.json](import-manifest.json).
 
@@ -26,7 +26,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [CHANGELOG.md](../CHANGELOG.md) | 5,490 | repository documentation |
+| [CHANGELOG.md](../CHANGELOG.md) | 5,914 | repository documentation |
 
 ## CONTRIBUTING.md
 
@@ -80,7 +80,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [deliverables/README.md](../deliverables/README.md) | 3,842 | repository documentation |
+| [deliverables/README.md](../deliverables/README.md) | 3,969 | repository documentation |
 | [deliverables/course-working-files/Safari_SD5008_Research_Presentation.pptx](../deliverables/course-working-files/Safari_SD5008_Research_Presentation.pptx) | 1,861,118 | local-course-folder |
 | [deliverables/course-working-files/Safari_SD5008_Research_Proposal.docx](../deliverables/course-working-files/Safari_SD5008_Research_Proposal.docx) | 44,279 | local-course-folder |
 | [deliverables/course-working-files/Safari_SD5008_Research_Proposal.pdf](../deliverables/course-working-files/Safari_SD5008_Research_Proposal.pdf) | 178,176 | local-course-folder |
@@ -136,6 +136,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | [deliverables/presentations/presentation-02/local-export/Group 1-9.png](../deliverables/presentations/presentation-02/local-export/Group%201-9.png) | 1,088,511 | local-course-folder |
 | [deliverables/presentations/presentation-02/local-export/Group 1.png](../deliverables/presentations/presentation-02/local-export/Group%201.png) | 5,282,977 | local-course-folder |
 | [deliverables/presentations/presentation-02/local-export/ISD_safari_presentation2.pdf](../deliverables/presentations/presentation-02/local-export/ISD_safari_presentation2.pdf) | 24,828,209 | local-course-folder |
+| [deliverables/presentations/presentation-03/SCRIPT_EN.md](../deliverables/presentations/presentation-03/SCRIPT_EN.md) | 8,781 | repository documentation |
 | [deliverables/presentations/presentation-03/SLIDE_TEXT.md](../deliverables/presentations/presentation-03/SLIDE_TEXT.md) | 14,125 | repository documentation |
 | [deliverables/presentations/presentation-03/figma-text-snapshot.json](../deliverables/presentations/presentation-03/figma-text-snapshot.json) | 15,919 | repository documentation |
 | [deliverables/proposal/Safari_SD5008_Research_Proposal.docx](../deliverables/proposal/Safari_SD5008_Research_Proposal.docx) | 44,483 | local-course-folder, project-mirror |
@@ -217,7 +218,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | File | Bytes | Origin |
 |---|---:|---|
 | [metadata/import-manifest.json](../metadata/import-manifest.json) | 61,329 | repository documentation |
-| [metadata/project.json](../metadata/project.json) | 6,154 | repository documentation |
+| [metadata/project.json](../metadata/project.json) | 6,227 | repository documentation |
 
 ## references
 

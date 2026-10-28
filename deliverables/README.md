@@ -19,6 +19,7 @@
 
 - [Figma Slides「Pre-1028」](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028)：15 页，可编辑原件在 Figma。
 - [逐页文字](presentations/presentation-03/SLIDE_TEXT.md)与[文字及 node ID 快照](presentations/presentation-03/figma-text-snapshot.json)，2026-10-29 采集。第 9–12 页为 video memo 筛选数据与候选模式；第 8、14 页使用统一后的 T／K 代码。
+- [15 页英文演讲稿](presentations/presentation-03/SCRIPT_EN.md)：总时长约 9:45，已写入 Figma 演讲者备注。
 
 ## 第二次汇报与讲稿 Presentation 02
 

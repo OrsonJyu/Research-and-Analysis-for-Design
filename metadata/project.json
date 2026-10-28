@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
-  "repository_version": "0.7.1",
+  "repository_version": "0.8.0",
   "course": "SD5008",
   "team": "Safari",
   "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
@@ -145,6 +145,7 @@
     "title": "Data Collection Progress Report (Pre-1028)",
     "figma": "https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028",
     "text_snapshot": "deliverables/presentations/presentation-03/SLIDE_TEXT.md",
-    "captured": "2026-10-29"
+    "captured": "2026-10-29",
+    "script": "deliverables/presentations/presentation-03/SCRIPT_EN.md"
   }
 }
