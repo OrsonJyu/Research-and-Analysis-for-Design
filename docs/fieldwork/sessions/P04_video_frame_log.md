@@ -1,0 +1,259 @@
+# P04 视频逐秒原始笔记（UserD-Tom）
+
+**性质：研究者编码笔记，英文速记，未经第二编码人复核。** 资料为 iPhone 原片转出的 1 fps 关键帧（IMG_1793 正式 1,987 帧；IMG_1789 warm-up 110 帧），每 25 帧一张带时间标签的接触表逐张查看。`v` 为视频内秒数；HKT = 13:25:19 + v（正式）或 13:14:14 + v（warm-up）。
+
+整理后的片段见 [P04_video_coding.md](P04_video_coding.md)；手机注意区间见 [P04_phone_intervals.tsv](P04_phone_intervals.tsv)（精度约 ±1 秒）。笔记中的 "check audio" 已在片段记录中与转写对照。
+
+代码：P 看屏幕；I 操作/输入；H 转头扫视；S 停步；G 看可辨认标识；Q 求助；K 商场导购屏；R 研究员介入；T 与研究员交谈。
+
+---
+
+## Warm-up IMG_1789 (110 s, campus podium)
+- v0: start; group near PolyU podium; Tom (white hoodie, glasses) holds phone; cream-T man beside him also holds phone; another person holds DJI pocket camera (Chenggong's researcher?).
+- v1–v6: walk across podium past red/white water barriers; Tom phone in left hand at waist; head forward.
+- v7–v8: Tom head down to phone (P) while walking, beside cream-T man.
+- v9–v30: Tom walking with phone held up in front, head down — sustained P while walking past steps, cones, crowd of students (v15–v24 phone raised, head down). Cream-T man walks ahead/alongside, also looking at phone at times.
+- v31–v35: crowd of students (girls talking) — Tom continues, phone lowered; v34 a student looks at camera.
+- v36–v49: covered walkway; Tom phone at side, head up, follows cream-T man; no visible P.
+- v50–v64: long covered walkway towards podium; Tom phone in right hand at chest occasionally (v55 hand at phone); mostly head up; cream-T man leads.
+- v65–v74: pass people near red signage / construction hoarding; Tom head turns right (v66–v68 H toward man in blue shirt passing).
+- v75–v88: covered walkway with stalls; head up, looking ahead/left (v80–v88 H left toward stalls/stairs).
+- v89–v96: Tom P — phone raised, head down while walking (VA wall area).
+- v97–v106: walk to stairs plaza; phone at side.
+- v107–v109: arrive at group of people (DJI camera, backpacks) = end of warm-up / handover.
+- Pattern: in warm-up Tom walks WITH cream-T companion who leads; Tom checks phone in two long bouts (v7–30, v89–96).
+## Main IMG_1793 (HKT 13:25:19 + v). Camera: researcher handheld iPhone following behind/right of Tom.
+- v0–v1: close-up of Tom's phone (Google Maps dark mode, route preview) — hand taps (I) to start navigation; beside a building poster/advert ("NOW") on paving. Start point outside PolyU south side.
+- v2–v4: walks past street advertising panels (MTR poster style), phone raised, head down = P while walking; oncoming pedestrians.
+- v5–v12: busy sidewalk along slatted brown facade; phone lowered; v8–v9 brief glance down (P?); passes pedestrians.
+- v13–v29: sidewalk narrows along long slatted facade toward road with railings; continuous P while walking (phone in right hand at chest, head down) for ~17 s. No obstacles except pedestrians.
+- v30–v39: path curves along hedge/bushes beside railings; v31–v32 H right (toward road); v33–v39 mostly P while walking.
+- v40–v49: along tall grey fence toward big junction; v41–v44 head up forward/left (H); v45–v47 P; v48 hand to face; v49 P approaching kerb.
+- v50–v66: S at kerb corner of large junction (yellow hatched box, double-decker bus, taxis, van turning). Alternates: v51–v54 P (v53 both hands on phone → I), v55–v59 head up looking across road (H), v60–v66 P again. Waiting for green.
+- v67–v74: crosses with other pedestrians across hatched yellow area; head mostly down (P) while crossing; v68–v69 people crossing opposite.
+- v75–v85: central island next to bus; S; P mostly continuous (v75–v85), worker with trolley passes; traffic lanes.
+- v86–v92: H left/right at second carriageway (red taxi passing, v90–v92 head turned to left watching traffic) — near blue pedestrian direction sign.
+- v93–v99: S at kerb; two-handed phone (I) — zoom/scroll; red taxi passes; blue direction sign behind (no visible G).
+- v100–v113: S at kerb of second carriageway (yellow zebra-style hatched crossing, red pedestrian signal); camera close over shoulder: Tom thumb-scrolls/taps map (I) continuously ~14 s, dark-mode Google Maps; car passes.
+- v114: hand to neck (no phone view).
+- v115–v124: still S; phone held lower in right hand, head down P (v117–v123); blue direction sign ("Hong Kong / Kowloon..." pedestrian finger-sign) behind — no G observed.
+- v125–v133: camera pans (researcher) — environment: wide signalised junction, yellow box, double-decker buses, taxis, colonial white building & high-rises, stone retaining walls & greenery. (Not participant behaviour.)
+- v134–v149: S continues; P/I with both hands (v138–v149 two-hand phone use) beside railing.
+- v150: Tom turns to face researcher, phone in hand, mouth closed — possible T/R moment (check audio).
+- v151: P/I again.
+- v152–v154: camera pans to junction/red signal.
+- v155–v167: S, head up looking ahead/left across road (H/waiting), phone lowered at hip — attention on traffic signal.
+- v168–v169: hand to face/ear.
+- v170–v174: green man → crosses zebra; pedestrian with suitcase opposite.
+- Total stop at this kerb ≈ v93–v170 (~77 s), mostly red-signal wait; ~40 s of it is I/P (route checking/zooming).
+- v175–v182: up kerb ramp, turns along old stone (masonry) retaining wall pavement; v179 P; head up otherwise.
+- v183–v190: P while walking along stone wall; pedestrians pass.
+- v191–v198: crosses small side road with "LOOK RIGHT/LOOK LEFT 望右/望左" road markings and yellow bollards; v191–v192 P while stepping off kerb; v193–v197 head up.
+- v199: black Alphard car close; phone in hand.
+- v200–v207: camera pans to side road — Tesla & red taxis turning in front over "LOOK RIGHT" marking (researcher view; Tom out of frame) — vehicle conflict at small uncontrolled crossing.
+- v208–v214: Tom S at kerb (phone low in right hand), H right then left watching cars (white SUV v213–v214) before crossing — traffic-check behaviour, no phone.
+- v215–v223: crosses and continues on wide brick pavement (Chatham Road South, bus/double-decker traffic left, pedestrians, fire hydrant); head up.
+- v224–v249: long white wall pavement (Chatham Rd S). v227–v240 P while walking (phone right hand, head down; v230 left hand raised — scratch/gesture). v241–v244 head up forward (H). v245–v249 P again. A man walks toward him also on phone (v243).
+- v250–v254: v250–v251 P; v252–v254 H right — two school-uniform girls run past him.
+- v255–v264: Rosary Church fence with large banners (泰澤祈禱會 / 玫瑰堂成人慕道班): Tom H left toward banners & church courtyard for ~10 s while walking, phone low (environment/curiosity glances, not navigation).
+- v265–v266: church plaque "天主教玫瑰堂 ROSARY CHURCH 125-127 Chatham Road South" passes on left (no clear look).
+- v267–v274: P while walking past church gate & a pink-tiled building; v270 squeezes past two women at gate.
+- v275–v284: H left looking into shop windows (ViDA "European Living / Custom-made" kitchen showroom) while walking; v280–v282 brief P.
+- v285–v294: Tom continues to corner; camera pans to side street (white Alphard, blue truck "TEL 2776 5922", "no entry" sign).
+- v295–v299: crosses side-street mouth with yellow box; pedestrians crossing opposite; a white Isuzu truck turns close in front of him (v297–v299) — Tom phone in right hand, head up watching truck.
+- v300–v312: shop frontage (Perfect Tan, MAX, idol-group posters); P while walking (v301–v309); v305–v309 several men stand on phones on narrow pavement — Tom weaves past while still looking at phone.
+- v313–v320: P walking past "One Face 117" clinic glass front; head down throughout.
+- v321–v329: restaurant frontage (三餐閒飯 menus) — P; v325–v327 brief H right toward restaurant window; v328–v329 P.
+- v330–v341: BYD car showroom (big screen ad, cars) — alternates P and H right toward cars (v334–v341 head turned to showroom ~6 s). Environmental interest glances.
+- v342–v345: P; v345 head tilts up.
+- v346–v350: camera rotates/fumbles (researcher), frames sideways — no coding.
+- v351–v357: crowded pavement: people standing smoking/on phones outside office lobby; Tom H right, slows, weaves.
+- v358–v364: P while walking; pedestrians pass.
+- v365–v374: P walking past shuttered shops; red/white road-works barriers on kerb side.
+- v375–v380: head up; dense oncoming pedestrians (many on phones).
+- v381–v384: corner: red taxi turning into side road; H right toward taxi; then reaches kerb.
+- v385–v397: S at kerb of junction (opposite: "DIGITAL TRADE" building, cones, 'look' arrows). v386–v388 P; v389–v397 H left/right watching cars, black van, motorbike; P intermittent (phone held in right hand). Man in navy T-shirt stands mid-road island.
+- v398–v399: truck passes; researcher's hand/hair enters bottom right (researcher close behind).
+- v400–v404: crosses the road (zebra-less crossing with white arrows), orange sports car & taxi turning; Tom H right toward car; phone in hand, not viewed.
+- v405–v414: reaches opposite pavement (red-facade "Digital Trade" building); P while walking (v407–v414), small H toward red shopfront.
+- v415–v421: walks along building edge (grey/red cladding) into side street; v418–v421 head down P.
+- v422–v426: S/slow at side-street corner (red carpet, roller shutters): two-hand phone I (v422–v425), v425 smiles at phone; v426 P.
+- v427–v433: busy main road pavement (Citybus, bakery 'Pie & Tart', crowds); head up, weaving, no phone view.
+- v434–v439: turns into narrower street, P while walking (v435–v439); woman stands on phone ahead.
+- v440–v444: camera points down street (researcher), Tom out of frame; narrow pavement with railings, trucks.
+- v445: H up/right (looks up at shop/building signs).
+- v446–v454: P (thumb-scrolling) while walking past small shops (ISDH perfume, wellness massage).
+- v455–v460: clothing stalls on pavement, woman with bags; v457–v460 hand to chin/face; head turns left/right (H) — looks like orienting.
+- v461–v474: walks along a busier street with trucks, cones, yellow pole; head up, phone not visible (likely held low). Uninterrupted walking.
+- v475–v480: H right into shopfronts (SAY GAR 59, QR poster, Carrier box), a man in a doorway.
+- v481–v499: P while walking along bamboo-scaffolded shutters; v487–v499 thumb input visible (I) — scrolling map while walking; graffiti shutters.
+- v500–v508: over-shoulder: two-hand phone I/P while walking past restaurants/vending (map scrolling), ~9 s.
+- v509–v519: lane with parked red taxi & trucks; head up; pedestrian in football shirt passes; phone low.
+- v520–v528: H right into shopfronts (art café, graffiti shutters), then toward poster wall.
+- v528–v534: poster wall (Clockenflap / gig posters / KIRI T) — H right reading posters ~4 s; v529–v531 P; v532–v534 head down.
+- v535–v547: bamboo-scaffold covered pavement, oncoming pedestrians; head up, no phone view; luxury cars parked.
+- v548–v555: shopfront (supplement shop, sale signs): P/I while slowing (v550–v554), v555 H right into shop.
+- v556–v561: P/I (thumb-scrolling) walking past roller shutter & clothing shop.
+- v562–v566: corner; P (v563–v566) approaching crossing.
+- v567–v574: junction with "LOOK RIGHT/LEFT" markings and HKCS 'Care for All' hoarding; crosses partly while P; head up v567–v569.
+- v575–v579: blue MPV turns across his path while he is looking at phone (v575–v576) — he stops/steps back (S), watches car (H).
+- v580–v584: H left/right scanning junction (FedEx truck, pedestrians); phone low.
+- v585–v590: S/slow at kerb, P/I two-hand (v586–v589).
+- v591–v599: crosses busy road among crowd, phone in right hand, P intermittent (v591–v592, v596–v598); railings on far side.
+- v600–v608: camera held low (researcher walking); graffiti-lined lane; Tom's back only.
+- v609–v616: graffiti wall lane: P while walking (head down, phone right hand) ~8 s.
+- v617–v624: lane opens to busy shopping lane (COTTON ON wall), oncoming crowds; head up, H right toward passers-by.
+- v625–v631: dense pedestrian shopping street (yellow shop signs, crowds), head up, weaving; no phone view.
+- v632–v641: reaches a junction with 蘇記文具雜貨 stationery stall; v635–v640 two-hand I/P (zoom/scroll) while slowing at kerb; v638 camera bumps Tom's head (researcher very close).
+- v642: "Hau Fook Street 厚福街" street-name sign in frame above; Tom head up facing forward (possible G).
+- v643–v649: crosses into Hau Fook Street (stationery stalls, crowds); camera blurred; head up.
+- v650–v660: narrow lane with ladders and stalls, behind a man in blue shirt; head up, following pedestrian flow.
+- v661–v664: turns right into a back alley (rear service lane, roller shutters, graffiti); v661 P.
+- v665–v670: H left toward elderly woman hanging laundry/goods in the alley.
+- v671–v684: walks along the back alley (bins, pipes, a man sitting on a stool on phone); camera right behind; v682–v683 hand scratches head.
+- v685: phone screen visible — Google Maps in LIGHT mode now, blue route line in alley grid (P).
+- v686–v699: continues down back alley past workers drilling, styrofoam boxes, bins; P frequent (v695–v696 map visible); H left at workers.
+- v700–v703: back alley continues (bins, cardboard); camera behind shoulder.
+- v704: Tom raises left hand palm-up toward the alley ahead (gesture while talking to researcher? — check audio).
+- v705–v712: S/slow in alley beside louvres; head down, two-hand I (zoom/scroll) ~8 s; then passes black bins & rubbish bags.
+- v713–v719: narrow alley with green bins, worker in hi-vis ahead; head up following alley; 通渠 graffiti phone numbers on walls.
+- v720–v730: S in alley; phone close-up (researcher filming screen over shoulder): Google Maps light mode — top banner "↰ 60 米 加拿分道" (turn left in 60 m onto Carnarvon Road), blue dotted walking route, "5 分钟" remaining; Tom pinches/zooms with right index finger (I) ~10 s. Matches still photo IMG_1791.
+- v731–v733: resumes; camera low.
+- v734–v744: walks to alley exit past a hi-vis worker carrying boxes, cardboard heaps, patio heater; head up.
+- v745–v749: exits alley onto street beside hoarding ($140 ad, "唔怕無地方"); sees cars, cyclists, crowd.
+- v750–v757: Carnarvon Road ("18 Carnarvon", CARNARVON building): turns along pavement; H left/right; v756–v757 P at railing near man on phone.
+- v758–v773: very crowded junction (yellow zebra, scramble-like crowds, Smoothie truck); S at kerb in crowd ~10 s, head up watching signal/crowd; no phone view.
+- v774–v789: crosses with crowd (money exchange '$ CHANGE', 奇華餅家, 曲奇童話 shops), head up; man on phone passes.
+- v790–v799: continues on busy pavement (gold shops, railings); v793 brief P; mostly head up.
+- v800–v814: Carnarvon Rd pavement behind a man with a jumper tied over shoulders; head up, H left at taxis; brisk walking in crowd.
+- v815–v818: kerb at road junction (arrow markings); v816–v817 P (phone screen white/light).
+- v819–v826: S at kerb; P/I two-hand (v823–v826) while waiting; pedestrians stream past.
+- v827–v837: head up, H left/right (yes Watch Co corner, 'LOOK RIGHT' markings), red taxi turning; waiting to cross.
+- v838–v845: crosses, then turns along pavement with railings (jewelry shop windows); v845 P.
+- v846–v852: crosses another road leg (bea bank, taxis, trucks); v851–v852 P at railing gap.
+- v853–v859: pavement beside parked green lorry, crowd; head up/following woman in stripes.
+- v860–v866: P while walking beside lorry, map visible (light mode); squeezes past water-delivery workers & trolleys.
+- v867–v879: crowded pavement with delivery trucks (NAM TIN Logistics), crates; head up, weaving.
+- v880–v884: crossing road with bikes; v882–v884 P.
+- v885–v894: S at kerb with "LOOK LEFT 望左" marking; red taxis pass; H left watching traffic; waits, then crosses between taxis.
+- v895–v899: crosses between parked taxis to opposite pavement (pedestrian barriers, trees) — approaching Art Mall area.
+- v900–v913: wide tree-lined pavement (bamboo-staked trees, parked motorbikes, 三田製麵所 / Tokyo Tsukemen restaurants) — Hanoi Rd area; head up walking briskly.
+- v914–v918: S beside Tokyo Tsukemen: Tom turns toward a man in a yellow T-shirt (South Asian, gesturing) and another man with backpack; Tom holds phone, faces the man — verbal exchange (Q? or tout approach — check audio).
+- v919: phone close-up: Google Maps light mode with route turn arrow, blue dot.
+- v920–v924: P/I two-hand at shopfront; v922–v924 head up looking along street.
+- v925–v949: walks along glass/stone frontage (Hyatt/hotel podium), mostly head up; H right repeatedly toward building facades and glass doors (v927–v939) — searching building frontages; delivery trolleys (DHL) pass.
+- v950–v974: continues along building fronts: H right sustained toward facades (gold/ black stone entrance "... MANSION", Hyatt Regency glass lobby, "D-..." signs, shop windows) with phone low in right hand (glances v957–v958, v962, v966–v967 P) — ~25 s of looking for an entrance/landmark. This is the Art Mall waypoint frontage (GPS closest 13:40:40 ≈ v921) — no visible "K11 Art Mall" sign identified in frames.
+- v975–v994: H right toward clothing/shoe shop windows ("JUST ONLY ONE"); v981 & v991–v994 P.
+- v995–v999: reaches corner of a wide road (Bank of Communications 交通銀行, Japanese restaurant, taxis, bikes) — P while walking toward crossing.
+- v1000–v1004: corner pavement (Bank of Communications), P while walking to kerb; pedestrians crossing.
+- v1005–v1029: S at kerb beside parked black MPV (crossing with yellow markings); P and I two-handed continuously ~25 s (v1010–v1016 thumb typing/scrolling; v1017–v1029 P). Long phone-dominant stop.
+- v1030–v1040: H — head up, looks left/right across road (trucks: Johnson tanker, taxis, Tesla); waiting.
+- v1041–v1052: P while waiting (phone right hand), H between; taxis pass close.
+- v1053–v1055: v1053 H toward signal/road; v1055 green man visible.
+- v1056–v1064: crosses toward Japanese ramen restaurant (つけ麺, 白鳳鶏丸) corner; P during crossing (v1061–v1064).
+- v1065–v1069: on far corner beside ramen shop lanterns; P/I while walking; parked motorbikes.
+- v1070–v1079: S at next kerb (dotted crossing): phone close-up — keyboard visible (v1073), typing/selecting with right thumb; then index-finger taps (v1077–v1079) — re-entering/searching destination. Masked woman passes using phone.
+- v1080–v1088: crosses road (trucks, Owl's shop), head up, follows two women.
+- v1089: P (map visible, light mode).
+- v1090–v1099: walks along busy pavement beside parked lorries (money-exchange signs); head up; elderly men pass.
+- v1100–v1111: crowded pavement beside trucks, follows two young women; head up, no phone.
+- v1112–v1119: quieter pavement with shopfronts (Halloween skeleton decor); v1116–v1119 P while walking.
+- v1120–v1124: graffiti wall corner, oncoming tourists; head up.
+- v1125–v1129: H right into shops (Sunrise Optical, F.S. inlet sign); man in doorway (v1129 Tom raises hand — gesture to researcher?).
+- v1130–v1139: railings pavement toward big junction (black Alphards, people queueing); head up, H left to road.
+- v1140–v1149: large junction with double-decker buses, yellow-box crossing, crates; crowds; head up following flow; turns along pavement.
+- v1150–v1153: walks along bus-stop pavement; P (v1151–v1153).
+- v1154–v1164: S near railing/bicycles & bus stop: I two-hand (v1155–v1159), P (v1160–v1164) — another route check (~10 s).
+- v1165–v1169: phone in hand, P intermittently; walks past wooden pallets & hedge.
+- v1170–v1182: tree-lined wide pavement (cones, Jordon trucks, red lanterns overhead) — head up, walking briskly behind a man.
+- v1183–v1199: building frontages (menus, shutters, Black R barbershop): P while walking (v1185–v1194), H right to shops; v1197–v1198 hand to face.
+- v1200–v1204: end of shopfronts; quieter road with hillside fence, fire hydrants, parked cars; P (v1201) then head up.
+- v1205–v1209: ★ Q — Tom walks up to a woman in black (cap, bag) standing by hillside fence (orange bin), holds phone out toward her (v1207–v1209); she gestures/points with left hand (v1208–v1209). Man in grey shirt with phone nearby. = asking a passer-by for directions, showing phone screen.
+- v1210–v1214: continues along chain-link fence / hillside steps; H right looking at fence/steps (looking for a way up?).
+- v1215–v1224: long old masonry retaining wall pavement (slope registration plate 11SW-B/CR46), parked brown SUV; H right/left; head up, phone low. Covered footbridge/podium visible ahead.
+- v1225–v1233: continues along wall; woman gets into Tesla; quiet; head up/H.
+- v1234–v1241: phone in right hand at waist; H right to wall & roots; parking meter; v1238–v1239 glance at phone; South Asian man passes.
+- v1242–v1244: Tom gestures with left hand forward (talking to researcher — check audio).
+- v1245–v1249: P while walking past palm planting.
+- v1250–v1259: path along road toward a building with green living wall and "K11" signage + red double-decker buses (Salisbury Rd / Victoria Dockside visible); head up — first visible K11 landmark.
+- v1260–v1264: walks under banyan-tree wall into podium undercroft behind a woman in grey; v1264 P.
+- v1265–v1274: undercroft/service passage (white walls, pillars); P while walking behind woman (v1266–v1271); camera bumps.
+- v1275–v1278: phone close-up: screen DARK/black (map not visible), index finger tapping — phone possibly dimmed/locked or loading.
+- v1279–v1299: walks along granite podium wall with steel service doors & hedges; alternates H right (v1281–v1286 looking at doors/walls for an entrance) and P (v1287–v1299 head down to phone). Back-of-house edge of complex.
+- v1300–v1307: P/I close-up while walking along hedge & steps: screen mostly GREY/blank with small map fragments (v1301–v1302 shows a photo/street-view-like image?), screen dim; tapping. Phone display appears washed out/unclear — map hard to read in daylight? (screen brightness low).
+- v1308–v1314: reaches pavement next to bus stop (Salisbury Rd? red/yellow double-deckers), head up then P.
+- v1315: Tom looks back at researcher with puzzled expression, phone in hand (T/R moment?).
+- v1316–v1326: S on pavement edge: phone rotated LANDSCAPE (v1318–v1326) — map in dark mode with blue route & purple markers; I (pinch/zoom, pan) ~10 s. Re-orienting.
+- v1327–v1330: Tom turns to researcher and smiles / talks (T) — v1329–v1330 smiling face to camera; red double-decker buses behind (Salisbury Road).
+- v1331–v1334: hand to mouth, looks down at phone — thinking (P).
+- v1335–v1339: H back along pavement; a schoolboy in white shirt approaches on phone.
+- v1340–v1349: walks along Salisbury Rd pavement under building podium (H2/H2K bus-stop sign, harbour skyline ahead); head up.
+- v1350–v1356: passes bus shelters; turns left into a subway entrance (grey walls, stairs down) — decision to use pedestrian subway.
+- v1357–v1374: descends stairs into subway (yellow & blue tiles) — v1366 P on stairs; head up looking ahead/around (H) on descent.
+- v1375–v1397: subway corridor: P while walking (v1377–v1394), with frequent H left/right (v1375–v1376, v1390–v1397) — looking at walls/exits; man passes using phone.
+- v1398–v1399: long subway corridor ahead (family with child).
+- v1400–v1404: subway curving corridor; H left/right, head up (family ahead); blue overhead direction sign ahead.
+- v1405–v1409: ★ G — passes large blue subway direction sign ("Victoria Dockside 維港文化匯 / Avenue of Stars 星光大道 / HK Cultural Centre / Space Museum / Museum of Art / TST Promenade / Taxi") — Tom head turned toward it (v1406–v1409) — reading sign while walking (G).
+- v1410–v1412: camera swing; second sign with arrow at junction (v1411).
+- v1413–v1418: subway branch junction; H right/left; v1414 hand to mouth; hesitates at fork; passes family.
+- v1419–v1424: P while walking, H up to wall notices.
+- v1425–v1434: S/slow at subway corner: head UP reading a wall-mounted info board/map (Hong Kong Cultural Centre panel) v1425–v1429 (G); v1430–v1432 P; v1433–v1434 H toward the board again — sign-phone alternation.
+- v1435–v1440: H looking at further wall panels/glass display cases (G?), turns corner.
+- v1441–v1446: walks on; P intermittent.
+- v1447–v1474: up a long white-tiled ramp (exit to street level): alternating P (v1452–v1457, v1469–v1471) and H/head up (v1458–v1468, v1472–v1474); v1474 hand to face. Windows show greenery/street above.
+- v1475–v1479: ★ S at top of ramp/exit on Salisbury Rd pavement (railings, bike, bus stop): H — head up looking around/up at surroundings (v1475–v1479) — re-orientation after subway exit.
+- v1480–v1486: bus stop area; H toward bus stop sign/route board & road; v1484 looking up; phone low.
+- v1487: camera turns: bus shelters.
+- v1488–v1489: researcher camera shows "VICTORIA DOCKSIDE" big letters + Burberry/Balenciaga facade with green wall = K11 MUSEA frontage (landmark visible).
+- v1490–v1499: walks along bus shelters (dental ads) toward it; P at v1493–v1499 (phone right hand), H up v1495.
+- v1500–v1511: walks past bus shelters with dental ads; H right/left toward buses & shelters; v1510–v1511 P.
+- v1512–v1518: S by bus shelter: v1514 hand to face/glasses; v1515–v1517 P/I two-hand.
+- v1519–v1524: walks on along shelter row; head up then P (v1521).
+- v1525–v1544: wide paved plaza (Salisbury Rd forecourt; escalators to subway behind): P/I almost continuous ~20 s (v1526–v1544) — index-finger taps (v1529–v1530), screen showing list/search; walking slowly.
+- v1545–v1556: approaches a hotel-style driveway (cones, black Lexus/Alphard MPVs, green wall, palm trees) — P while walking (v1546–v1553), v1554–v1556 head up turning.
+- v1557–v1563: ★ Tom turns to researcher, POINTS forward-left with right hand and smiles/talks (T) (v1558–v1559); then lifts phone; a hotel staffer in white shirt walks past.
+- v1564–v1568: phone close-up shown to researcher: Google Maps arrival card with destination info & thumbnails (route ended — "arrived" screen; matches IMG_1792 photo 13:51:50).
+- v1569–v1574: Tom points again (v1569–v1570) and talks to camera with puzzled/explaining face (T).
+- v1575–v1595: S on driveway paving: two-hand I — typing/scrolling (search results lists, v1587–v1592) ~20 s while talking (mouth moving).
+- v1594–v1596: a second hand (left, from frame left) gestures near phone — researcher pointing? (possible R) ; v1596 Tom's arm gestures.
+- v1597–v1599: P/I again (screen with list view).
+- v1600–v1605: two-hand I close-up: scrolling a list/results (Maps place page?) — v1602–v1604 a second index finger (researcher? from left) touches near screen?? — actually Tom's left index; ambiguous.
+- v1606–v1609: walks with phone across plaza (cones), P.
+- v1610–v1618: P/I while walking along glass shopfronts (map in dark mode with route); v1615 a hand gestures left (researcher pointing? R?).
+- v1619–v1624: approaches MUSEA ground entrance (gold lattice revolving doors, Loewe), P while walking behind shoppers.
+- v1625–v1629: at entrance doors: P (phone up), looks at door; enters.
+- v1630–v1631: camera: ornate entrance lattice & chandelier (MUSEA GF).
+- v1632–v1634: inside mall GF: marble floor, luxury shopfronts; walks in, head up then P.
+- v1635–v1642: S inside: I two-hand on Google Maps (light map with route/red pin) ~8 s.
+- v1643–v1644: P, walks toward atrium (escalators, digital directory kiosk).
+- v1645–v1658: ★ K — approaches digital directory kiosk where two young women are using it; waits behind them, watching their screen (v1648–v1656) ~10 s; then steps up (v1657–v1659).
+- v1660–v1661: K — touches kiosk map (GF map).
+- v1662–v1669: K/I — kiosk: taps a store card (alo), then 搜寻 search page, on-screen keyboard; types (v1665–v1667 brand logos: Jo Malone etc.).
+- v1670–v1680: K/I — types "barbour" (v1674–v1680 query "barbour"; Barbour logo result appears v1679–v1681).
+- v1681–v1690: K — selects Barbour → kiosk map shows route from "你在此 (GF)" with dotted path; Tom studies map (v1682 hand to face/thinking; v1683–v1684 also P — compares with phone?).
+- v1691–v1693: leaves kiosk, head up turning toward escalators (H).
+- v1694–v1699: walks along atrium balustrade toward escalators, head up (no phone).
+- v1700–v1719: walks to escalator up (GF→1F), rides escalator; head up, no phone (v1705–v1719).
+- v1720–v1735: on escalator: P — Google Maps (light) showing indoor floor plan with red pin; v1724–v1731 phone held while riding; lifts head v1726–v1728.
+- v1736–v1742: arrives 1F (Chanel etc.): H around (looks left/right at lift lobby, Chanel store); v1741 hand to head.
+- v1743–v1756: walks around 1F floor past luxury boutiques (bags), head up scanning (H), phone low; turns at escalator well (v1750–v1755), v1754–v1755 looks at phone briefly.
+- v1756–v1779: takes next escalator up (1F→2F), head up, no phone.
+- v1780–v1781: G — floor sign "2" and directional sign "← Gold Ball / ↑ Big Steps" ahead (Tom faces it at top of escalator).
+- v1782–v1787: 2F: passes JONAK, PORTSPURE, RUE MADAME shops; H left/right scanning storefronts; v1785 P.
+- v1788–v1795: corridor on 2F (wooden pillars, digital ad panels, THE FUTURE ROCKS store); head up searching; no phone.
+- v1796–v1799: 2F corridor (Mardi Mercredi, THE FUTURE ROCKS); H scanning; turns to escalator.
+- v1800–v1822: escalator 2F→3F, behind a man in cap; head up, no phone; graffiti-art ceiling (3F).
+- v1823–v1826: top of escalator 3F: G — overhead sign "↰ Big Steps"; H up toward sign.
+- v1827–v1833: ★ G — walks straight to a wall-mounted K11 floor directory (static panel, lift lobby) and reads it (v1828–v1832), touches/points at a line on panel (v1831–v1832) — floor directory verification.
+- v1834–v1843: 3F: walks past art panels & golf bags (côte&ciel), emis shop; head up scanning.
+- v1844–v1851: S/slow outside emis: P — phone (light Maps) held up, reading (v1844–v1850).
+- v1852–v1856: walks on past big "A" letter sculpture/ A.SOCIETY; head up.
+- v1857–v1860: P while walking (phone shows map).
+- v1861: camera shows store with red/black floor (Mitchell & Ness?).
+- v1862–v1863: ★ Barbour storefront ("Barbour" sign, 316/319 area; digital screen) — Tom P then looks up at the shop sign (G).
+- v1864–v1867: walks toward Barbour store entrance (A.P.C. next door), H at shop.
+- v1868–v1873: turns to researcher, smiling — arrival (T) at Barbour door ≈ 13:56:27 HKT.
+- v1874–v1899: post-arrival: Tom talks to camera (reflection / mini interview); v1881–v1888 points back with arm (gesturing toward route/escalator) while explaining; v1889–v1890 hand on mouth thinking; explaining experience.
+- v1894–v1980: post-arrival on-camera reflection in front of Barbour (PSG & SECRID shops behind): Tom talks continuously; gestures pointing back (v1926–v1928, v1936–v1938, v1971–v1972), hand on chin/cheek thinking (v1940–v1946); smiles. Video ends 13:58:19.
+
+- Spot check (v796–v834, 2 s steps, larger frames): head up v796–v814; P at v816, v824–v826, v832–v834 — confirms low phone viewing in S5.

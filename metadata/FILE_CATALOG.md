@@ -1,6 +1,6 @@
 # 完整文件目录 File catalog
 
-Version 0.4.0 · 183 indexed files · 145,054,493 bytes.
+Version 0.5.0 · 191 indexed files · 146,109,673 bytes.
 
 Indexes do not hash themselves. Imported sources are also mapped in [import-manifest.json](import-manifest.json).
 
@@ -20,13 +20,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [AGENTS.md](../AGENTS.md) | 4,378 | repository documentation |
+| [AGENTS.md](../AGENTS.md) | 4,742 | repository documentation |
 
 ## CHANGELOG.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [CHANGELOG.md](../CHANGELOG.md) | 2,927 | repository documentation |
+| [CHANGELOG.md](../CHANGELOG.md) | 3,559 | repository documentation |
 
 ## CONTRIBUTING.md
 
@@ -38,13 +38,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.en.md](../README.en.md) | 3,476 | repository documentation |
+| [README.en.md](../README.en.md) | 3,653 | repository documentation |
 
 ## README.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.md](../README.md) | 3,510 | repository documentation |
+| [README.md](../README.md) | 3,679 | repository documentation |
 
 ## VERSION
 
@@ -153,9 +153,9 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 |---|---:|---|
 | [docs/DECISIONS.md](../docs/DECISIONS.md) | 3,111 | repository documentation |
 | [docs/IMPORT.md](../docs/IMPORT.md) | 702 | repository documentation |
-| [docs/INDEX.md](../docs/INDEX.md) | 2,627 | repository documentation |
-| [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 2,311 | repository documentation |
-| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 5,421 | repository documentation |
+| [docs/INDEX.md](../docs/INDEX.md) | 2,911 | repository documentation |
+| [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 2,903 | repository documentation |
+| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 5,993 | repository documentation |
 | [docs/PROVENANCE.md](../docs/PROVENANCE.md) | 2,961 | repository documentation |
 | [docs/RESEARCH_BRIEF.md](../docs/RESEARCH_BRIEF.md) | 4,009 | repository documentation |
 | [docs/VERSIONING.md](../docs/VERSIONING.md) | 1,423 | repository documentation |
@@ -173,6 +173,11 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | [docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md](../docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md) | 15,457 | repository documentation |
 | [docs/fieldwork/sessions/P02_phone_intervals.tsv](../docs/fieldwork/sessions/P02_phone_intervals.tsv) | 2,181 | repository documentation |
 | [docs/fieldwork/sessions/P02_video_coding_log.md](../docs/fieldwork/sessions/P02_video_coding_log.md) | 19,325 | repository documentation |
+| [docs/fieldwork/sessions/P04_2026-10-28_audio_diarized_ASR.md](../docs/fieldwork/sessions/P04_2026-10-28_audio_diarized_ASR.md) | 17,020 | repository documentation |
+| [docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md](../docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md) | 17,716 | repository documentation |
+| [docs/fieldwork/sessions/P04_phone_intervals.tsv](../docs/fieldwork/sessions/P04_phone_intervals.tsv) | 3,363 | repository documentation |
+| [docs/fieldwork/sessions/P04_video_coding.md](../docs/fieldwork/sessions/P04_video_coding.md) | 46,212 | repository documentation |
+| [docs/fieldwork/sessions/P04_video_frame_log.md](../docs/fieldwork/sessions/P04_video_frame_log.md) | 31,949 | repository documentation |
 | [docs/fieldwork/sessions/figures/P01/fig1_route.jpg](../docs/fieldwork/sessions/figures/P01/fig1_route.jpg) | 70,384 | repository documentation |
 | [docs/fieldwork/sessions/figures/P01/fig2_timeline.jpg](../docs/fieldwork/sessions/figures/P01/fig2_timeline.jpg) | 154,913 | repository documentation |
 | [docs/fieldwork/sessions/figures/P01/fig3_segments.jpg](../docs/fieldwork/sessions/figures/P01/fig3_segments.jpg) | 103,288 | repository documentation |
@@ -184,6 +189,9 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | [docs/fieldwork/sessions/figures/P02/fig3_attention.jpg](../docs/fieldwork/sessions/figures/P02/fig3_attention.jpg) | 397,921 | repository documentation |
 | [docs/fieldwork/sessions/figures/P02/fig4_subway.jpg](../docs/fieldwork/sessions/figures/P02/fig4_subway.jpg) | 387,453 | repository documentation |
 | [docs/fieldwork/sessions/figures/P02/fig5_indoor.jpg](../docs/fieldwork/sessions/figures/P02/fig5_indoor.jpg) | 276,282 | repository documentation |
+| [docs/fieldwork/sessions/figures/P04/fig1_timeline.jpg](../docs/fieldwork/sessions/figures/P04/fig1_timeline.jpg) | 190,372 | repository documentation |
+| [docs/fieldwork/sessions/figures/P04/fig2_segments.jpg](../docs/fieldwork/sessions/figures/P04/fig2_segments.jpg) | 145,788 | repository documentation |
+| [docs/fieldwork/sessions/figures/P04/fig3_keyframes.jpg](../docs/fieldwork/sessions/figures/P04/fig3_keyframes.jpg) | 597,506 | repository documentation |
 
 ## knowledge
 
@@ -191,14 +199,14 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 |---|---:|---|
 | [knowledge/README.md](../knowledge/README.md) | 3,083 | repository documentation |
 | [knowledge/bibliography.json](../knowledge/bibliography.json) | 11,960 | repository documentation |
-| [knowledge/graph.json](../knowledge/graph.json) | 21,422 | repository documentation |
+| [knowledge/graph.json](../knowledge/graph.json) | 23,087 | repository documentation |
 
 ## metadata
 
 | File | Bytes | Origin |
 |---|---:|---|
 | [metadata/import-manifest.json](../metadata/import-manifest.json) | 58,113 | repository documentation |
-| [metadata/project.json](../metadata/project.json) | 3,058 | repository documentation |
+| [metadata/project.json](../metadata/project.json) | 3,857 | repository documentation |
 
 ## references
 

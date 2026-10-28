@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated": "2026-10-28",
-  "interpretation": "Analytic and provenance relationships only; no edge asserts causation or validated research findings. One preliminary participant session (P01) has been summarised; it is unverified participant evidence, not a finding.",
+  "interpretation": "Analytic and provenance relationships only; no edge asserts causation or validated research findings. Preliminary participant sessions (P01, P02, P04) have been summarised; they are unverified participant evidence, not findings.",
   "nodes": [
     {
       "id": "research-question",
@@ -323,6 +323,17 @@
         "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
         "docs/fieldwork/sessions/P02_video_coding_log.md",
         "docs/fieldwork/sessions/P02_2026-10-27_audio_diarized_ASR.md"
+      ]
+    },
+    {
+      "id": "evidence:P04",
+      "label": "P04 session 2026-10-28 (Tom; video, audio, GPX, photos; short on-site interview)",
+      "status": "unverified_participant_evidence",
+      "source_paths": [
+        "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md",
+        "docs/fieldwork/sessions/P04_video_coding.md",
+        "docs/fieldwork/sessions/P04_video_frame_log.md",
+        "docs/fieldwork/sessions/P04_2026-10-28_audio_diarized_ASR.md"
       ]
     }
   ],
@@ -745,6 +756,46 @@
       "status": "preliminary_analysis",
       "source_paths": [
         "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E043",
+      "from": "evidence:P04",
+      "to": "episodes",
+      "relation": "provides_filtered_candidate_episodes",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E044",
+      "from": "evidence:P04",
+      "to": "attention",
+      "relation": "phone_held_not_equal_viewed_stationary_vs_moving_inspection",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E045",
+      "from": "evidence:P04",
+      "to": "source",
+      "relation": "outdoor_to_indoor_handoff_to_kiosk_and_directory",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md"
+      ]
+    },
+    {
+      "id": "E046",
+      "from": "evidence:P04",
+      "to": "camera",
+      "relation": "back_view_limits_gaze_coding",
+      "status": "preliminary_analysis",
+      "source_paths": [
+        "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
-  "repository_version": "0.4.0",
+  "repository_version": "0.5.0",
   "course": "SD5008",
   "team": "Safari",
   "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
@@ -52,11 +52,27 @@
         "full_interview": false,
         "gpx_received": false,
         "camera_clock_verified": false
+      },
+      {
+        "id": "P04",
+        "label": "UserD-Tom",
+        "date": "2026-10-28",
+        "raw_data_location": "Google Drive / iCloud Navigation Observations/UserD-Tom",
+        "analysis": "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md",
+        "coding": "docs/fieldwork/sessions/P04_video_coding.md",
+        "record_form_completed": false,
+        "full_interview": false,
+        "on_site_short_interview_seconds": 110,
+        "gpx_received": true,
+        "camera_clock_verified": true,
+        "researcher_interventions_coded": 4,
+        "note": "P03 = UserC-Peter, coded by a teammate on FigJam (not in this repository). Researcher narration calls Tom 'user C'; numbering to be unified."
       }
     ],
     "preliminary_session_analysis": [
       "docs/fieldwork/sessions/P01_2026-10-27_video-first-report.md",
       "docs/fieldwork/sessions/P02_2026-10-27_video-first-report.md",
+      "docs/fieldwork/sessions/P04_2026-10-28_video-first-report.md",
       "docs/fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md"
     ]
   },
