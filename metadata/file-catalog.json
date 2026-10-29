@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "repository_version": "0.8.0",
+  "repository_version": "0.8.1",
   "coverage": "All repository files except these three generated indexes, Git internals and temporary caches.",
   "excluded_generated_indexes": [
     "metadata/FILE_CATALOG.md",
@@ -34,9 +34,9 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 5914,
-      "sha256": "acd378442bcdcfcd7c53e4a67c2853a1f135e8f35315cc9fa6e9c0a8e659d56f",
-      "git_blob_sha": "b9500de4c7b2f41a9af59a1cdc9e4a023ee034a6",
+      "bytes": 6402,
+      "sha256": "1af62f94da17c0962e993585b24609617822e1df7034e8c1f1116ea64b1c2f2a",
+      "git_blob_sha": "16badf09b0c030646daa968e3490463d5f38330d",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -51,24 +51,24 @@
     {
       "path": "README.en.md",
       "bytes": 4156,
-      "sha256": "48265f0a9f5e5c5640913d4bcae17fbac724ac4443bc52dabeaf7edef2ef5c31",
-      "git_blob_sha": "d238e6bbdcbbd88b1e4128e6e893230bb6dd9627",
+      "sha256": "6a2dee6801f04b0926eca85eb6af2171b5d1d94a3b5552bff11707805f021c67",
+      "git_blob_sha": "7fafce8ae8168f60e02a0f3e412d8f7b10b9972c",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "README.md",
       "bytes": 4076,
-      "sha256": "7fb7d393c801c2c1bc1af41ae3db105cf2e09cf0769e85368fd20aa0436230e1",
-      "git_blob_sha": "68ca153093be5bec1b65db59ae07a7225f05c430",
+      "sha256": "bdc0ce41bd5891874fce2e7447f564a9c6930a2c54c0db31aa29dd44be190b82",
+      "git_blob_sha": "25f6fc1fd4a4c5150b032dcbd688ec30787a3b34",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "VERSION",
       "bytes": 6,
-      "sha256": "a66780da23103beaf12432b418508966b31a2a3a787f9468a5b6cdaa8667c1ef",
-      "git_blob_sha": "a3df0a6959e154733da89a5d6063742ce6d5b851",
+      "sha256": "aaf6721dc37c40b4233accfc081f25776ff3bd1d2a4b9d5cea760d1c2cf86665",
+      "git_blob_sha": "6f4eebdf6f68fc72411793cdb19e3f1715b117f3",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1056,25 +1056,25 @@
     },
     {
       "path": "deliverables/presentations/presentation-03/SCRIPT_EN.md",
-      "bytes": 8781,
-      "sha256": "27220e86ed2df730284509cf7bbff4d2cdd450eee1c4dd17087ee546768ad96d",
-      "git_blob_sha": "11468dd0ace6ebb0b41732efd5bf747b388d469d",
+      "bytes": 8840,
+      "sha256": "a840f9c5954b49c19449587d937f690d9bdbb8e46033f7122d4070b27690f921",
+      "git_blob_sha": "90944b95d9dd4727c2a4cbe0272f0f7daf0d526d",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "deliverables/presentations/presentation-03/SLIDE_TEXT.md",
-      "bytes": 14125,
-      "sha256": "b94980004e543be392d37eaf4400d9e54dc90fb24446c820220149195537adb7",
-      "git_blob_sha": "0dd590e31b73ed70559933c877f6ee6a18b6a14b",
+      "bytes": 14453,
+      "sha256": "5795194ab330adee5f3840c638b0b2d4c411527982d096092eae3fe1aff3958d",
+      "git_blob_sha": "88ea11fa30126b3dae1d4918886afa3b36b6bee7",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "deliverables/presentations/presentation-03/figma-text-snapshot.json",
-      "bytes": 15919,
-      "sha256": "1aeef839c055a4fdb8e8d74f2f7633394f70cd705dc082765cbb3df7d7270dd2",
-      "git_blob_sha": "0f29301b8d9793777cf0a3dc8e56e30bc85e6b1f",
+      "bytes": 16299,
+      "sha256": "555ec9e47a5b842092dd7c37ef7d8b7b9313e1179b10b90f215b3f9dac30cb56",
+      "git_blob_sha": "76e629a4cf4aba499095ca12f24fe6331bee5956",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1668,8 +1668,8 @@
     {
       "path": "metadata/project.json",
       "bytes": 6227,
-      "sha256": "9f29ff009955c7ae5205bd74c2f6c7f2288bd1ae76a3d16d234eff941a542e93",
-      "git_blob_sha": "4cf8721a3ec53cba8b009948f46fe569d8807c48",
+      "sha256": "53f1897eec5930db9e9faed12aafb94b1b03bfd94038bc1dee23d3d9ffaaacbd",
+      "git_blob_sha": "8369886616333df487d6067099f167b74a5274f6",
       "sources": [],
       "kind": "curated-or-generated"
     },

@@ -4,7 +4,7 @@ Written 2026-10-29 and stored as speaker notes in [Figma Slides, Pre-1028](https
 
 | Part | Slides | Time |
 |---|---|---|
-| Set-up: question, route, warm-up | 1–5 | 0:00–2:20 |
+| Set-up: question, route choice and extension, participants, warm-up | 1–5 | 0:00–2:20 |
 | How we collect and organise data | 6–9 | 2:20–5:10 |
 | What the data show so far | 10–12 | 5:10–8:05 |
 | Method and next steps | 13–15 | 8:05–9:45 |
@@ -21,21 +21,23 @@ We answer it through field observation, interviews, and analysis that links the 
 
 We first compared three destinations from PolyU South Gate: K11 Art Mall, Kwun Yum Temple and the Clock Tower. The times shown are planning estimates, not measured walks.
 
-**We chose K11 and extended it**: Art Mall became a required waypoint, and the task ends at the Barbour store inside K11 MUSEA. Two reasons follow.
+**We chose K11 Art Mall.** On its own it was a short, simple walk, so we extended it into a more complete route.
 
-## Slide 03 · Participant familiarity — 25 s · 0:55–1:20
+## Slide 03 · Extending K11 into a complete route — 35 s · 0:55–1:30
 
-The first reason is the participants. **None of our five participants knew this route**, and none had visited the Barbour store.
+We added four things.
 
-This lets us watch how people seek information in an unfamiliar place, instead of following a route from memory. Their navigation habits still differ, and we keep that in mind when we interpret behaviour.
+First, **Art Mall became a required waypoint**, so participants must hand over to a second leg. Second, the walk now covers **varied terrain**: busy streets, narrow lanes, many junctions and an underground passage under Salisbury Road. Third, it passes **landmark buildings** that may help orientation. Fourth, the endpoint moves into **K11 MUSEA, where participants must find a floor and a shop**.
 
-## Slide 04 · Environmental conditions — 35 s · 1:20–1:55
+Which features each person actually met comes from their own records.
 
-The second reason is the environment. The route runs from PolyU, through Art Mall, to the third floor of K11 MUSEA.
+## Slide 04 · Participant familiarity — 25 s · 1:30–1:55
 
-On the way, participants meet **dense commercial streets, wide roads, narrow lanes and many junctions**, plus landmark buildings. At the end, they must **find a floor and a shop indoors**.
+The route also suits our participants. **None of the five had visited the target Barbour store**, or walked this route to it.
 
-These were our reasons for choosing the route; which features each person actually met comes from their own records.
+K11 itself was little known; one participant had been to MUSEA as a tourist but did not recognise the name.
+
+So we can watch how people seek information in a place they do not know well.
 
 ## Slide 05 · Warm-up — 25 s · 1:55–2:20
 

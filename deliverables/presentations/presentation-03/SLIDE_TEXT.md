@@ -2,7 +2,7 @@
 
 Captured: 2026-10-29. Source: [Figma Slides, Pre-1028](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028).
 
-Slide order follows the slide grid. Grouped rows are joined into one line; footers (course header, `SAFARI / 28 OCTOBER 2026`, page counter) are omitted. Layout, images and speaker notes stay in Figma. Slides 9–12 (video memo filtering) were added on 2026-10-29; slides 8 and 14 now use the unified T/K codes (D015). Slide 9 follows the team workflow: voice-memo observation logs → video check → interview corroboration → code-combination descriptions.
+Slide order follows the slide grid. Grouped rows are joined into one line; footers (course header, `SAFARI / 28 OCTOBER 2026`, page counter) are omitted. Layout, images and speaker notes stay in Figma; the script is in [SCRIPT_EN.md](SCRIPT_EN.md). Slides 9–12 (video memo filtering) were added on 2026-10-29; slides 8 and 14 use the unified T/K codes (D015). Slide 9 follows the team workflow: voice-memo observation logs → video check → interview corroboration → code-combination descriptions. Slide 2 marks K11 Art Mall as selected; slide 3 explains how it was extended; slide 4 states participant familiarity conservatively.
 
 ## Slide 01
 
@@ -34,6 +34,8 @@ Connect observation and accounts for later qualitative analysis.
 
 Route Candidates
 
+SELECTED (K11 Art Mall)
+
 PolyU South Gate vicinity → K11 Art Mall
 
 13 min / 900 m
@@ -52,25 +54,55 @@ PolyU South Gate vicinity → Clock Tower
 
 Chatham + Granville Roads / Nathan + Hankow Roads / Salisbury Road to forecourt
 
+We chose K11 Art Mall, then extended it into a more complete route →
+
 ## Slide 03
+
+[Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=47-29)
+
+Why This Route? Extending K11 into a Complete Route
+
+From K11 Art Mall to a fuller task: a waypoint, varied terrain, landmarks and indoor shop-finding
+
+PolyU South Gate (Outdoor start) → K11 Art Mall (Required waypoint) → K11 MUSEA · Barbour (Indoor endpoint · 3F, Shop 319)
+
+01  Waypoint setting
+
+K11 Art Mall becomes a required waypoint, so participants must hand over to a second leg.
+
+02  Varied terrain
+
+Dense commercial streets, wide roads, narrow lanes, many junctions and an underground passage under Salisbury Road.
+
+03  Landmark buildings
+
+K11 and nearby buildings offer potential references for orientation and recognising the destination.
+
+04  Indoor shop-finding
+
+The endpoint moves into K11 MUSEA: floor, directory and shop decisions to reach Barbour, 3F Shop 319.
+
+These are route-selection considerations. The actual features encountered must be checked against each participant’s records.
+
+## Slide 04
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=4-5)
 
 Why This Route? Participant Familiarity
 
-Participant-related reason: a route and destinations unfamiliar to all five participants
+Participant-related reason: no one had walked this route to the target store before
 
 5 / 5
 
-participants were unfamiliar with the route and destinations
+participants had not visited the target Barbour store
 
-01 Unfamiliar route
+01 No experience of the full route
 
-They did not already know how to reach the destinations.
+None had walked from PolyU to the store before; familiarity with parts of the route is checked in interviews.
 
-02 No previous K11 visits
+02 Little knowledge of K11
 
-None of the five had been to K11 before the study.
+Visits were rare; one had been to MUSEA as a tourist but did not recognise its name.
 
 03 No previous store visits
 
@@ -79,34 +111,6 @@ None had visited the target Barbour store.
 WHY THIS MATTERS
 
 The setting supports observing how people seek and use navigation information in an unfamiliar place.
-
-## Slide 04
-
-[Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=47-29)
-
-Why This Route? Environmental Conditions
-
-Route-related reason: varied street conditions and an indoor destination
-
-PolyU South Gate (Outdoor start) → K11 Art Mall (Required waypoint) → K11 MUSEA · Barbour (Indoor endpoint · 3F, Shop 319)
-
-01  Dense commercial surroundings
-
-Tsim Sha Tsui combines pedestrian activity, commercial frontages and many competing sources of information.
-
-02  Varied street network
-
-Wide main roads, narrow lanes, multiple junctions and blocks create opportunities for route and turn confirmation.
-
-03  Building landmarks
-
-Prominent buildings such as K11 provide potential references for orientation and destination recognition.
-
-04  Multilevel and indoor wayfinding
-
-The district includes multilevel pedestrian spaces. Finding Barbour adds floor, directory and shop-location decisions.
-
-These are route-selection considerations. The actual features encountered must be checked against each participant’s records.
 
 ## Slide 05
 
