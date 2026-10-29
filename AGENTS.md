@@ -30,7 +30,7 @@ The repository is organised like a git-backed markdown memory, with three entry 
 - **Timeline** (`docs/timeline/`): one file per month, one section per day, recording the date of the event itself, not the commit date.
 - **Workstreams** (`docs/workstreams/active/` and `completed/`): what is being done, its status and next steps. Move a file to `completed/` when done. Task-specific instructions (e.g. "Pre-1028 shows data, not design proposals") stay in that task's file and are not promoted to project-wide rules.
 
-Rules: current files state what is true now and old wording lives in git history; maintenance commits may move, merge or compress records; when a file grows long, split `x.md` into `x/README.md` plus sub-files and update links; keep standard relative Markdown links (GitHub renders them) and run `scripts/check_repository.py` after reorganising. Knowledge stays in `docs/DECISIONS.md` and `docs/fieldwork/`.
+Rules: current files state what is true now and old wording lives in git history; maintenance commits may move, merge or compress records; when a file grows long, split `x.md` into `x/README.md` plus sub-files and update links; keep standard relative Markdown links (GitHub renders them) and run `scripts/check_repository.py` after reorganising. Knowledge stays in `docs/DECISIONS.md` and `docs/fieldwork/`. The full method, with templates and a checklist other agents can follow, is in [docs/guides/GIT_MARKDOWN_MEMORY_GUIDE.md](docs/guides/GIT_MARKDOWN_MEMORY_GUIDE.md).
 
 ## Evidence discipline
 

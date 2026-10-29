@@ -1,6 +1,6 @@
 # 完整文件目录 File catalog
 
-Version 0.9.0 · 232 indexed files · 147,330,038 bytes.
+Version 0.9.1 · 233 indexed files · 147,340,058 bytes.
 
 Indexes do not hash themselves. Imported sources are also mapped in [import-manifest.json](import-manifest.json).
 
@@ -20,13 +20,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [AGENTS.md](../AGENTS.md) | 6,389 | repository documentation |
+| [AGENTS.md](../AGENTS.md) | 6,554 | repository documentation |
 
 ## CHANGELOG.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [CHANGELOG.md](../CHANGELOG.md) | 7,700 | repository documentation |
+| [CHANGELOG.md](../CHANGELOG.md) | 8,099 | repository documentation |
 
 ## CONTRIBUTING.md
 
@@ -157,7 +157,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 |---|---:|---|
 | [docs/DECISIONS.md](../docs/DECISIONS.md) | 3,554 | repository documentation |
 | [docs/IMPORT.md](../docs/IMPORT.md) | 702 | repository documentation |
-| [docs/INDEX.md](../docs/INDEX.md) | 4,076 | repository documentation |
+| [docs/INDEX.md](../docs/INDEX.md) | 4,267 | repository documentation |
 | [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 3,855 | repository documentation |
 | [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 6,429 | repository documentation |
 | [docs/PROVENANCE.md](../docs/PROVENANCE.md) | 3,246 | repository documentation |
@@ -211,6 +211,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | [docs/fieldwork/sessions/figures/P04/fig1_timeline.jpg](../docs/fieldwork/sessions/figures/P04/fig1_timeline.jpg) | 190,372 | repository documentation |
 | [docs/fieldwork/sessions/figures/P04/fig2_segments.jpg](../docs/fieldwork/sessions/figures/P04/fig2_segments.jpg) | 145,788 | repository documentation |
 | [docs/fieldwork/sessions/figures/P04/fig3_keyframes.jpg](../docs/fieldwork/sessions/figures/P04/fig3_keyframes.jpg) | 597,506 | repository documentation |
+| [docs/guides/GIT_MARKDOWN_MEMORY_GUIDE.md](../docs/guides/GIT_MARKDOWN_MEMORY_GUIDE.md) | 9,201 | repository documentation |
 | [docs/timeline/2026-09.md](../docs/timeline/2026-09.md) | 694 | repository documentation |
 | [docs/timeline/2026-10.md](../docs/timeline/2026-10.md) | 1,995 | repository documentation |
 | [docs/timeline/README.md](../docs/timeline/README.md) | 676 | repository documentation |
@@ -238,7 +239,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | File | Bytes | Origin |
 |---|---:|---|
 | [metadata/import-manifest.json](../metadata/import-manifest.json) | 61,329 | repository documentation |
-| [metadata/project.json](../metadata/project.json) | 6,362 | repository documentation |
+| [metadata/project.json](../metadata/project.json) | 6,426 | repository documentation |
 
 ## references
 

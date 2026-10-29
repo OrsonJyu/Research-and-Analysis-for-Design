@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "https://github.com/OrsonJyu/Research-and-Analysis-for-Design",
-  "repository_version": "0.9.0",
+  "repository_version": "0.9.1",
   "course": "SD5008",
   "team": "Safari",
   "title": "Attention Allocation and Navigation Information Design: for Newcomers to Hong Kong",
@@ -120,7 +120,8 @@
     "files": "metadata/file-catalog.json",
     "entities": "docs/entities/README.md",
     "timeline": "docs/timeline/README.md",
-    "workstreams": "docs/workstreams/README.md"
+    "workstreams": "docs/workstreams/README.md",
+    "memory_guide": "docs/guides/GIT_MARKDOWN_MEMORY_GUIDE.md"
   },
   "sync_mode": "Task-driven updates; no recurring background automation configured.",
   "data_policy": {

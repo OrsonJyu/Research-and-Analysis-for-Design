@@ -23,5 +23,6 @@
 | 归档覆盖 | [PROVENANCE](PROVENANCE.md) | 来源、去重、缺失附件和导出边界 |
 | 版本管理 | [VERSIONING](VERSIONING.md)、[CHANGELOG](../CHANGELOG.md) | 仓库与各成果版本分开记录 |
 | 维护 | [CONTRIBUTING](../CONTRIBUTING.md)、[AGENTS](../AGENTS.md) | 人和 agent 的更新流程 |
+| 记忆管理指南 | [GIT_MARKDOWN_MEMORY_GUIDE](guides/GIT_MARKDOWN_MEMORY_GUIDE.md) | 用 Git＋Markdown 管理项目记忆的方法、模板和清单，可直接给其他 agent 阅读 |
 
 历史快照内可能保留原来的本机路径或旧下载地址。这些地址属于历史文本；当前可访问位置以本导航和来源映射为准。
