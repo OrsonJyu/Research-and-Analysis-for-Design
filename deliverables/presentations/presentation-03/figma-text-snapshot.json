@@ -31,7 +31,19 @@
       ["66:118", "Chatham + Granville Roads\nNathan + Hankow Roads\nSalisbury Road to forecourt"],
       ["94:9", "We chose K11 Art Mall, then extended it into a more complete route →"]
     ]},
-    {"n": 3, "id": "47:29", "texts": [
+    {"n": 3, "id": "102:6", "texts": [
+      ["102:7", "Final Route"],
+      ["102:8", "[Map image: assets/final_route_map.png — Google Maps walking route from the team link]"],
+      ["102:10", "K11 MUSEA · Barbour"],
+      ["102:11", "Extended K11 route"],
+      ["102:12", "25 min / 1.7 km"],
+      ["102:13", "K11 Art Mall alone: 13 min / 900 m"],
+      ["102:19", "1 PolyU South Gate — Start"],
+      ["102:25", "2 K11 Art Mall, 18 Hanoi Rd — Required waypoint"],
+      ["102:31", "3 K11 MUSEA, 18 Salisbury Rd — Endpoint: Barbour, 3F Shop 319"],
+      ["102:33", "Google Maps walking estimate from our route link (via Chatham Rd S). Indoor shop-finding is not included. Map data ©2026 Google."]
+    ]},
+    {"n": 4, "id": "47:29", "texts": [
       ["47:31", "Why This Route? Extending K11 into a Complete Route"],
       ["47:32", "From K11 Art Mall to a fuller task: a waypoint, varied terrain, landmarks and indoor shop-finding"],
       ["47:36", "PolyU South Gate (Outdoor start) → K11 Art Mall (Required waypoint) → K11 MUSEA · Barbour (Indoor endpoint · 3F, Shop 319)"],
@@ -45,7 +57,7 @@
       ["47:59", "The endpoint moves into K11 MUSEA: floor, directory and shop decisions to reach Barbour, 3F Shop 319."],
       ["47:60", "These are route-selection considerations. The actual features encountered must be checked against each participant’s records."]
     ]},
-    {"n": 4, "id": "4:5", "texts": [
+    {"n": 5, "id": "4:5", "texts": [
       ["47:3", "Why This Route? Participant Familiarity"],
       ["47:4", "Participant-related reason: no one had walked this route to the target store before"],
       ["47:9", "5 / 5"],
@@ -59,7 +71,7 @@
       ["47:27", "WHY THIS MATTERS"],
       ["47:28", "The setting supports observing how people seek and use navigation information in an unfamiliar place."]
     ]},
-    {"n": 5, "id": "31:64", "texts": [
+    {"n": 6, "id": "31:64", "texts": [
       ["34:40", "Warm-up: Preparing for Natural Navigation"],
       ["34:41", "A campus practice session before the formal route"],
       ["34:45", "Site A: Library podium forecourt → Site B: University / Suen Chi Sun squares → Site C: Innovation Tower forecourt (Core V)"],
@@ -69,7 +81,7 @@
       ["34:61", "Participants and researchers practise the recording procedure. The warm-up does not rehearse the formal route."],
       ["34:62", "Campus A → B → C practice records remain separate from the main navigation task."]
     ]},
-    {"n": 6, "id": "4:81", "texts": [
+    {"n": 7, "id": "4:81", "texts": [
       ["35:3", "Fieldwork Workflow: From Walking to Interview"],
       ["35:4", "Capture the walk, build observation logs, then revisit selected moments"],
       ["35:9", "DURING THE WALK"],
@@ -82,7 +94,7 @@
       ["35:20", "RECORD: Walk + audio + video ↓ ORGANISE: Reviewed observation logs ↓ REVISIT: Participant explanations"],
       ["35:29", "Researcher voice memos are fieldnotes. They are not participant think-aloud data."]
     ]},
-    {"n": 7, "id": "4:25", "texts": [
+    {"n": 8, "id": "4:25", "texts": [
       ["35:31", "Data Collection Progress"],
       ["35:32", "Field observations are complete; interviews and organisation are still in progress"],
       ["35:37", "5 navigation observations completed"],
@@ -93,7 +105,7 @@
       ["35:53", "Interview records: Participant explanations; collection ongoing"],
       ["35:55", "Some materials have undergone initial organisation; the full dataset is not yet ready for analysis."]
     ]},
-    {"n": 8, "id": "7:2", "texts": [
+    {"n": 9, "id": "7:2", "texts": [
       ["35:57", "Initial Data Organisation"],
       ["35:58", "Descriptive action tags for observation logs — not yet the qualitative codebook"],
       ["35:63", "S  STOP  Visible halt in stepping"],
@@ -110,7 +122,7 @@
       ["35:97", "T and K: working codes added during fieldwork, unified across all five cases."],
       ["35:98", "Q is not inferred from a backward look or showing a phone. R is a researcher prompt; T is conversation with the researcher."]
     ]},
-    {"n": 9, "id": "77:6", "texts": [
+    {"n": 10, "id": "77:6", "texts": [
       ["77:8", "Data Filtering: Video Memo Coding"],
       ["77:9", "Re-describing observed segments from voice-memo logs, checked against video and interviews"],
       ["77:14", "HOW SEGMENTS WERE FILTERED"],
@@ -132,7 +144,7 @@
       ["77:69", "★ key segment   ◆ supporting / smooth contrast   ○ context.  Grades mark filtering use, not burden severity."],
       ["77:70", "Segments are review windows for later coding, not counts of independent events; no rates are derived from them."]
     ]},
-    {"n": 10, "id": "77:71", "texts": [
+    {"n": 11, "id": "77:71", "texts": [
       ["77:73", "Data Case: A Re-routed Back Lane"],
       ["77:74", "One filtered segment from P04 (Tom), read from observation to participant account"],
       ["77:80", "V12  ★"],
@@ -150,7 +162,7 @@
       ["77:116", "STATUS: Checked against video  ·  high priority"],
       ["77:117", "Quotes are translated from Chinese. Observation, cross-checks and participant account stay in separate fields; interpretation is written last."]
     ]},
-    {"n": 11, "id": "78:8", "texts": [
+    {"n": 12, "id": "78:8", "texts": [
       ["78:10", "Voice Memos Checked Against Video"],
       ["78:11", "Video review confirms, corrects and adds to the researchers’ fieldnotes"],
       ["78:16", "CONFIRMED"],
@@ -167,7 +179,7 @@
       ["78:47", "P01 · P05 — Researcher help logged by type: rule clarification, direction, target reminder, permission to switch apps."],
       ["78:48", "Holding a phone is not viewing it: P is coded only from visible gaze. Voice memos stay fieldnotes, checked against video."]
     ]},
-    {"n": 12, "id": "78:49", "texts": [
+    {"n": 13, "id": "78:49", "texts": [
       ["78:51", "Possible Findings So Far"],
       ["78:52", "Candidate patterns from the filtered segments — to be tested in cross-case analysis"],
       ["78:66", "01 At the waypoint, the hand-over to the next leg is unclear | appears: P01 P02 P04 P05 | P01 V14–15 · P04 V16 · P05 V10"],
@@ -178,7 +190,7 @@
       ["78:141", "● appears in filtered segments   ○ not yet identified — not evidence of absence"],
       ["78:147", "From single-case filtering only: no burden levels or frequencies yet. Patterns enter the qualitative codebook after cross-case checking."]
     ]},
-    {"n": 13, "id": "7:76", "texts": [
+    {"n": 14, "id": "7:76", "texts": [
       ["36:3", "Data Processing"],
       ["36:4", "Prepare traceable information-interaction events for later qualitative analysis"],
       ["36:8", "PRIMARY: Observation logs — Build the event record"],
@@ -189,7 +201,7 @@
       ["36:28", "Interpretation: What might the evidence mean? Keep the inference and its support explicit."],
       ["36:30", "EVENT RECORD   =   context + information source + action sequence + linked account"]
     ]},
-    {"n": 14, "id": "7:41", "texts": [
+    {"n": 15, "id": "7:41", "texts": [
       ["36:32", "Challenges and Adjustments"],
       ["36:33", "Make the record more usable without claiming more than the evidence supports"],
       ["36:37", "01 Writing while walking is difficult → Use researcher voice memos, then organise them into observation logs."],
@@ -197,7 +209,7 @@
       ["36:47", "03 Kiosk use and researcher talk add actions → Unify them as T and K, then back-check earlier records (G* / D* → K)."],
       ["36:52", "04 Behaviour does not explain its own meaning → Do not infer being lost or burdened from stopping or looking at a phone alone."]
     ]},
-    {"n": 15, "id": "7:99", "texts": [
+    {"n": 16, "id": "7:99", "texts": [
       ["36:58", "Next Steps"],
       ["36:59", "Complete the evidence before moving into qualitative analysis"],
       ["36:63", "01 Complete the two remaining interviews →"],

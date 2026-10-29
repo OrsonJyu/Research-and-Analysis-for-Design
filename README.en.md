@@ -1,6 +1,6 @@
 # Research and Analysis for Design
 
-**SD5008 · PolyU ISD · Safari · Repository v0.8.1 · 29 October 2026**
+**SD5008 · PolyU ISD · Safari · Repository v0.8.2 · 29 October 2026**
 
 This repository preserves the Safari team's research process, literature, decisions and deliverables for **Attention Allocation and Navigation Information Design for Newcomers to Hong Kong**. The project examines how information supports orientation, action and confirmation during unfamiliar walking journeys, and when it is associated with interaction burden.
 

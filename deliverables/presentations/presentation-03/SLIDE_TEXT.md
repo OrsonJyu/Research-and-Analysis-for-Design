@@ -2,7 +2,7 @@
 
 Captured: 2026-10-29. Source: [Figma Slides, Pre-1028](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028).
 
-Slide order follows the slide grid. Grouped rows are joined into one line; footers (course header, `SAFARI / 28 OCTOBER 2026`, page counter) are omitted. Layout, images and speaker notes stay in Figma; the script is in [SCRIPT_EN.md](SCRIPT_EN.md). Slides 9–12 (video memo filtering) were added on 2026-10-29; slides 8 and 14 use the unified T/K codes (D015). Slide 9 follows the team workflow: voice-memo observation logs → video check → interview corroboration → code-combination descriptions. Slide 2 marks K11 Art Mall as selected; slide 3 explains how it was extended; slide 4 states participant familiarity conservatively.
+Slide order follows the slide grid (16 slides). Grouped rows are joined into one line; footers (course header, `SAFARI / 28 OCTOBER 2026`, page counter) are omitted. Layout and images stay in Figma; the route map is also saved as [assets/final_route_map.png](assets/final_route_map.png), and the script is in [SCRIPT_EN.md](SCRIPT_EN.md). Slides 10–13 (video memo filtering) were added on 2026-10-29; slides 9 and 15 use the unified T/K codes (D015). Slide 2 marks K11 Art Mall as selected, slide 3 shows the final route map, slide 4 explains the extension, and slide 5 states participant familiarity conservatively.
 
 ## Slide 01
 
@@ -58,6 +58,30 @@ We chose K11 Art Mall, then extended it into a more complete route →
 
 ## Slide 03
 
+[Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=102-6)
+
+Final Route
+
+[Map image: assets/final_route_map.png — Google Maps walking route from the team link]
+
+K11 MUSEA · Barbour
+
+Extended K11 route
+
+25 min / 1.7 km
+
+K11 Art Mall alone: 13 min / 900 m
+
+1 PolyU South Gate — Start
+
+2 K11 Art Mall, 18 Hanoi Rd — Required waypoint
+
+3 K11 MUSEA, 18 Salisbury Rd — Endpoint: Barbour, 3F Shop 319
+
+Google Maps walking estimate from our route link (via Chatham Rd S). Indoor shop-finding is not included. Map data ©2026 Google.
+
+## Slide 04
+
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=47-29)
 
 Why This Route? Extending K11 into a Complete Route
@@ -84,7 +108,7 @@ The endpoint moves into K11 MUSEA: floor, directory and shop decisions to reach 
 
 These are route-selection considerations. The actual features encountered must be checked against each participant’s records.
 
-## Slide 04
+## Slide 05
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=4-5)
 
@@ -112,7 +136,7 @@ WHY THIS MATTERS
 
 The setting supports observing how people seek and use navigation information in an unfamiliar place.
 
-## Slide 05
+## Slide 06
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=31-64)
 
@@ -132,7 +156,7 @@ Participants and researchers practise the recording procedure. The warm-up does 
 
 Campus A → B → C practice records remain separate from the main navigation task.
 
-## Slide 06
+## Slide 07
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=4-81)
 
@@ -158,7 +182,7 @@ RECORD: Walk + audio + video ↓ ORGANISE: Reviewed observation logs ↓ REVISIT
 
 Researcher voice memos are fieldnotes. They are not participant think-aloud data.
 
-## Slide 07
+## Slide 08
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=4-25)
 
@@ -180,7 +204,7 @@ Interview records: Participant explanations; collection ongoing
 
 Some materials have undergone initial organisation; the full dataset is not yet ready for analysis.
 
-## Slide 08
+## Slide 09
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=7-2)
 
@@ -214,7 +238,7 @@ T and K: working codes added during fieldwork, unified across all five cases.
 
 Q is not inferred from a backward look or showing a phone. R is a researcher prompt; T is conversation with the researcher.
 
-## Slide 09
+## Slide 10
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=77-6)
 
@@ -258,7 +282,7 @@ P05  Chenggong | 30:44 | 34 segments | 19 / 11 / 4
 
 Segments are review windows for later coding, not counts of independent events; no rates are derived from them.
 
-## Slide 10
+## Slide 11
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=77-71)
 
@@ -294,7 +318,7 @@ STATUS: Checked against video  ·  high priority
 
 Quotes are translated from Chinese. Observation, cross-checks and participant account stay in separate fields; interpretation is written last.
 
-## Slide 11
+## Slide 12
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=78-8)
 
@@ -328,7 +352,7 @@ P01 · P05 — Researcher help logged by type: rule clarification, direction, ta
 
 Holding a phone is not viewing it: P is coded only from visible gaze. Voice memos stay fieldnotes, checked against video.
 
-## Slide 12
+## Slide 13
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=78-49)
 
@@ -350,7 +374,7 @@ Candidate patterns from the filtered segments — to be tested in cross-case ana
 
 From single-case filtering only: no burden levels or frequencies yet. Patterns enter the qualitative codebook after cross-case checking.
 
-## Slide 13
+## Slide 14
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=7-76)
 
@@ -372,7 +396,7 @@ Interpretation: What might the evidence mean? Keep the inference and its support
 
 EVENT RECORD   =   context + information source + action sequence + linked account
 
-## Slide 14
+## Slide 15
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=7-41)
 
@@ -388,7 +412,7 @@ Make the record more usable without claiming more than the evidence supports
 
 04 Behaviour does not explain its own meaning → Do not infer being lost or burdened from stopping or looking at a phone alone.
 
-## Slide 15
+## Slide 16
 
 [Open source slide](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028?node-id=7-99)
 

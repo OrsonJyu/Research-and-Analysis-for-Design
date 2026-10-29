@@ -1,13 +1,13 @@
 # Presentation 03 — Speaker script (Pre-1028)
 
-Written 2026-10-29 and stored as speaker notes in [Figma Slides, Pre-1028](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028). Target total **9:45** at about 140 words per minute. Bold marks the sentence to stress on each slide.
+Written 2026-10-29 and stored as speaker notes in [Figma Slides, Pre-1028](https://www.figma.com/slides/bSGG8578Ew7Ko9BkLcZiw8/Pre-1028). Target total **9:50** at about 140 words per minute. Bold marks the sentence to stress on each slide.
 
 | Part | Slides | Time |
 |---|---|---|
-| Set-up: question, route choice and extension, participants, warm-up | 1–5 | 0:00–2:20 |
-| How we collect and organise data | 6–9 | 2:20–5:10 |
-| What the data show so far | 10–12 | 5:10–8:05 |
-| Method and next steps | 13–15 | 8:05–9:45 |
+| Set-up: question, route choice, final route, extension, participants, warm-up | 1–6 | 0:00–2:25 |
+| How we collect and organise data | 7–10 | 2:25–5:15 |
+| What the data show so far | 11–13 | 5:15–8:10 |
+| Method and next steps | 14–16 | 8:10–9:50 |
 
 ## Slide 01 · Recap — 30 s · 0:00–0:30
 
@@ -17,21 +17,25 @@ Our question is: **how can navigation information be classified by its interacti
 
 We answer it through field observation, interviews, and analysis that links the two. In ten minutes we cover three parts: how we set up the fieldwork, what our data look like after filtering, and what comes next.
 
-## Slide 02 · Route candidates — 25 s · 0:30–0:55
+## Slide 02 · Route candidates — 20 s · 0:30–0:50
 
-We first compared three destinations from PolyU South Gate: K11 Art Mall, Kwun Yum Temple and the Clock Tower. The times shown are planning estimates, not measured walks.
+We first compared three destinations from PolyU South Gate: K11 Art Mall, Kwun Yum Temple and the Clock Tower. These times are planning estimates.
 
-**We chose K11 Art Mall.** On its own it was a short, simple walk, so we extended it into a more complete route.
+**We chose K11 Art Mall**, and then extended it into a more complete route.
 
-## Slide 03 · Extending K11 into a complete route — 35 s · 0:55–1:30
+## Slide 03 · Final route — 20 s · 0:50–1:10
 
-We added four things.
+This is the final route: **from PolyU South Gate, through K11 Art Mall as a waypoint, to K11 MUSEA**.
 
-First, **Art Mall became a required waypoint**, so participants must hand over to a second leg. Second, the walk now covers **varied terrain**: busy streets, narrow lanes, many junctions and an underground passage under Salisbury Road. Third, it passes **landmark buildings** that may help orientation. Fourth, the endpoint moves into **K11 MUSEA, where participants must find a floor and a shop**.
+Google Maps estimates about twenty-five minutes and one point seven kilometres, almost double the Art Mall walk alone, and that is before the indoor search for the Barbour store.
+
+## Slide 04 · Extending K11 into a complete route — 25 s · 1:10–1:35
+
+The extension adds four things: **a required waypoint**, so participants hand over to a second leg; **varied terrain**, including narrow lanes, busy junctions and an underground passage; **landmark buildings** for orientation; and **indoor shop-finding** inside MUSEA.
 
 Which features each person actually met comes from their own records.
 
-## Slide 04 · Participant familiarity — 25 s · 1:30–1:55
+## Slide 05 · Participant familiarity — 25 s · 1:35–2:00
 
 The route also suits our participants. **None of the five had visited the target Barbour store**, or walked this route to it.
 
@@ -39,13 +43,13 @@ K11 itself was little known; one participant had been to MUSEA as a tourist but 
 
 So we can watch how people seek information in a place they do not know well.
 
-## Slide 05 · Warm-up — 25 s · 1:55–2:20
+## Slide 06 · Warm-up — 25 s · 2:00–2:25
 
 Before the formal task, each participant does a short campus warm-up, from the library to the Innovation Tower. They navigate as usual; switching apps or asking people is fine.
 
 **The warm-up lets participant and researcher practise the recording, not the route**, and its records stay out of the main analysis.
 
-## Slide 06 · Fieldwork workflow — 45 s · 2:20–3:05
+## Slide 07 · Fieldwork workflow — 45 s · 2:25–3:10
 
 Here is our fieldwork workflow.
 
@@ -55,7 +59,7 @@ Afterwards, we transcribe the voice memos and check them into observation logs. 
 
 Keep this chain in mind: memo, video, interview. It is exactly how we filter the data later.
 
-## Slide 07 · Data collection progress — 30 s · 3:05–3:35
+## Slide 08 · Data collection progress — 30 s · 3:10–3:40
 
 Where are we now? **All five navigation observations are complete; two interviews remain.**
 
@@ -63,7 +67,7 @@ Our material has four types: video for context and verification, observation log
 
 So today we present organised data and early patterns, **not final findings**.
 
-## Slide 08 · Action tags — 45 s · 3:35–4:20
+## Slide 09 · Action tags — 45 s · 3:40–4:25
 
 To organise the logs we use descriptive action tags.
 
@@ -73,7 +77,7 @@ Fieldwork added two codes, now **unified across all five cases**: **T, talking w
 
 These tags describe what is visible. **They are not yet our qualitative codebook.**
 
-## Slide 09 · Data filtering — 50 s · 4:20–5:10
+## Slide 10 · Data filtering — 50 s · 4:25–5:15
 
 This is how we filtered the data.
 
@@ -81,7 +85,7 @@ This is how we filtered the data.
 
 On the right: about thirty-four to thirty-six segments per walk; Peter's seventy records use an earlier, ungraded format. Stars mark key segments. **Grades show what we will code first, not how hard a moment was.**
 
-## Slide 10 · Data case — 55 s · 5:10–6:05
+## Slide 11 · Data case — 55 s · 5:15–6:10
 
 Here is one filtered segment, from Tom.
 
@@ -91,7 +95,7 @@ The voice memo said he was unsure and kept checking the map; **the video confirm
 
 **Observation, cross-check and his own account stay in separate fields.** Our interpretation is added only last.
 
-## Slide 11 · Voice memos checked against video — 50 s · 6:05–6:55
+## Slide 12 · Voice memos checked against video — 50 s · 6:10–7:00
 
 Checking every memo against video changed our record in three ways.
 
@@ -103,7 +107,7 @@ Checking every memo against video changed our record in three ways.
 
 The lesson: **holding a phone is not looking at it**, so P is coded only from visible gaze.
 
-## Slide 12 · Possible findings so far — 70 s · 6:55–8:05
+## Slide 13 · Possible findings so far — 70 s · 7:00–8:10
 
 Across the five walks, five candidate patterns are emerging. A filled dot means the pattern appears in that person's filtered segments.
 
@@ -119,7 +123,7 @@ Five: **the phone is often held low while walking**, with checks clustering at j
 
 An empty dot means not yet found, not absent. **These are candidates to test, not findings.**
 
-## Slide 13 · Data processing — 35 s · 8:05–8:40
+## Slide 14 · Data processing — 35 s · 8:10–8:45
 
 Next, these segments become information-interaction events.
 
@@ -127,7 +131,7 @@ Observation logs are the main source; video verifies actions and timing; GPS add
 
 Each event keeps **three layers apart**: what was observed, what the participant said, and what we interpret. **An event record links context, information source, action sequence and the participant's account**, so every later claim can be traced back to evidence.
 
-## Slide 14 · Challenges and adjustments — 35 s · 8:40–9:15
+## Slide 15 · Challenges and adjustments — 35 s · 8:45–9:20
 
 Four challenges shaped our method.
 
@@ -135,7 +139,7 @@ Writing while walking is hard, so we use voice memos. Transcripts need manual ch
 
 And most importantly, **behaviour does not explain itself**: a stop or a phone glance alone does not prove someone is lost or overloaded.
 
-## Slide 15 · Next steps — 30 s · 9:15–9:45
+## Slide 16 · Next steps — 30 s · 9:20–9:50
 
 Next, we will **finish the two remaining interviews** and align them with the observation logs. Then we check whether the evidence is enough.
 
