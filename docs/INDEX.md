@@ -5,6 +5,9 @@
 | 类别 | 入口 | 说明 |
 |---|---|---|
 | 当前概况 | [PROJECT_STATE](PROJECT_STATE.md) | 已确认、历史安排及尚未核实的状态 |
+| 按对象 | [entities](entities/README.md) | P01–P05 主页：编号、别名、资料、编码、待核 |
+| 按时间 | [timeline](timeline/README.md) | 每月一份、按日记录研究事件 |
+| 按任务 | [workstreams](workstreams/README.md) | 进行中与已完成的工作、下一步 |
 | 研究逻辑 | [RESEARCH_BRIEF](RESEARCH_BRIEF.md) | 题目、问题、目标、方法和证据边界 |
 | 当前执行 | [路线与手册](../deliverables/fieldwork/extended-route-v3/README.md) | 用户提供的四份 v3 文件 |
 | 可搜索执行文本 | [手册](fieldwork/MANUAL_CN.md)、[记录表](fieldwork/RECORD_FORM_CN.md) | 从 DOCX 提取，原件保持不变 |

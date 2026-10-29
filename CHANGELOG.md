@@ -2,6 +2,14 @@
 
 版本为研究仓库的版本，与 proposal V3、路线手册 v3 分开。日期采用 Asia/Hong_Kong。
 
+## [0.9.0] — 2026-10-29
+
+- 按"对象／时间／任务"三种入口整理项目记忆（参考用户分享的 git＋markdown 记忆做法）：
+  - `docs/entities/participants/P01–P05.md`：每位参与者一页，文件头写编号与别名（如 Tom＝P04＝UserD，研究员口述叫"用户 C"），汇总资料、编码、访谈、执行问题、待核事项和出现位置。
+  - `docs/timeline/`：2026-09、2026-10 两份按日记录的研究事件。
+  - `docs/workstreams/`：进行中 5 项（Pre-1028、T／K 回查、P05 分析入库、剩余访谈、codebook）与已完成 4 项。Pre-1028 的专属要求记在它自己的文件里。
+- 当前状态页改为只写现状并加入三类入口，参与者表格精简为指向主页；AGENTS.md 增加记忆结构与维护规则；文件导航和 README 增加入口。
+
 ## [0.8.2] — 2026-10-29
 
 - Pre-1028 新增第 3 页"Final Route"：沿用第 2 页版式，放入用户提供的 Google Maps 路线截图（步行约 25 分钟／1.7 km，经 Chatham Rd S），列出三个节点并与 K11 Art Mall 单段（13 分钟／900 m）对照。地图图片另存 `presentation-03/assets/final_route_map.png`。

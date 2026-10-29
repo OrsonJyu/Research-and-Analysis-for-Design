@@ -1,6 +1,6 @@
 # 完整文件目录 File catalog
 
-Version 0.8.2 · 213 indexed files · 147,306,954 bytes.
+Version 0.9.0 · 232 indexed files · 147,330,038 bytes.
 
 Indexes do not hash themselves. Imported sources are also mapped in [import-manifest.json](import-manifest.json).
 
@@ -20,13 +20,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [AGENTS.md](../AGENTS.md) | 5,149 | repository documentation |
+| [AGENTS.md](../AGENTS.md) | 6,389 | repository documentation |
 
 ## CHANGELOG.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [CHANGELOG.md](../CHANGELOG.md) | 6,861 | repository documentation |
+| [CHANGELOG.md](../CHANGELOG.md) | 7,700 | repository documentation |
 
 ## CONTRIBUTING.md
 
@@ -38,13 +38,13 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.en.md](../README.en.md) | 4,156 | repository documentation |
+| [README.en.md](../README.en.md) | 4,334 | repository documentation |
 
 ## README.md
 
 | File | Bytes | Origin |
 |---|---:|---|
-| [README.md](../README.md) | 4,076 | repository documentation |
+| [README.md](../README.md) | 4,202 | repository documentation |
 
 ## VERSION
 
@@ -157,12 +157,18 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 |---|---:|---|
 | [docs/DECISIONS.md](../docs/DECISIONS.md) | 3,554 | repository documentation |
 | [docs/IMPORT.md](../docs/IMPORT.md) | 702 | repository documentation |
-| [docs/INDEX.md](../docs/INDEX.md) | 3,778 | repository documentation |
+| [docs/INDEX.md](../docs/INDEX.md) | 4,076 | repository documentation |
 | [docs/OPEN_QUESTIONS.md](../docs/OPEN_QUESTIONS.md) | 3,855 | repository documentation |
-| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 7,686 | repository documentation |
+| [docs/PROJECT_STATE.md](../docs/PROJECT_STATE.md) | 6,429 | repository documentation |
 | [docs/PROVENANCE.md](../docs/PROVENANCE.md) | 3,246 | repository documentation |
 | [docs/RESEARCH_BRIEF.md](../docs/RESEARCH_BRIEF.md) | 4,009 | repository documentation |
 | [docs/VERSIONING.md](../docs/VERSIONING.md) | 1,423 | repository documentation |
+| [docs/entities/README.md](../docs/entities/README.md) | 1,067 | repository documentation |
+| [docs/entities/participants/P01.md](../docs/entities/participants/P01.md) | 2,543 | repository documentation |
+| [docs/entities/participants/P02.md](../docs/entities/participants/P02.md) | 1,919 | repository documentation |
+| [docs/entities/participants/P03.md](../docs/entities/participants/P03.md) | 1,875 | repository documentation |
+| [docs/entities/participants/P04.md](../docs/entities/participants/P04.md) | 2,130 | repository documentation |
+| [docs/entities/participants/P05.md](../docs/entities/participants/P05.md) | 1,780 | repository documentation |
 | [docs/fieldwork/CODEBOOK_CROSSWALK.md](../docs/fieldwork/CODEBOOK_CROSSWALK.md) | 2,581 | repository documentation |
 | [docs/fieldwork/CROSS_CASE_NOTES.md](../docs/fieldwork/CROSS_CASE_NOTES.md) | 9,609 | repository documentation |
 | [docs/fieldwork/MANUAL_CN.md](../docs/fieldwork/MANUAL_CN.md) | 6,307 | repository documentation |
@@ -205,6 +211,19 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | [docs/fieldwork/sessions/figures/P04/fig1_timeline.jpg](../docs/fieldwork/sessions/figures/P04/fig1_timeline.jpg) | 190,372 | repository documentation |
 | [docs/fieldwork/sessions/figures/P04/fig2_segments.jpg](../docs/fieldwork/sessions/figures/P04/fig2_segments.jpg) | 145,788 | repository documentation |
 | [docs/fieldwork/sessions/figures/P04/fig3_keyframes.jpg](../docs/fieldwork/sessions/figures/P04/fig3_keyframes.jpg) | 597,506 | repository documentation |
+| [docs/timeline/2026-09.md](../docs/timeline/2026-09.md) | 694 | repository documentation |
+| [docs/timeline/2026-10.md](../docs/timeline/2026-10.md) | 1,995 | repository documentation |
+| [docs/timeline/README.md](../docs/timeline/README.md) | 676 | repository documentation |
+| [docs/workstreams/README.md](../docs/workstreams/README.md) | 1,447 | repository documentation |
+| [docs/workstreams/active/codebook.md](../docs/workstreams/active/codebook.md) | 908 | repository documentation |
+| [docs/workstreams/active/p05-analysis.md](../docs/workstreams/active/p05-analysis.md) | 540 | repository documentation |
+| [docs/workstreams/active/pre-1028.md](../docs/workstreams/active/pre-1028.md) | 1,100 | repository documentation |
+| [docs/workstreams/active/remaining-interviews.md](../docs/workstreams/active/remaining-interviews.md) | 641 | repository documentation |
+| [docs/workstreams/active/tk-backcheck.md](../docs/workstreams/active/tk-backcheck.md) | 657 | repository documentation |
+| [docs/workstreams/completed/field-observations.md](../docs/workstreams/completed/field-observations.md) | 485 | repository documentation |
+| [docs/workstreams/completed/presentation-02.md](../docs/workstreams/completed/presentation-02.md) | 377 | repository documentation |
+| [docs/workstreams/completed/proposal-v3.md](../docs/workstreams/completed/proposal-v3.md) | 370 | repository documentation |
+| [docs/workstreams/completed/route-v3.md](../docs/workstreams/completed/route-v3.md) | 321 | repository documentation |
 
 ## knowledge
 
@@ -219,7 +238,7 @@ Indexes do not hash themselves. Imported sources are also mapped in [import-mani
 | File | Bytes | Origin |
 |---|---:|---|
 | [metadata/import-manifest.json](../metadata/import-manifest.json) | 61,329 | repository documentation |
-| [metadata/project.json](../metadata/project.json) | 6,227 | repository documentation |
+| [metadata/project.json](../metadata/project.json) | 6,362 | repository documentation |
 
 ## references
 

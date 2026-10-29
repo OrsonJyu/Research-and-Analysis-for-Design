@@ -22,6 +22,16 @@ Keep the old seven verbose action labels and current shorthand labels mapped; do
 
 Route selection is confirmed. Fieldwork started on 2026-10-27: raw media for P01 (UserA-Sarah) and P02 (UserB-Caicai) exist on Google Drive/iCloud, and P04 (UserD-Tom, 2026-10-28) and P05 (UserE-Chenggong) followed; P01, P02 and P04 have preliminary, unverified analyses in `docs/fieldwork/sessions/`. Teammates' documents uploaded to Drive on 2026-10-28 (P01/P02 interviews, P03 Peter coding and interview analysis, P05 researcher memo) are archived under `references/fieldwork-team/` with text extracts in `docs/fieldwork/sessions/`; `docs/fieldwork/CROSS_CASE_NOTES.md` summarises P01–P05. P05 video and GPX remain unanalysed. Tom's iPhone clock matches GPS; researcher narration (the "memo") is inside the video audio. Episode coding uses the improved format: location / situation / environment per V, and "code｜description" lines (see `P04_video_coding.md`). Ethics document scope and results remain unverified. A sample filename such as P01_20261023_MAIN is not evidence that a participant session occurred. When aligning P01 media, note the DJI camera clock runs 931.5 s ahead of phone/GPS time (audio cross-correlation). The video-first P01 report is the current analysis; the earlier memo-based draft is superseded where they disagree.
 
+## Memory layout (2026-10-29)
+
+The repository is organised like a git-backed markdown memory, with three entry points:
+
+- **Entities** (`docs/entities/`): one file per participant (`participants/P01.md`…). Front matter holds a stable `id`, `type` and `aliases` (e.g. Tom = P04 = UserD, called 用户 C in researcher narration). Refer to people by ID; do not copy their whole record elsewhere.
+- **Timeline** (`docs/timeline/`): one file per month, one section per day, recording the date of the event itself, not the commit date.
+- **Workstreams** (`docs/workstreams/active/` and `completed/`): what is being done, its status and next steps. Move a file to `completed/` when done. Task-specific instructions (e.g. "Pre-1028 shows data, not design proposals") stay in that task's file and are not promoted to project-wide rules.
+
+Rules: current files state what is true now and old wording lives in git history; maintenance commits may move, merge or compress records; when a file grows long, split `x.md` into `x/README.md` plus sub-files and update links; keep standard relative Markdown links (GitHub renders them) and run `scripts/check_repository.py` after reorganising. Knowledge stays in `docs/DECISIONS.md` and `docs/fieldwork/`.
+
 ## Evidence discipline
 
 - Separate observable action, immediate report, retrospective account and researcher interpretation.

@@ -6,14 +6,14 @@
 
 这是 Safari 小组的研究、讨论过程、文献与成果档案。我们研究陌生步行导航中的信息如何帮助定向、行动和确认，以及在什么情境下伴随交互负担。预期产出是情境化信息分类与初步设计建议。
 
-**仓库版本：v0.8.2 · 整理日期：2026-10-29 · 时区：Asia/Hong_Kong**  
+**仓库版本：v0.9.0 · 整理日期：2026-10-29 · 时区：Asia/Hong_Kong**  
 [English guide](README.en.md) · [全部文件导航](docs/INDEX.md) · [更新历史](CHANGELOG.md)
 
 ## 第一次来这里
 
 | 你想了解什么 | 从这里开始 |
 |---|---|
-| 项目现在进行到哪里 | [当前状态与证据边界](docs/PROJECT_STATE.md) |
+| 项目现在进行到哪里 | [当前状态与证据边界](docs/PROJECT_STATE.md)；按[参与者](docs/entities/README.md)、[时间线](docs/timeline/README.md)、[工作流](docs/workstreams/README.md)查 |
 | 研究问题、目标与方法 | [研究简报](docs/RESEARCH_BRIEF.md) |
 | 正式路线与执行资料 | [当前路线及 v3 手册、记录表](deliverables/fieldwork/extended-route-v3/README.md) |
 | 汇报、讲稿与方案 | [成果目录](deliverables/README.md) |

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "repository_version": "0.8.2",
+  "repository_version": "0.9.0",
   "coverage": "All repository files except these three generated indexes, Git internals and temporary caches.",
   "excluded_generated_indexes": [
     "metadata/FILE_CATALOG.md",
@@ -26,17 +26,17 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 5149,
-      "sha256": "22f8c6ac8b5c2035e053ffdd4416b92fc1b504ea8647fa7ff27d2ac564863ec1",
-      "git_blob_sha": "a51b1ecf25fa6b5cd1f161eff6c96c74d896f681",
+      "bytes": 6389,
+      "sha256": "0bb5d7b83af14e10aea5ca38f9b39f6c0ec8fdb4044285b2201bfed9a53d19c3",
+      "git_blob_sha": "19c7691c98cef3a31b94492bfa8567044120e7db",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 6861,
-      "sha256": "54e8d5330d9ee0614aceb70903c0ac9fadbfad416e03c304f376e9871bf091d0",
-      "git_blob_sha": "9b42aca700516c1c3d839deb7de9ef681d6a0c36",
+      "bytes": 7700,
+      "sha256": "5bd01a1ca1d5b72d673027ecd65d458716e0afb6190e0d57557ace96f584334b",
+      "git_blob_sha": "4eba5ac95d7ea16fdf066921df1f014123c21179",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -50,25 +50,25 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 4156,
-      "sha256": "8dbfec5d2af4f2f551d346a49bd7d0758cbbb7a39c1b448fed7884a3b14797d6",
-      "git_blob_sha": "8e61bddd35133870b74d40dfe843ff1affd9e384",
+      "bytes": 4334,
+      "sha256": "3e135d1de06358a99b2d5f57ab263f034629a4cf01467f190928e20a8aac8e05",
+      "git_blob_sha": "603ad56b4f2769119ff3b4d71ac18d2dc8617817",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "README.md",
-      "bytes": 4076,
-      "sha256": "3bb02be2a47d110cbdac91ea24bf783ec9c76e3b0d441139287c5d708fe51180",
-      "git_blob_sha": "0ceb2f87eb963eb76b827118ed8d44a1d8cd6d6c",
+      "bytes": 4202,
+      "sha256": "6106035ae34e5fa81f5555507735b34f5a90f5c42914151f33529e7fc8d430eb",
+      "git_blob_sha": "b8bb6fd2069f14a67421dd6129feb2f1e516d2bc",
       "sources": [],
       "kind": "curated-or-generated"
     },
     {
       "path": "VERSION",
       "bytes": 6,
-      "sha256": "ceb9b2c03afb769df3b1e518520c4e1798e9a3313a1c5ffffcb054fef5d6d6fb",
-      "git_blob_sha": "100435be135a32ae8974fe4dd281c4d3a9d62e02",
+      "sha256": "9d8c94f1ad3ea96b1e2ac4914fda4cb93c76b4a3e0d8cc6dd8976d6c0b227d15",
+      "git_blob_sha": "ac39a106c48515b621e90c028ed94c6f71bc03fa",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1259,9 +1259,9 @@
     },
     {
       "path": "docs/INDEX.md",
-      "bytes": 3778,
-      "sha256": "dc8f88af73af2eaaa98ccc772e07e164a4fac560dbef846283dbf7a120c95cb7",
-      "git_blob_sha": "f4ac7fb38ae13ef508e9b0b0c91dd511eb183145",
+      "bytes": 4076,
+      "sha256": "e48105249bc6d1deaff993a3344ff9ad1d8742bac771946c4850bdc47f25af51",
+      "git_blob_sha": "7f79e5175711fd28ee066cbe65c1b95dbf0bff60",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1275,9 +1275,9 @@
     },
     {
       "path": "docs/PROJECT_STATE.md",
-      "bytes": 7686,
-      "sha256": "86687c04b8a95db81e9b9755c2dd1e1224da5f207c4f63018a86e274cf5b67c1",
-      "git_blob_sha": "4608b1cab8ea555dca390efa595db1543c95c8fd",
+      "bytes": 6429,
+      "sha256": "c515667eed86346395738e2cfab538e894bf73980e98fd6dda7027ad2f3516b7",
+      "git_blob_sha": "3ee63b954f835af2fd783bf9a928a8ac17b9a173",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1302,6 +1302,54 @@
       "bytes": 1423,
       "sha256": "a6fa8899836dd3c0027d319ca003e362c70faaac4c0785bc198c8c4eab4098c4",
       "git_blob_sha": "3404dcdcb746faf1c1f3e07bcbca3656bd97a8ce",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/entities/README.md",
+      "bytes": 1067,
+      "sha256": "78c493e5d68cf2002fa0fccc5bbfeab8acc0d2da74fdb2d1560263d693406168",
+      "git_blob_sha": "9b4e7ebdababdaba102cfd26e70f0d96ed757cef",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/entities/participants/P01.md",
+      "bytes": 2543,
+      "sha256": "c7f4503bf827e5a5ca20a0c511e1ac016fa1cceb0e5a2761a22d79efaeca5c55",
+      "git_blob_sha": "e1937f55d7b5f1fadfcc63992c261eacc67cf219",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/entities/participants/P02.md",
+      "bytes": 1919,
+      "sha256": "260175ed662e6d6c0b9de65937dec834ac33299a0a5800801a1ba4cb6c233ae6",
+      "git_blob_sha": "0cbeebd5d8d28567e615bbcc8bbdbd73210068bd",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/entities/participants/P03.md",
+      "bytes": 1875,
+      "sha256": "9c15f32448250ecf1a7c5706d0e532e970caae2825fada5c1dd0c19da4ac8706",
+      "git_blob_sha": "c36e27f6fc5560ee1aa487780ad5cfe79198f0f3",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/entities/participants/P04.md",
+      "bytes": 2130,
+      "sha256": "f53b8ec11147638d4814c8e99e0866bfa7f7341e4870bb38142db7c3066f7056",
+      "git_blob_sha": "d4b4334587ec681183e37c7497a298e79eb5a23c",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/entities/participants/P05.md",
+      "bytes": 1780,
+      "sha256": "6031edbe3e5407f0bbb4adea95932a5cace1fd2994e609652c9cefb444c0a799",
+      "git_blob_sha": "1b56e2e32dfa412629ba6e9ea4b64400e3d001d9",
       "sources": [],
       "kind": "curated-or-generated"
     },
@@ -1642,6 +1690,110 @@
       "kind": "curated-or-generated"
     },
     {
+      "path": "docs/timeline/2026-09.md",
+      "bytes": 694,
+      "sha256": "0756293368c09e89729e8914ca2a73186cf2383e3844e794b89d4566abfed514",
+      "git_blob_sha": "fdd28e1879e0af15970c137f86dedf0df6ce0dbb",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/timeline/2026-10.md",
+      "bytes": 1995,
+      "sha256": "cc9d96085ce04aaa9657a347576870046294d5ab5011e958dbb0c1fb168901fe",
+      "git_blob_sha": "a042bfb3ef71ca998e354f6e576b043fc6f48f30",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/timeline/README.md",
+      "bytes": 676,
+      "sha256": "5aa9f18ef018a08b591f4bdf23d8ce5797ce4850a83fe0175fb6b85e9b8cc054",
+      "git_blob_sha": "068e7a25339956b0bf42d20149d92f1cbe2e34b8",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/README.md",
+      "bytes": 1447,
+      "sha256": "937dddfe75458dc9a0a04ad4de9ed9ae99b60c77adb004ca9f5229dc9941b848",
+      "git_blob_sha": "0237a60135d7e149e3bfa50878b84316bf75c939",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/active/codebook.md",
+      "bytes": 908,
+      "sha256": "44476d3e8ac01aa8e36be01c5f9802c187d89016c5ae2af5ffd84e32154686c5",
+      "git_blob_sha": "616397a17beb799168b33ed05d0df81db553d1b8",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/active/p05-analysis.md",
+      "bytes": 540,
+      "sha256": "4c4f008ca6fbc68f969da65ceefc43b8948bca229ca7715f3c4c9621dd172220",
+      "git_blob_sha": "f24847bc4839bc3f80f69ba2a9ede7c9d2caa5ed",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/active/pre-1028.md",
+      "bytes": 1100,
+      "sha256": "32cd2712b82785ba120ef1af7a8b8404e4c930582504eb8eaafb92bb5ba560b5",
+      "git_blob_sha": "43ad6bc9209210f701c6b8226b4ff84695a694d5",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/active/remaining-interviews.md",
+      "bytes": 641,
+      "sha256": "02e86c9cfe83b63297ae630975ea1587cd603ed105828add5cf91809540e51f1",
+      "git_blob_sha": "e4367dff4168bfb9e6a9358158fb0e90fd442539",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/active/tk-backcheck.md",
+      "bytes": 657,
+      "sha256": "8e994a56a897db32c86146620d64927bc085056d422d5ac1ef330b72b87e6e38",
+      "git_blob_sha": "d494fbf18564bca72e11feda29890cab5e6cd758",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/completed/field-observations.md",
+      "bytes": 485,
+      "sha256": "3c9d926bf4249329ec1b9ce42e56f9ef416471865cd056b0fbb4fbaca4895afe",
+      "git_blob_sha": "58aaca29cbd97dce5df8a7caad5869113c9144f1",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/completed/presentation-02.md",
+      "bytes": 377,
+      "sha256": "96694fcfadf95fff2f3349f9614a8c3b64e73ed1932a61e45296ee5ee3776213",
+      "git_blob_sha": "0a3bd69be3be7d6ebfad9196dfe57f9701774b32",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/completed/proposal-v3.md",
+      "bytes": 370,
+      "sha256": "f8d59ca8f3a162f853768c785c065e98135bdd591f980b38ae7af9554a7a4a1d",
+      "git_blob_sha": "0a3444e4d57d3043f90936e819921f9d139a6492",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
+      "path": "docs/workstreams/completed/route-v3.md",
+      "bytes": 321,
+      "sha256": "557b6c6c6607b90b7ed1b1651bb0c6b174bfe737fc81f2b314da4c0f35345e85",
+      "git_blob_sha": "f16dc2654f3884c3841d1c0caceba86734d0ee14",
+      "sources": [],
+      "kind": "curated-or-generated"
+    },
+    {
       "path": "knowledge/README.md",
       "bytes": 3232,
       "sha256": "494ff4809cc345bc2ceba0d8b81f0e75a6f18651449f5adaa1ee27649d0e9bd3",
@@ -1675,9 +1827,9 @@
     },
     {
       "path": "metadata/project.json",
-      "bytes": 6227,
-      "sha256": "8c3ffca042fa4aedefda93d3aaf7a06f11916ae550d7852b153becdb6d8ff409",
-      "git_blob_sha": "090d9e093d8df0e8a99395b7e7d1381dd97f2a6f",
+      "bytes": 6362,
+      "sha256": "4304b7157af99b834673e88f0c4368d661a8562414f2e1c56ac1a76ebc8be13b",
+      "git_blob_sha": "075f59a944f9cee3b35a2b8ea57453de13a6e3eb",
       "sources": [],
       "kind": "curated-or-generated"
     },

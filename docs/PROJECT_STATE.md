@@ -1,6 +1,8 @@
 # 当前状态 Project state
 
-核对日期：**2026-10-26（Asia/Hong_Kong）**。本页区分用户确认、文件中的安排和没有取得的证据。
+核对日期：**2026-10-29（Asia/Hong_Kong）**。本页只写现在的状态，被替代的说法留在 git 历史里。
+
+**入口**：按对象看 → [参与者 entities](entities/README.md)；按时间看 → [时间线 timeline](timeline/README.md)；按任务看 → [工作流 workstreams](workstreams/README.md)；决定 → [DECISIONS](DECISIONS.md)。
 
 ## 当前研究与执行基线
 
@@ -25,15 +27,17 @@
 
 ## 实地进度（2026-10-29 更新）
 
-2026-10-27 已进行两位参与者的路线观察，2026-10-28 又进行了 Tom 和 Chenggong 两场，原始资料在 Google Drive 与本机 iCloud 的 `Navigation Observations/`：
+2026-10-27 完成三场（P01–P03），2026-10-28 完成两场（P04、P05），原始资料在 Google Drive 与本机 iCloud 的 `Navigation Observations/`：
 
-| 编号 | 资料 | 整理状态 |
+| 编号 | 主页 | 当前状态 |
 |---|---|---|
-| P01 UserA-Sarah | GPX（warm-up＋正式）、40 段研究员语音备忘、DJI 视频 2 段、iPhone 照片／视频；**完整走后访谈整理稿**（组员 10-28 上传） | [视频优先报告](fieldwork/sessions/P01_2026-10-27_video-first-report.md)（逐秒视频编码＋分说话人转写，2026-10-28）；早先的[初稿](fieldwork/sessions/P01_2026-10-27_UserA_observation-analysis.md)；[访谈逐字整理](fieldwork/sessions/P01_2026-10-27_post-walk-interview_transcript.md)、[按问题整理](fieldwork/sessions/P01_2026-10-27_post-walk-interview_by-question.md)；均待团队核对 |
-| P02 UserB-Caicai | Insta360 视频 2 段；**27:53 走后访谈**（录音在 Drive，采访者 Eric）；未见 GPX、备忘或记录表 | [视频优先报告及与 P01 的对照](fieldwork/sessions/P02_2026-10-27_video-first-report.md)（2026-10-28）；[访谈转写与 INT01–INT11 证据](fieldwork/sessions/P02_2026-10-27_interview-transcript-and-evidence.md)（组员整理）；待团队核对 |
-| P03 UserC-Peter（10-27 傍晚） | iPhone 视频 3 段（约 26:20，两处缺口）、GPX（有缺口、早停）、10-28 线上访谈约 15:46 | 组员英文整理：[视频编码](fieldwork/sessions/P03_2026-10-27_detailed-video-coding_EN.md)、[访谈分析](fieldwork/sessions/P03_2026-10-27_interview-analysis_EN.md)、[汇报 brief](fieldwork/sessions/P03_2026-10-27_presentation-brief_EN.md)、[访谈转写](fieldwork/sessions/P03_2026-10-28_interview_transcript.md)；FigJam 另有 V1/V2 |
-| P04 UserD-Tom（2026-10-28） | iPhone 视频（正式＋warm-up）、GPX、3 张屏幕照片；语音备忘在视频音轨中；到达后约 2 分钟现场访谈 | [视频优先报告](fieldwork/sessions/P04_2026-10-28_video-first-report.md)、[筛选版片段编码](fieldwork/sessions/P04_video_coding.md)（已同步 FigJam）；待团队核对 |
-| P05 UserE-Chenggong（2026-10-28） | DJI 视频（约 10 GB）、GPX、研究员语音备忘整理稿；未见走后访谈 | [研究员语音备忘](fieldwork/sessions/P05_2026-10-28_researcher-memo.md)；视频与 GPX 待分析 |
+| P01 Sarah | [P01](entities/participants/P01.md) | 视频优先报告＋完整走后访谈；待团队核对 |
+| P02 Caicai | [P02](entities/participants/P02.md) | 视频优先报告＋27:53 走后访谈；缺 GPX |
+| P03 Peter | [P03](entities/participants/P03.md) | 组员英文编码与访谈分析；G\*／D\* 待改 K |
+| P04 Tom | [P04](entities/participants/P04.md) | 视频优先报告＋筛选版编码；只有现场短访谈 |
+| P05 程功 | [P05](entities/participants/P05.md) | 研究员备忘入库；FigJam 编码待入库；未见访谈 |
+
+资料、编码链接、执行问题和待核事项都在各人主页。
 
 2026-10-29 的进度汇报（[Pre-1028 文字快照](../deliverables/presentations/presentation-03/SLIDE_TEXT.md)）加入了 video memo 筛选数据、一个片段案例、备忘与视频对照和五条候选模式；同日用户决定新增代码统一为 T／K（[D015](DECISIONS.md)），已有编码待回查。
 
